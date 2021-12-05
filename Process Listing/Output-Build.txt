@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: WTS Api, Configuration: Debug x64 ------
+1>Source.cpp
+1>WTS Api.vcxproj -> C:\Users\Windows\source\repos\Process Listing\x64\Debug\WTS Api.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
