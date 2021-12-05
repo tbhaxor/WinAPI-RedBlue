@@ -83,6 +83,11 @@ BOOL AddSeDebugPrivileges() {
 		PrintError("PrivilegeCheck()");
 		return FALSE;
 	}
+
+	CloseHandle(hProc);
+	CloseHandle(hTok);
+	hProc = NULL;
+	hTok = NULL;
 	
 	return bRes;
 }
