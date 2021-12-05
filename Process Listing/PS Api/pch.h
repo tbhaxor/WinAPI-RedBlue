@@ -2,6 +2,9 @@
 #include <Windows.h>
 #include <system_error>
 #include <iostream>
+#include <shellapi.h>
+
+#pragma	comment(lib, "Shell32.lib")
 
 /// <summary>
 /// Format the error message and print the human-readable message from GetLastError()
