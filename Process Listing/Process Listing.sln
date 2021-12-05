@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WTS Api", "WTS Api\WTS Api.vcxproj", "{8FFCDE6B-2244-4579-A36C-0C0BA8B8B7CE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PS Api", "PS Api\PS Api.vcxproj", "{3CB124C3-8199-4934-9452-66752BA0227A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{8FFCDE6B-2244-4579-A36C-0C0BA8B8B7CE}.Release|x64.Build.0 = Release|x64
 		{8FFCDE6B-2244-4579-A36C-0C0BA8B8B7CE}.Release|x86.ActiveCfg = Release|Win32
 		{8FFCDE6B-2244-4579-A36C-0C0BA8B8B7CE}.Release|x86.Build.0 = Release|Win32
+		{3CB124C3-8199-4934-9452-66752BA0227A}.Debug|x64.ActiveCfg = Debug|x64
+		{3CB124C3-8199-4934-9452-66752BA0227A}.Debug|x64.Build.0 = Debug|x64
+		{3CB124C3-8199-4934-9452-66752BA0227A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CB124C3-8199-4934-9452-66752BA0227A}.Debug|x86.Build.0 = Debug|Win32
+		{3CB124C3-8199-4934-9452-66752BA0227A}.Release|x64.ActiveCfg = Release|x64
+		{3CB124C3-8199-4934-9452-66752BA0227A}.Release|x64.Build.0 = Release|x64
+		{3CB124C3-8199-4934-9452-66752BA0227A}.Release|x86.ActiveCfg = Release|Win32
+		{3CB124C3-8199-4934-9452-66752BA0227A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
