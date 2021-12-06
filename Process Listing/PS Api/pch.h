@@ -137,15 +137,15 @@ VOID PrintProcessDetails(DWORD pid) {
 	if (hProc == NULL || hProc == INVALID_HANDLE_VALUE) {
 		// Open the process handle with limited query information if the previous one is failed
 		hProc = OpenProcess(PROCESS_QUERY_LIMITED_INFORMATION, FALSE, pid);
+		// Validate the process handle
+		if (hProc == NULL || hProc == INVALID_HANDLE_VALUE) {
+			PrintError("OpenProcess()");
+			std::cout << "--------------------------------------------------------------------" << std::endl;
+			return;
+		}
 	}
 
-	// Validate the process handle
-	if (hProc == NULL || hProc == INVALID_HANDLE_VALUE) {
-		PrintError("OpenProcess()");
-		std::cout << "--------------------------------------------------------------------" << std::endl;
-		return;
-	}
-
+	
 	BOOL bJob;
 	DWORD dwSize = MAX_PATH, dwExitCode;
 	CHAR szImageName[MAX_PATH];
