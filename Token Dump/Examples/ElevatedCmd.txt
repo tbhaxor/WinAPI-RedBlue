@@ -1,2 +1,128 @@
-[ERR:87] OpenProcess(): The parameter is incorrect.
-[ERR:6] OpenProcessToken(): The handle is invalid.
+[+] Basic Process Details
+	Process ID: 8228
+	Parent Process ID: 4472
+	Process Name: cmd.exe
+[+] User Details
+	SID: S-1-5-21-1018834677-2231998434-3264582998-1001
+	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+[+] Groups
+	[ 1] SID: S-1-5-21-1018834677-2231998434-3264582998-513
+	     Domain\Account (Type): DESKTOP-PDLDOVI\None (Group)
+	[ 2] SID: S-1-1-0
+	     Domain\Account (Type): \Everyone (Well Known Group)
+	[ 3] SID: S-1-5-114
+	     Domain\Account (Type): NT AUTHORITY\Local account and member of Administrators group (Well Known Group)
+	[ 4] SID: S-1-5-32-544
+	     Domain\Account (Type): BUILTIN\Administrators (Alias)
+	[ 5] SID: S-1-5-32-559
+	     Domain\Account (Type): BUILTIN\Performance Log Users (Alias)
+	[ 6] SID: S-1-5-32-545
+	     Domain\Account (Type): BUILTIN\Users (Alias)
+	[ 7] SID: S-1-5-4
+	     Domain\Account (Type): NT AUTHORITY\INTERACTIVE (Well Known Group)
+	[ 8] SID: S-1-2-1
+	     Domain\Account (Type): \CONSOLE LOGON (Well Known Group)
+	[ 9] SID: S-1-5-11
+	     Domain\Account (Type): NT AUTHORITY\Authenticated Users (Well Known Group)
+	[10] SID: S-1-5-15
+	     Domain\Account (Type): NT AUTHORITY\This Organization (Well Known Group)
+	[11] SID: S-1-5-113
+	     Domain\Account (Type): NT AUTHORITY\Local account (Well Known Group)
+	[12] SID: S-1-5-5-0-1102013
+	     Domain\Account (Type): NT AUTHORITY\LogonSessionId_0_1102013 (Logon Session)
+	[13] SID: S-1-2-0
+	     Domain\Account (Type): \LOCAL (Well Known Group)
+	[14] SID: S-1-5-64-10
+	     Domain\Account (Type): NT AUTHORITY\NTLM Authentication (Well Known Group)
+	[15] SID: S-1-16-12288
+	     Domain\Account (Type): Mandatory Label\High Mandatory Level (Label)
+[+] Token Privileges
+	[ 1] Name: SeIncreaseQuotaPrivilege
+	     Description: Adjust memory quotas for a process
+	     Status: Disabled
+	[ 2] Name: SeSecurityPrivilege
+	     Description: Manage auditing and security log
+	     Status: Disabled
+	[ 3] Name: SeTakeOwnershipPrivilege
+	     Description: Take ownership of files or other objects
+	     Status: Disabled
+	[ 4] Name: SeLoadDriverPrivilege
+	     Description: Load and unload device drivers
+	     Status: Disabled
+	[ 5] Name: SeSystemProfilePrivilege
+	     Description: Profile system performance
+	     Status: Disabled
+	[ 6] Name: SeSystemtimePrivilege
+	     Description: Change the system time
+	     Status: Disabled
+	[ 7] Name: SeProfileSingleProcessPrivilege
+	     Description: Profile single process
+	     Status: Disabled
+	[ 8] Name: SeIncreaseBasePriorityPrivilege
+	     Description: Increase scheduling priority
+	     Status: Disabled
+	[ 9] Name: SeCreatePagefilePrivilege
+	     Description: Create a pagefile
+	     Status: Disabled
+	[10] Name: SeBackupPrivilege
+	     Description: Back up files and directories
+	     Status: Disabled
+	[11] Name: SeRestorePrivilege
+	     Description: Restore files and directories
+	     Status: Disabled
+	[12] Name: SeShutdownPrivilege
+	     Description: Shut down the system
+	     Status: Disabled
+	[13] Name: SeDebugPrivilege
+	     Description: Debug programs
+	     Status: Disabled
+	[14] Name: SeSystemEnvironmentPrivilege
+	     Description: Modify firmware environment values
+	     Status: Disabled
+	[15] Name: SeChangeNotifyPrivilege
+	     Description: Bypass traverse checking
+	     Status: Enabled by Default
+	[16] Name: SeRemoteShutdownPrivilege
+	     Description: Force shutdown from a remote system
+	     Status: Disabled
+	[17] Name: SeUndockPrivilege
+	     Description: Remove computer from docking station
+	     Status: Disabled
+	[18] Name: SeManageVolumePrivilege
+	     Description: Perform volume maintenance tasks
+	     Status: Disabled
+	[19] Name: SeImpersonatePrivilege
+	     Description: Impersonate a client after authentication
+	     Status: Enabled by Default
+	[20] Name: SeCreateGlobalPrivilege
+	     Description: Create global objects
+	     Status: Enabled by Default
+	[21] Name: SeIncreaseWorkingSetPrivilege
+	     Description: Increase a process working set
+	     Status: Disabled
+	[22] Name: SeTimeZonePrivilege
+	     Description: Change the time zone
+	     Status: Disabled
+	[23] Name: SeCreateSymbolicLinkPrivilege
+	     Description: Create symbolic links
+	     Status: Disabled
+	[24] Name: SeDelegateSessionUserImpersonatePrivilege
+	     Description: Obtain an impersonation token for another user in the same session
+	     Status: Disabled
+[+] Token Owner: 
+	SID: S-1-5-32-544
+	Domain\Account (Type): BUILTIN\Administrators (Alias)
+[+] Token Primary Group: 
+	SID: S-1-5-21-1018834677-2231998434-3264582998-513
+	Domain\Account (Type): DESKTOP-PDLDOVI\None (Group)
+[+] Token Source: User32 
+[+] Token Type: Primary
+[+] Token Elevation
+	Status: Elevated
+	Type: Full - The token is an elevated token
+[+] Is Token Restricted: No
+[+] Token Virtualization
+	Is Allowed: No
+	Is Enabled: No
+[+] UI Access: No
+[+] Token Policy: Can not write to objects that have a greater mandatory integrity level
