@@ -1,0 +1,2 @@
+[ERR:87] OpenProcess(): The parameter is incorrect.
+[ERR:6] OpenProcessToken(): The handle is invalid.

@@ -1,0 +1,70 @@
+[+] Basic Process Details
+	Process ID: 10000
+	Parent Process ID: 4472
+	Process Name: notepad.exe
+[+] User Details
+	SID: S-1-5-21-1018834677-2231998434-3264582998-1001
+	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+[+] Groups
+	[ 1] SID: S-1-5-21-1018834677-2231998434-3264582998-513
+	     Domain\Account (Type): DESKTOP-PDLDOVI\None (Group)
+	[ 2] SID: S-1-1-0
+	     Domain\Account (Type): \Everyone (Well Known Group)
+	[ 3] SID: S-1-5-114
+	     Domain\Account (Type): NT AUTHORITY\Local account and member of Administrators group (Well Known Group)
+	[ 4] SID: S-1-5-32-544
+	     Domain\Account (Type): BUILTIN\Administrators (Alias)
+	[ 5] SID: S-1-5-32-559
+	     Domain\Account (Type): BUILTIN\Performance Log Users (Alias)
+	[ 6] SID: S-1-5-32-545
+	     Domain\Account (Type): BUILTIN\Users (Alias)
+	[ 7] SID: S-1-5-4
+	     Domain\Account (Type): NT AUTHORITY\INTERACTIVE (Well Known Group)
+	[ 8] SID: S-1-2-1
+	     Domain\Account (Type): \CONSOLE LOGON (Well Known Group)
+	[ 9] SID: S-1-5-11
+	     Domain\Account (Type): NT AUTHORITY\Authenticated Users (Well Known Group)
+	[10] SID: S-1-5-15
+	     Domain\Account (Type): NT AUTHORITY\This Organization (Well Known Group)
+	[11] SID: S-1-5-113
+	     Domain\Account (Type): NT AUTHORITY\Local account (Well Known Group)
+	[12] SID: S-1-5-5-0-1102013
+	     Domain\Account (Type): NT AUTHORITY\LogonSessionId_0_1102013 (Logon Session)
+	[13] SID: S-1-2-0
+	     Domain\Account (Type): \LOCAL (Well Known Group)
+	[14] SID: S-1-5-64-10
+	     Domain\Account (Type): NT AUTHORITY\NTLM Authentication (Well Known Group)
+	[15] SID: S-1-16-8192
+	     Domain\Account (Type): Mandatory Label\Medium Mandatory Level (Label)
+[+] Token Privileges
+	[ 1] Name: SeShutdownPrivilege
+	     Description: Shut down the system
+	     Status: Disabled
+	[ 2] Name: SeChangeNotifyPrivilege
+	     Description: Bypass traverse checking
+	     Status: Enabled by Default
+	[ 3] Name: SeUndockPrivilege
+	     Description: Remove computer from docking station
+	     Status: Disabled
+	[ 4] Name: SeIncreaseWorkingSetPrivilege
+	     Description: Increase a process working set
+	     Status: Disabled
+	[ 5] Name: SeTimeZonePrivilege
+	     Description: Change the time zone
+	     Status: Disabled
+[+] Token Owner: 
+	SID: S-1-5-21-1018834677-2231998434-3264582998-1001
+	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+[+] Token Primary Group: 
+	SID: S-1-5-21-1018834677-2231998434-3264582998-513
+	Domain\Account (Type): DESKTOP-PDLDOVI\None (Group)
+[+] Token Source: User32 
+[+] Token Type: Primary
+[+] Token Elevation
+	Status: Not Elevated
+[+] Is Token Restricted: Yes
+[+] Token Virtualization
+	Is Allowed: Yes
+	Is Enabled: No
+[+] UI Access: No
+[+] Token Policy: Both of NO_WRITE_UP and NEW_PROCESS_MIN flags are set
