@@ -19,7 +19,7 @@ INT main(VOID) {
 
 	// Craft parameters for WTSEnumerateProcessesExA()
 	DWORD dwLevel = 0x1;
-	PWTS_PROCESS_INFO_EXA pProcesses = NULL;
+	PWTS_PROCESS_INFO_EXA pProcesses = nullptr;
 	DWORD dwProcessCount = 0x0;
 
 	// Get the pointer processes informations for the current server handle and any user session
@@ -46,7 +46,7 @@ INT main(VOID) {
 		std::cout << "# Handles: " << (pProcesses + c)->HandleCount << "\t\t# Threads: " << (pProcesses + c)->NumberOfThreads << std::endl;
 		
 		// Convert the SID to the string
-		LPSTR lpSID = NULL;
+		LPSTR lpSID = nullptr;
 		if (!ConvertSidToStringSidA((pProcesses + c)->pUserSid, &lpSID)) {
 			std::cout << "Account SID: " << "N/A";
 		} else {
@@ -61,7 +61,7 @@ INT main(VOID) {
 		
 		// Get the account and domain information from the SID of the process
 		if (!LookupAccountSidA(
-			NULL,
+			nullptr,
 			(pProcesses + c)->pUserSid,
 			szAccountName,
 			&dwMaxPathAccount,
@@ -78,7 +78,7 @@ INT main(VOID) {
 	}
 
 	WTSFreeMemoryExA(WTSTypeProcessInfoLevel1, (PVOID)pProcesses, dwProcessCount);
-	pProcesses = NULL;
+	pProcesses = nullptr;
 
 	system("pause");
 	return 0;
