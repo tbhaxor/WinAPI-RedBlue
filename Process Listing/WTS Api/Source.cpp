@@ -10,7 +10,7 @@
 #pragma comment(lib, "Wtsapi32.lib")
 #pragma comment(lib, "Advapi32.lib")
 
-INT wmain(VOID) {
+INT main(VOID) {
 	// Add and confirm the debug privileges before doing anything
 	if (!AddSeDebugPrivileges()) {
 		// Try to evelate the process with administrator permissions with UAC prompt and exit
