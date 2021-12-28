@@ -41,24 +41,24 @@ BOOL AddSeDebugPrivileges() {
 	// Get the current process handle
 	DWORD dwPid = GetCurrentProcessId();
 	HANDLE hProc = OpenProcess(PROCESS_QUERY_INFORMATION, FALSE, dwPid);
-	if (hProc == NULL || hProc == INVALID_HANDLE_VALUE) {
+	if (hProc == nullptr || hProc == INVALID_HANDLE_VALUE) {
 		PrintError("OpenProcess()");
 		return FALSE;
 	}
 
 	// Get the token handle with query information and adjust privileges access
-	HANDLE hTok = NULL;
+	HANDLE hTok = nullptr;
 	if (!OpenProcessToken(hProc, TOKEN_QUERY | TOKEN_ADJUST_PRIVILEGES, &hTok)) {
 		PrintError("OpenProcessToken()");
 		return FALSE;
-	} else if(hTok == NULL || hTok == INVALID_HANDLE_VALUE) {
+	} else if(hTok == nullptr || hTok == INVALID_HANDLE_VALUE) {
 		PrintError("OpenProcessToken()");
 		return FALSE;
 	}
 
 	// Get the value of SeDebugPrivilege from text
 	LUID pDebugPriv;
-	if (!LookupPrivilegeValueA(NULL, "SeDebugPrivilege", &pDebugPriv)) {
+	if (!LookupPrivilegeValueA(nullptr, "SeDebugPrivilege", &pDebugPriv)) {
 		PrintError("LookupPrivilegeValueA()");
 		return FALSE;
 	}
@@ -68,7 +68,7 @@ BOOL AddSeDebugPrivileges() {
 	tokPrivs.PrivilegeCount = 1;
 	tokPrivs.Privileges[0].Luid = pDebugPriv;
 	tokPrivs.Privileges[0].Attributes = SE_PRIVILEGE_ENABLED;
-	if (!AdjustTokenPrivileges(hTok, FALSE, &tokPrivs, sizeof(tokPrivs), NULL, NULL)) {
+	if (!AdjustTokenPrivileges(hTok, FALSE, &tokPrivs, NULL, nullptr, nullptr)) {
 		PrintError("AdjustTokenPrivileges()");
 		return FALSE;
 	}
@@ -86,8 +86,8 @@ BOOL AddSeDebugPrivileges() {
 
 	CloseHandle(hProc);
 	CloseHandle(hTok);
-	hProc = NULL;
-	hTok = NULL;
+	hProc = nullptr;
+	hTok = nullptr;
 	
 	return bRes;
 }
@@ -98,7 +98,7 @@ BOOL AddSeDebugPrivileges() {
 VOID SpawnElevatedProcess() {
 	// Get current process image file path
 	CHAR szFileName[MAX_PATH];
-	if (!GetModuleFileNameA(NULL, szFileName, MAX_PATH)) {
+	if (!GetModuleFileNameA(nullptr, szFileName, MAX_PATH)) {
 		PrintError("GetModuleFileNameA()", TRUE);
 	}
 	
@@ -106,11 +106,11 @@ VOID SpawnElevatedProcess() {
 	SHELLEXECUTEINFOA si;
 	si.cbSize = sizeof(SHELLEXECUTEINFOA);
 	si.fMask = SEE_MASK_DEFAULT;
-	si.hwnd = NULL;
+	si.hwnd = nullptr;
 	si.lpVerb = "runas"; // to show UAC window
 	si.lpFile = szFileName;
-	si.lpParameters = NULL;
-	si.lpDirectory = NULL;
+	si.lpParameters = nullptr;
+	si.lpDirectory = nullptr;
 	si.nShow = SW_NORMAL;
 
 	// Start the process with elevated UAC 
