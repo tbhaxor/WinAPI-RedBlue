@@ -41,17 +41,17 @@ BOOL AddSeDebugPrivileges() {
 	// Get the current process handle
 	DWORD dwPid = GetCurrentProcessId();
 	HANDLE hProc = OpenProcess(PROCESS_QUERY_INFORMATION, FALSE, dwPid);
-	if (hProc == nullptr || hProc == INVALID_HANDLE_VALUE) {
+	if (hProc == NULL) {
 		PrintError("OpenProcess()");
 		return FALSE;
 	}
 
 	// Get the token handle with query information and adjust privileges access
-	HANDLE hTok = nullptr;
+	HANDLE hTok = INVALID_HANDLE_VALUE;
 	if (!OpenProcessToken(hProc, TOKEN_QUERY | TOKEN_ADJUST_PRIVILEGES, &hTok)) {
 		PrintError("OpenProcessToken()");
 		return FALSE;
-	} else if(hTok == nullptr || hTok == INVALID_HANDLE_VALUE) {
+	} else if(hTok == NULL || hTok == INVALID_HANDLE_VALUE) {
 		PrintError("OpenProcessToken()");
 		return FALSE;
 	}
