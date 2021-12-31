@@ -227,7 +227,7 @@ VOID ListProcessThreads(DWORD dwPID) {
 VOID ListProcessModules(DWORD dwPID) {
 	// Create and validate snapshot
 	// If the handle is invalid or null, return the function immediately
-	HANDLE hModules = CreateToolhelp32Snapshot(TH32CS_SNAPMODULE32, dwPID);
+	HANDLE hModules = CreateToolhelp32Snapshot(TH32CS_SNAPMODULE | TH32CS_SNAPMODULE32, dwPID);
 	if (hModules == NULL || hModules == INVALID_HANDLE_VALUE) {
 		PrintError("CreateToolhelp32Snapshot()");
 		return;
