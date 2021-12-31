@@ -1,0 +1,566 @@
+Total processes found: 141
+PID: 4		Process Name: Sys
+# Handles: 2723		# Threads: 116
+Account SID: N/A	Domain\Account (Type): N/A (N/A)
+---------------------------------------------------------------------
+PID: 108		Process Name: Regi
+# Handles: 0		# Threads: 4
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 376		Process Name: smss
+# Handles: 53		# Threads: 2
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 476		Process Name: csrs
+# Handles: 480		# Threads: 11
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 552		Process Name: csrs
+# Handles: 520		# Threads: 13
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 604		Process Name: winlog
+# Handles: 277		# Threads: 5
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 624		Process Name: winin
+# Handles: 162		# Threads: 1
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 696		Process Name: servic
+# Handles: 614		# Threads: 7
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 716		Process Name: lsas
+# Handles: 1358		# Threads: 9
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 836		Process Name: svcho
+# Handles: 1458		# Threads: 24
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 872		Process Name: fontdrv
+# Handles: 37		# Threads: 5
+Account SID: S-1-5-96-0-1	Domain\Account (Type): Font Driver Host\UMFD-1 (Well Known Group)
+---------------------------------------------------------------------
+PID: 880		Process Name: fontdrv
+# Handles: 37		# Threads: 5
+Account SID: S-1-5-96-0-0	Domain\Account (Type): Font Driver Host\UMFD-0 (Well Known Group)
+---------------------------------------------------------------------
+PID: 968		Process Name: svcho
+# Handles: 1157		# Threads: 11
+Account SID: S-1-5-20	Domain\Account (Type): NT AUTHORITY\NETWORK SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 68		Process Name: svcho
+# Handles: 277		# Threads: 5
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 548		Process Name: dwm
+# Handles: 889		# Threads: 14
+Account SID: S-1-5-90-0-1	Domain\Account (Type): Window Manager\DWM-1 (Well Known Group)
+---------------------------------------------------------------------
+PID: 856		Process Name: svcho
+# Handles: 217		# Threads: 2
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1040		Process Name: svcho
+# Handles: 274		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1212		Process Name: svcho
+# Handles: 396		# Threads: 6
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1236		Process Name: VBoxSer
+# Handles: 198		# Threads: 11
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1268		Process Name: svcho
+# Handles: 146		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1292		Process Name: svcho
+# Handles: 230		# Threads: 6
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1380		Process Name: svcho
+# Handles: 387		# Threads: 5
+Account SID: S-1-5-20	Domain\Account (Type): NT AUTHORITY\NETWORK SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1440		Process Name: svcho
+# Handles: 245		# Threads: 2
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1448		Process Name: svcho
+# Handles: 235		# Threads: 3
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1460		Process Name: svcho
+# Handles: 166		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1468		Process Name: svcho
+# Handles: 194		# Threads: 3
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1568		Process Name: svcho
+# Handles: 398		# Threads: 8
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1636		Process Name: svcho
+# Handles: 164		# Threads: 2
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1680		Process Name: svcho
+# Handles: 140		# Threads: 2
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1688		Process Name: svcho
+# Handles: 145		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1728		Process Name: Memory Co
+# Handles: 0		# Threads: 34
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1848		Process Name: svcho
+# Handles: 405		# Threads: 8
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1896		Process Name: svcho
+# Handles: 206		# Threads: 5
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1980		Process Name: svcho
+# Handles: 268		# Threads: 9
+Account SID: S-1-5-20	Domain\Account (Type): NT AUTHORITY\NETWORK SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1988		Process Name: svcho
+# Handles: 362		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1996		Process Name: svcho
+# Handles: 129		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 1376		Process Name: svcho
+# Handles: 189		# Threads: 2
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 1780		Process Name: svcho
+# Handles: 306		# Threads: 7
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2100		Process Name: spool
+# Handles: 493		# Threads: 7
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2160		Process Name: svcho
+# Handles: 138		# Threads: 1
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2168		Process Name: svcho
+# Handles: 201		# Threads: 2
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2296		Process Name: svcho
+# Handles: 421		# Threads: 12
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2344		Process Name: svcho
+# Handles: 180		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2492		Process Name: svcho
+# Handles: 186		# Threads: 5
+Account SID: S-1-5-20	Domain\Account (Type): NT AUTHORITY\NETWORK SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2568		Process Name: svcho
+# Handles: 260		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2596		Process Name: svcho
+# Handles: 396		# Threads: 11
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2672		Process Name: svcho
+# Handles: 261		# Threads: 4
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2680		Process Name: svcho
+# Handles: 166		# Threads: 3
+Account SID: S-1-5-20	Domain\Account (Type): NT AUTHORITY\NETWORK SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2732		Process Name: svcho
+# Handles: 153		# Threads: 2
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2744		Process Name: svcho
+# Handles: 334		# Threads: 15
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2752		Process Name: svcho
+# Handles: 519		# Threads: 10
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2760		Process Name: svcho
+# Handles: 362		# Threads: 7
+Account SID: S-1-5-20	Domain\Account (Type): NT AUTHORITY\NETWORK SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2780		Process Name: svcho
+# Handles: 365		# Threads: 5
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2844		Process Name: svcho
+# Handles: 125		# Threads: 3
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2872		Process Name: svcho
+# Handles: 367		# Threads: 7
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2932		Process Name: Service
+# Handles: 389		# Threads: 6
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 3004		Process Name: svcho
+# Handles: 103		# Threads: 5
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2368		Process Name: svcho
+# Handles: 209		# Threads: 5
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 3628		Process Name: svcho
+# Handles: 133		# Threads: 1
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 3664		Process Name: dasHo
+# Handles: 351		# Threads: 3
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 3704		Process Name: svcho
+# Handles: 217		# Threads: 6
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 3456		Process Name: svcho
+# Handles: 121		# Threads: 1
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 3496		Process Name: svcho
+# Handles: 331		# Threads: 7
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 3092		Process Name: SgrmBro
+# Handles: 105		# Threads: 7
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 3180		Process Name: svcho
+# Handles: 216		# Threads: 1
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2024		Process Name: svcho
+# Handles: 197		# Threads: 5
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 2380		Process Name: svcho
+# Handles: 295		# Threads: 3
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 3672		Process Name: svcho
+# Handles: 488		# Threads: 5
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 2400		Process Name: taskho
+# Handles: 291		# Threads: 8
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 792		Process Name: sihos
+# Handles: 543		# Threads: 14
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 2840		Process Name: procex
+# Handles: 541		# Threads: 6
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 544		Process Name: svcho
+# Handles: 166		# Threads: 3
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2284		Process Name: ctfmo
+# Handles: 418		# Threads: 9
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 2436		Process Name: svcho
+# Handles: 294		# Threads: 9
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 3020		Process Name: svcho
+# Handles: 189		# Threads: 5
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2976		Process Name: svcho
+# Handles: 386		# Threads: 11
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 4188		Process Name: explor
+# Handles: 1988		# Threads: 47
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 4392		Process Name: svcho
+# Handles: 292		# Threads: 6
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 4648		Process Name: svcho
+# Handles: 216		# Threads: 8
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 4772		Process Name: StartMenuExpe
+# Handles: 660		# Threads: 11
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 4864		Process Name: RuntimeB
+# Handles: 336		# Threads: 11
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 4980		Process Name: Search
+# Handles: 1088		# Threads: 35
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5040		Process Name: SearchIn
+# Handles: 696		# Threads: 16
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 768		Process Name: RuntimeB
+# Handles: 452		# Threads: 5
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 4176		Process Name: SecurityHeal
+# Handles: 399		# Threads: 9
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 4676		Process Name: VBoxTr
+# Handles: 251		# Threads: 11
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5576		Process Name: DpEdit
+# Handles: 164		# Threads: 8
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5312		Process Name: OneDri
+# Handles: 712		# Threads: 18
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5228		Process Name: msedg
+# Handles: 1078		# Threads: 26
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 2692		Process Name: msedg
+# Handles: 136		# Threads: 7
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 1200		Process Name: msedg
+# Handles: 1476		# Threads: 10
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 4172		Process Name: msedg
+# Handles: 246		# Threads: 9
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 3068		Process Name: msedg
+# Handles: 205		# Threads: 7
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6532		Process Name: svcho
+# Handles: 157		# Threads: 1
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 6800		Process Name: svcho
+# Handles: 246		# Threads: 7
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 6904		Process Name: svcho
+# Handles: 463		# Threads: 9
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6288		Process Name: ShellExperi
+# Handles: 597		# Threads: 16
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 204		Process Name: RuntimeB
+# Handles: 208		# Threads: 2
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5232		Process Name: svcho
+# Handles: 200		# Threads: 3
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 5584		Process Name: svcho
+# Handles: 203		# Threads: 4
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 3100		Process Name: SystemSet
+# Handles: 804		# Threads: 17
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6976		Process Name: ApplicationF
+# Handles: 328		# Threads: 2
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6072		Process Name: UserOOBEB
+# Handles: 141		# Threads: 4
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5640		Process Name: svcho
+# Handles: 269		# Threads: 3
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 6620		Process Name: RuntimeB
+# Handles: 267		# Threads: 1
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 4340		Process Name: Microsoft.
+# Handles: 691		# Threads: 14
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5344		Process Name: RuntimeB
+# Handles: 380		# Threads: 6
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 1776		Process Name: deven
+# Handles: 1888		# Threads: 69
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 1612		Process Name: PerfWat
+# Handles: 1059		# Threads: 18
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 1136		Process Name: Microsoft.Service
+# Handles: 953		# Threads: 13
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 7048		Process Name: ServiceHub.VSD
+# Handles: 1038		# Threads: 13
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6932		Process Name: ServiceHub.Id
+# Handles: 1002		# Threads: 20
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 7032		Process Name: ServiceHub.Se
+# Handles: 1203		# Threads: 27
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6452		Process Name: ServiceHub.Ho
+# Handles: 1031		# Threads: 24
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 3188		Process Name: TextInpu
+# Handles: 530		# Threads: 9
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6064		Process Name: ServiceHub.Threa
+# Handles: 836		# Threads: 13
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 1600		Process Name: ServiceHub.Ho
+# Handles: 944		# Threads: 11
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 7468		Process Name: vcpkgs
+# Handles: 205		# Threads: 15
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 7624		Process Name: ServiceHub.
+# Handles: 1261		# Threads: 11
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 8084		Process Name: ServiceHub.TestWi
+# Handles: 1050		# Threads: 11
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 8128		Process Name: vcpkgs
+# Handles: 184		# Threads: 7
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 3912		Process Name: cmd
+# Handles: 83		# Threads: 1
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 2832		Process Name: conho
+# Handles: 190		# Threads: 3
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5712		Process Name: svcho
+# Handles: 189		# Threads: 4
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 9468		Process Name: vcpkgs
+# Handles: 209		# Threads: 16
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 7572		Process Name: svcho
+# Handles: 109		# Threads: 3
+Account SID: S-1-5-19	Domain\Account (Type): NT AUTHORITY\LOCAL SERVICE (Well Known Group)
+---------------------------------------------------------------------
+PID: 10056		Process Name: cmd
+# Handles: 85		# Threads: 1
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 8868		Process Name: conho
+# Handles: 189		# Threads: 4
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 9512		Process Name: ServiceHub.RoslynCod
+# Handles: 889		# Threads: 21
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6220		Process Name: svcho
+# Handles: 311		# Threads: 14
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 2828		Process Name: svcho
+# Handles: 126		# Threads: 7
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 9820		Process Name: backgroundT
+# Handles: 319		# Threads: 11
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 6436		Process Name: HxTs
+# Handles: 422		# Threads: 20
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 4136		Process Name: RuntimeB
+# Handles: 151		# Threads: 7
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 5788		Process Name: RuntimeB
+# Handles: 200		# Threads: 7
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 9896		Process Name: RuntimeB
+# Handles: 142		# Threads: 8
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 1704		Process Name: RuntimeB
+# Handles: 433		# Threads: 14
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+PID: 8208		Process Name: MoUsoCore
+# Handles: 194		# Threads: 11
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 8384		Process Name: svcho
+# Handles: 152		# Threads: 8
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 7784		Process Name: svcho
+# Handles: 151		# Threads: 7
+Account SID: S-1-5-18	Domain\Account (Type): NT AUTHORITY\SYSTEM (Well Known Group)
+---------------------------------------------------------------------
+PID: 9932		Process Name: WTS A
+# Handles: 76		# Threads: 4
+Account SID: S-1-5-21-1018834677-2231998434-3264582998-1001	Domain\Account (Type): DESKTOP-PDLDOVI\Windows (User)
+---------------------------------------------------------------------
+Press any key to continue . . . 
