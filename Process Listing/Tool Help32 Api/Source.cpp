@@ -10,7 +10,7 @@ int wmain() {
 
 	// Get snapshot of all the processes
 	HANDLE hSnapShot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, 0x0);
-		if (hSnapShot == NULL || hSnapShot == INVALID_HANDLE_VALUE) {
+	if (hSnapShot == INVALID_HANDLE_VALUE) {
 		PrintError("CreateToolhelp32Snapshot()", TRUE);
 	}
 	PROCESSENTRY32 pe;
