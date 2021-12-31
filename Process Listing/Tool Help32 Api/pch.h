@@ -33,6 +33,35 @@ VOID PrintError(LPCSTR Function, BOOL Exit = FALSE) {
 	}
 }
 
+/// <summary>
+/// Launch an elevated process with administator privilegesand exit the current process
+/// </summary>
+VOID SpawnElevatedProcess() {
+	// Get current process image file path
+	CHAR szFileName[MAX_PATH];
+	if (!GetModuleFileNameA(nullptr, szFileName, MAX_PATH)) {
+		PrintError("GetModuleFileNameA()", TRUE);
+	}
+
+	// Craft the file execution information for ShellExecuteExA function
+	SHELLEXECUTEINFOA si;
+	si.cbSize = sizeof(SHELLEXECUTEINFOA);
+	si.fMask = SEE_MASK_DEFAULT;
+	si.hwnd = nullptr;
+	si.lpVerb = "runas"; // to show UAC window
+	si.lpFile = szFileName;
+	si.lpParameters = nullptr;
+	si.lpDirectory = nullptr;
+	si.nShow = SW_NORMAL;
+
+	// Start the process with elevated UAC 
+	if (!ShellExecuteExA(&si)) {
+		PrintError("ShellExecuteExA()", TRUE);
+	}
+
+	// Exit the current process as it is no longer needed
+	exit(1);
+}
 
 /// <summary>
 /// Add "SeDebugPrivilege" to the current running process by adjusting token privileges and verify the details.

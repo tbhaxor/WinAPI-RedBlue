@@ -5,7 +5,7 @@
 int wmain() {
 	// Add the SeDebugPrivilege if available or continue unprivilege process
 	if (!AddSeDebugPrivileges()) {
-		PrintError("AddSeDebugPrivileges()");
+		SpawnElevatedProcess();
 	}
 
 	// Get snapshot of all the processes
