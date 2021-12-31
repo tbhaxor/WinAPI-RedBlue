@@ -243,9 +243,9 @@ VOID ListProcessModules(DWORD dwPID) {
 		std::wcout << L"Modules: " << std::endl;
 
 		do {
-			std::wcout << L"\tMID: " << me.th32ModuleID << L"\tName: " << me.szModule << "\tExecutable: " << me.szExePath << std::endl;
-			std::wcout << L"\t# Global Reference: " << me.GlblcntUsage << "\t# Process Reference" << me.ProccntUsage << std::endl;
-			std::wcout << L"\tBase Address: " << std::hex << me.modBaseAddr << "\tBase Size: " << me.modBaseSize << std::endl;
+			std::wcout << L"\tName: " << me.szModule << "\tExecutable: " << me.szExePath << std::endl;
+			std::wcout << L"\t# Global Reference: " << me.GlblcntUsage << "\t# Process Reference: " << me.ProccntUsage << std::endl;
+			std::wcout << L"\tBase Address: 0x" << std::hex << me.modBaseAddr << std::dec << "\tBase Size: " << me.modBaseSize << std::endl;
 			std::wcout << "\t-------------------------------------------------------------\n";
 		} while (Module32Next(hModules, &me));
 	}
