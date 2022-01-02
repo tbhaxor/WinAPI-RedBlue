@@ -1,665 +1,2310 @@
-PID: 4
-Is Process in Job: No
-Process Image Name: 
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 108
-Is Process in Job: No
-Process Image Name: Registry
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 376
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\smss.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 476
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\csrss.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 552
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\csrss.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 604
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\winlogon.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 624
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\wininit.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 696
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\services.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 716
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\lsass.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 836
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 872
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\fontdrvhost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 880
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\fontdrvhost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 968
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 68
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 548
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\dwm.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 856
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1040
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1212
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1236
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\VBoxService.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1268
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1292
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1380
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1440
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1448
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1460
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1468
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1568
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1636
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1680
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1688
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1728
-Is Process in Job: No
-Process Image Name: MemCompression
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1848
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1896
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1980
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1988
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1996
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1376
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1780
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2100
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\spoolsv.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2160
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2168
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2296
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2344
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2492
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2568
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2596
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2672
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2680
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2732
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2744
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2752
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2760
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2780
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2844
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2872
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2932
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Program Files\KMSpico\Service_KMS.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3004
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2368
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3628
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3664
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\dasHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3704
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3456
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3496
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3092
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\SgrmBroker.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3180
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2024
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2380
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3672
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2400
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\taskhostw.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 792
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\sihost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2840
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Users\Windows\Desktop\procexp64.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 544
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2284
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\ctfmon.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2436
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3020
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2976
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4188
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\explorer.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4392
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4648
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4772
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4864
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\RuntimeBroker.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4980
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5040
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\SearchIndexer.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 768
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\RuntimeBroker.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4176
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\SecurityHealthService.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4676
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\VBoxTray.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5576
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Users\Windows\AppData\Roaming\NCH Software\DrawPad\DpEditor.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5312
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Users\Windows\AppData\Local\Microsoft\OneDrive\OneDrive.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5228
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2692
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1200
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4172
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3068
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6532
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6800
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6904
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6288
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 204
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\RuntimeBroker.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5232
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5584
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3100
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\ImmersiveControlPanel\SystemSettings.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6976
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\ApplicationFrameHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6072
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\oobe\UserOOBEBroker.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5640
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6620
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\RuntimeBroker.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 4340
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5344
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\RuntimeBroker.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1776
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1612
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1136
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 7048
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.VSDetouredHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6932
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 7032
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6452
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3188
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6064
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 1600
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 7468
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\vcpkgsrv.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 7624
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.Host.CLR.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 8084
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.TestWindowStoreHost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 8128
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\vcpkgsrv.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 3912
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\cmd.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 2832
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\conhost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5712
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 9468
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\vcpkgsrv.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 7572
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 10056
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\cmd.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 8868
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\conhost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 9512
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 5764
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 680
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\conhost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 6220
-Is Process in Job: Yes
-Process Image Name: \Device\HarddiskVolume2\Windows\System32\svchost.exe
-Exit Code: Still Active
---------------------------------------------------------------------
-PID: 9804
-Is Process in Job: No
-Process Image Name: \Device\HarddiskVolume2\Users\Windows\source\repos\Process Listing\x64\Debug\PS Api.exe
-Exit Code: Still Active
---------------------------------------------------------------------
+Total Processes: 135
+Process ID: 4
+[ERR:5] OpenProcess(): Access is denied.
+-------------------------------------------------
+Process ID: 108
+[ERR:5] OpenProcess(): Access is denied.
+-------------------------------------------------
+Process ID: 356
+[ERR:5] OpenProcess(): Access is denied.
+-------------------------------------------------
+Process ID: 472
+[ERR:5] OpenProcess(): Access is denied.
+-------------------------------------------------
+Process ID: 572
+[ERR:5] OpenProcess(): Access is denied.
+-------------------------------------------------
+Process ID: 692
+[ERR:5] OpenProcess(): Access is denied.
+-------------------------------------------------
+Process ID: 712	Process Name: lsass.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\lsass.exe
+Modules List: 95 modules found
+	Ordinal Number: 0	Name: lsass.exe
+	File Name: C:\Windows\system32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x00007FF7430D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 5	Name: lsasrv.dll
+	File Name: C:\Windows\system32\lsasrv.dll
+	Entry Point: 0x00007FF98F2DE690		Base of DLL: 0x00007FF98F280000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: WS2_32.dll
+	File Name: C:\Windows\System32\WS2_32.dll
+	Entry Point: 0x00007FF991164300		Base of DLL: 0x00007FF991150000		Size of Image: 428 KB
+	----------------------
+	Ordinal Number: 8	Name: SspiCli.dll
+	File Name: C:\Windows\system32\SspiCli.dll
+	Entry Point: 0x00007FF98F5CE390		Base of DLL: 0x00007FF98F5C0000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 9	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 10	Name: WLDAP32.dll
+	File Name: C:\Windows\System32\WLDAP32.dll
+	Entry Point: 0x00007FF991252840		Base of DLL: 0x00007FF991250000		Size of Image: 344 KB
+	----------------------
+	Ordinal Number: 11	Name: MSASN1.dll
+	File Name: C:\Windows\system32\MSASN1.dll
+	Entry Point: 0x00007FF98F2255F0		Base of DLL: 0x00007FF98F220000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 12	Name: samsrv.dll
+	File Name: C:\Windows\SYSTEM32\samsrv.dll
+	Entry Point: 0x00007FF98F151270		Base of DLL: 0x00007FF98F120000		Size of Image: 900 KB
+	----------------------
+	Ordinal Number: 13	Name: bcrypt.dll
+	File Name: C:\Windows\System32\bcrypt.dll
+	Entry Point: 0x00007FF98F9B8690		Base of DLL: 0x00007FF98F9B0000		Size of Image: 156 KB
+	----------------------
+	Ordinal Number: 14	Name: CRYPT32.dll
+	File Name: C:\Windows\System32\CRYPT32.dll
+	Entry Point: 0x00007FF98FF1F2D0		Base of DLL: 0x00007FF98FED0000		Size of Image: 1.33 MB
+	----------------------
+	Ordinal Number: 15	Name: ncrypt.dll
+	File Name: C:\Windows\system32\ncrypt.dll
+	Entry Point: 0x00007FF98F0F6200		Base of DLL: 0x00007FF98F0F0000		Size of Image: 156 KB
+	----------------------
+	Ordinal Number: 16	Name: NTASN1.dll
+	File Name: C:\Windows\system32\NTASN1.dll
+	Entry Point: 0x00007FF98F0B4000		Base of DLL: 0x00007FF98F0B0000		Size of Image: 236 KB
+	----------------------
+	Ordinal Number: 17	Name: Wldp.dll
+	File Name: C:\Windows\system32\Wldp.dll
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 18	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 19	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 20	Name: bcryptprimitives.dll
+	File Name: C:\Windows\System32\bcryptprimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 21	Name: msprivs.DLL
+	File Name: C:\Windows\system32\msprivs.DLL
+	Entry Point: 0x0000000000000000		Base of DLL: 0x000001D1DBBB0000		Size of Image: 12.0 KB
+	----------------------
+	Ordinal Number: 22	Name: netprovfw.dll
+	File Name: C:\Windows\SYSTEM32\netprovfw.dll
+	Entry Point: 0x00007FF98F0681E0		Base of DLL: 0x00007FF98F060000		Size of Image: 84.0 KB
+	----------------------
+	Ordinal Number: 23	Name: JOINUTIL.DLL
+	File Name: C:\Windows\system32\JOINUTIL.DLL
+	Entry Point: 0x00007FF98F04A440		Base of DLL: 0x00007FF98F030000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 24	Name: negoexts.DLL
+	File Name: C:\Windows\system32\negoexts.DLL
+	Entry Point: 0x00007FF98F003960		Base of DLL: 0x00007FF98F000000		Size of Image: 152 KB
+	----------------------
+	Ordinal Number: 25	Name: CRYPTBASE.dll
+	File Name: C:\Windows\system32\CRYPTBASE.dll
+	Entry Point: 0x00007FF98EFF2200		Base of DLL: 0x00007FF98EFF0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 26	Name: CRYPTSP.dll
+	File Name: C:\Windows\system32\CRYPTSP.dll
+	Entry Point: 0x00007FF98EFD4AA0		Base of DLL: 0x00007FF98EFD0000		Size of Image: 96.0 KB
+	----------------------
+	Ordinal Number: 27	Name: kerberos.DLL
+	File Name: C:\Windows\system32\kerberos.DLL
+	Entry Point: 0x00007FF98EEDB140		Base of DLL: 0x00007FF98EEB0000		Size of Image: 1.08 MB
+	----------------------
+	Ordinal Number: 28	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 29	Name: KerbClientShared.dll
+	File Name: C:\Windows\system32\KerbClientShared.dll
+	Entry Point: 0x00007FF98EE73920		Base of DLL: 0x00007FF98EE70000		Size of Image: 212 KB
+	----------------------
+	Ordinal Number: 30	Name: cryptdll.dll
+	File Name: C:\Windows\system32\cryptdll.dll
+	Entry Point: 0x00007FF98EE58620		Base of DLL: 0x00007FF98EE50000		Size of Image: 84.0 KB
+	----------------------
+	Ordinal Number: 31	Name: mswsock.dll
+	File Name: C:\Windows\system32\mswsock.dll
+	Entry Point: 0x00007FF98EDF1200		Base of DLL: 0x00007FF98EDE0000		Size of Image: 424 KB
+	----------------------
+	Ordinal Number: 32	Name: msv1_0.DLL
+	File Name: C:\Windows\system32\msv1_0.DLL
+	Entry Point: 0x00007FF98ED74EB0		Base of DLL: 0x00007FF98ED50000		Size of Image: 548 KB
+	----------------------
+	Ordinal Number: 33	Name: NtlmShared.dll
+	File Name: C:\Windows\system32\NtlmShared.dll
+	Entry Point: 0x00007FF98ED3A490		Base of DLL: 0x00007FF98ED30000		Size of Image: 76.0 KB
+	----------------------
+	Ordinal Number: 34	Name: netlogon.DLL
+	File Name: C:\Windows\system32\netlogon.DLL
+	Entry Point: 0x00007FF98EC790F0		Base of DLL: 0x00007FF98EC50000		Size of Image: 872 KB
+	----------------------
+	Ordinal Number: 35	Name: powrprof.dll
+	File Name: C:\Windows\SYSTEM32\powrprof.dll
+	Entry Point: 0x00007FF98F573480		Base of DLL: 0x00007FF98F570000		Size of Image: 300 KB
+	----------------------
+	Ordinal Number: 36	Name: USERENV.dll
+	File Name: C:\Windows\system32\USERENV.dll
+	Entry Point: 0x00007FF98F604F10		Base of DLL: 0x00007FF98F600000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 37	Name: gmsaclient.dll
+	File Name: C:\Windows\system32\gmsaclient.dll
+	Entry Point: 0x00007FF98EC46BF0		Base of DLL: 0x00007FF98EC40000		Size of Image: 56.0 KB
+	----------------------
+	Ordinal Number: 38	Name: logoncli.dll
+	File Name: C:\Windows\system32\logoncli.dll
+	Entry Point: 0x00007FF98EBFA3E0		Base of DLL: 0x00007FF98EBF0000		Size of Image: 264 KB
+	----------------------
+	Ordinal Number: 39	Name: netutils.dll
+	File Name: C:\Windows\system32\netutils.dll
+	Entry Point: 0x00007FF98EBE1CE0		Base of DLL: 0x00007FF98EBE0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 40	Name: DNSAPI.dll
+	File Name: C:\Windows\system32\DNSAPI.dll
+	Entry Point: 0x00007FF98EB3D820		Base of DLL: 0x00007FF98EB10000		Size of Image: 812 KB
+	----------------------
+	Ordinal Number: 41	Name: IPHLPAPI.DLL
+	File Name: C:\Windows\SYSTEM32\IPHLPAPI.DLL
+	Entry Point: 0x00007FF98EADA620		Base of DLL: 0x00007FF98EAD0000		Size of Image: 236 KB
+	----------------------
+	Ordinal Number: 42	Name: NSI.dll
+	File Name: C:\Windows\System32\NSI.dll
+	Entry Point: 0x00007FF9909F22F0		Base of DLL: 0x00007FF9909F0000		Size of Image: 32.0 KB
+	----------------------
+	Ordinal Number: 43	Name: UMPDC.dll
+	File Name: C:\Windows\system32\UMPDC.dll
+	Entry Point: 0x00007FF98F553E30		Base of DLL: 0x00007FF98F550000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 44	Name: tspkg.DLL
+	File Name: C:\Windows\system32\tspkg.DLL
+	Entry Point: 0x00007FF98EAA20C0		Base of DLL: 0x00007FF98EAA0000		Size of Image: 176 KB
+	----------------------
+	Ordinal Number: 45	Name: pku2u.DLL
+	File Name: C:\Windows\system32\pku2u.DLL
+	Entry Point: 0x00007FF98EA45D70		Base of DLL: 0x00007FF98EA40000		Size of Image: 340 KB
+	----------------------
+	Ordinal Number: 46	Name: cloudAP.DLL
+	File Name: C:\Windows\system32\cloudAP.DLL
+	Entry Point: 0x00007FF98E9AB5C0		Base of DLL: 0x00007FF98E9A0000		Size of Image: 608 KB
+	----------------------
+	Ordinal Number: 47	Name: profapi.dll
+	File Name: C:\Windows\system32\profapi.dll
+	Entry Point: 0x00007FF98F648D30		Base of DLL: 0x00007FF98F640000		Size of Image: 124 KB
+	----------------------
+	Ordinal Number: 48	Name: aadcloudap.dll
+	File Name: C:\Windows\SYSTEM32\aadcloudap.dll
+	Entry Point: 0x00007FF98E946290		Base of DLL: 0x00007FF98E8A0000		Size of Image: 0.98 MB
+	----------------------
+	Ordinal Number: 49	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 50	Name: wkscli.dll
+	File Name: C:\Windows\SYSTEM32\wkscli.dll
+	Entry Point: 0x00007FF98E881D60		Base of DLL: 0x00007FF98E880000		Size of Image: 92.0 KB
+	----------------------
+	Ordinal Number: 51	Name: msvcp110_win.dll
+	File Name: C:\Windows\SYSTEM32\msvcp110_win.dll
+	Entry Point: 0x00007FF98E835870		Base of DLL: 0x00007FF98E7F0000		Size of Image: 552 KB
+	----------------------
+	Ordinal Number: 52	Name: MicrosoftAccountCloudAP.dll
+	File Name: C:\Windows\SYSTEM32\MicrosoftAccountCloudAP.dll
+	Entry Point: 0x00007FF98E7C85F0		Base of DLL: 0x00007FF98E7A0000		Size of Image: 296 KB
+	----------------------
+	Ordinal Number: 53	Name: DPAPI.DLL
+	File Name: C:\Windows\SYSTEM32\DPAPI.DLL
+	Entry Point: 0x00007FF98F211850		Base of DLL: 0x00007FF98F210000		Size of Image: 40.0 KB
+	----------------------
+	Ordinal Number: 54	Name: rsaenh.dll
+	File Name: C:\Windows\system32\rsaenh.dll
+	Entry Point: 0x00007FF98E768680		Base of DLL: 0x00007FF98E760000		Size of Image: 208 KB
+	----------------------
+	Ordinal Number: 55	Name: wdigest.DLL
+	File Name: C:\Windows\system32\wdigest.DLL
+	Entry Point: 0x00007FF98E724E90		Base of DLL: 0x00007FF98E720000		Size of Image: 240 KB
+	----------------------
+	Ordinal Number: 56	Name: schannel.DLL
+	File Name: C:\Windows\system32\schannel.DLL
+	Entry Point: 0x00007FF98E6A6280		Base of DLL: 0x00007FF98E680000		Size of Image: 580 KB
+	----------------------
+	Ordinal Number: 57	Name: efslsaext.dll
+	File Name: C:\Windows\system32\efslsaext.dll
+	Entry Point: 0x00007FF98E66CFF0		Base of DLL: 0x00007FF98E660000		Size of Image: 112 KB
+	----------------------
+	Ordinal Number: 58	Name: shcore.dll
+	File Name: C:\Windows\System32\shcore.dll
+	Entry Point: 0x00007FF99138B840		Base of DLL: 0x00007FF991350000		Size of Image: 692 KB
+	----------------------
+	Ordinal Number: 59	Name: dpapisrv.dll
+	File Name: C:\Windows\system32\dpapisrv.dll
+	Entry Point: 0x00007FF98E61EF60		Base of DLL: 0x00007FF98E610000		Size of Image: 296 KB
+	----------------------
+	Ordinal Number: 60	Name: SspiSrv.dll
+	File Name: C:\Windows\SYSTEM32\SspiSrv.dll
+	Entry Point: 0x00007FF98E601C80		Base of DLL: 0x00007FF98E600000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 61	Name: winsta.dll
+	File Name: C:\Windows\SYSTEM32\winsta.dll
+	Entry Point: 0x00007FF98F4FB770		Base of DLL: 0x00007FF98F4F0000		Size of Image: 360 KB
+	----------------------
+	Ordinal Number: 62	Name: KDCPW.DLL
+	File Name: C:\Windows\system32\KDCPW.DLL
+	Entry Point: 0x00007FF98E4C3E20		Base of DLL: 0x00007FF98E4C0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 63	Name: scecli.DLL
+	File Name: C:\Windows\system32\scecli.DLL
+	Entry Point: 0x00007FF98E462C50		Base of DLL: 0x00007FF98E460000		Size of Image: 368 KB
+	----------------------
+	Ordinal Number: 64	Name: wevtapi.dll
+	File Name: C:\Windows\SYSTEM32\wevtapi.dll
+	Entry Point: 0x00007FF98A133640		Base of DLL: 0x00007FF98A120000		Size of Image: 404 KB
+	----------------------
+	Ordinal Number: 65	Name: wtsapi32.dll
+	File Name: C:\Windows\SYSTEM32\wtsapi32.dll
+	Entry Point: 0x00007FF98CC228C0		Base of DLL: 0x00007FF98CC20000		Size of Image: 80.0 KB
+	----------------------
+	Ordinal Number: 66	Name: ncryptsslp.dll
+	File Name: C:\Windows\system32\ncryptsslp.dll
+	Entry Point: 0x00007FF9839672C0		Base of DLL: 0x00007FF983960000		Size of Image: 152 KB
+	----------------------
+	Ordinal Number: 67	Name: ncryptprov.dll
+	File Name: C:\Windows\system32\ncryptprov.dll
+	Entry Point: 0x00007FF97F96B450		Base of DLL: 0x00007FF97F960000		Size of Image: 360 KB
+	----------------------
+	Ordinal Number: 68	Name: dssenh.dll
+	File Name: C:\Windows\system32\dssenh.dll
+	Entry Point: 0x00007FF97F8D2D90		Base of DLL: 0x00007FF97F8D0000		Size of Image: 160 KB
+	----------------------
+	Ordinal Number: 69	Name: gpapi.dll
+	File Name: C:\Windows\SYSTEM32\gpapi.dll
+	Entry Point: 0x00007FF98DFA3730		Base of DLL: 0x00007FF98DFA0000		Size of Image: 140 KB
+	----------------------
+	Ordinal Number: 70	Name: mskeyprotect.dll
+	File Name: C:\Windows\SYSTEM32\mskeyprotect.dll
+	Entry Point: 0x00007FF984B72930		Base of DLL: 0x00007FF984B70000		Size of Image: 84.0 KB
+	----------------------
+	Ordinal Number: 71	Name: SecureTimeAggregator.dll
+	File Name: C:\Windows\System32\SecureTimeAggregator.dll
+	Entry Point: 0x00007FF97F64A510		Base of DLL: 0x00007FF97F640000		Size of Image: 132 KB
+	----------------------
+	Ordinal Number: 72	Name: DSROLE.dll
+	File Name: C:\Windows\system32\DSROLE.dll
+	Entry Point: 0x00007FF98C3B1780		Base of DLL: 0x00007FF98C3B0000		Size of Image: 40.0 KB
+	----------------------
+	Ordinal Number: 73	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 74	Name: keyiso.dll
+	File Name: C:\Windows\system32\keyiso.dll
+	Entry Point: 0x00007FF9769E4CB0		Base of DLL: 0x00007FF9769E0000		Size of Image: 108 KB
+	----------------------
+	Ordinal Number: 75	Name: AUTHZ.dll
+	File Name: C:\Windows\system32\AUTHZ.dll
+	Entry Point: 0x00007FF98E519820		Base of DLL: 0x00007FF98E510000		Size of Image: 304 KB
+	----------------------
+	Ordinal Number: 76	Name: cryptnet.dll
+	File Name: C:\Windows\System32\cryptnet.dll
+	Entry Point: 0x00007FF984A7E9A0		Base of DLL: 0x00007FF984A70000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 77	Name: ngcpopkeysrv.dll
+	File Name: C:\Windows\System32\ngcpopkeysrv.dll
+	Entry Point: 0x00007FF97A106A90		Base of DLL: 0x00007FF97A0E0000		Size of Image: 272 KB
+	----------------------
+	Ordinal Number: 78	Name: OLEAUT32.dll
+	File Name: C:\Windows\System32\OLEAUT32.dll
+	Entry Point: 0x00007FF9916CDE00		Base of DLL: 0x00007FF9916B0000		Size of Image: 820 KB
+	----------------------
+	Ordinal Number: 79	Name: DEVOBJ.dll
+	File Name: C:\Windows\system32\DEVOBJ.dll
+	Entry Point: 0x00007FF98F248230		Base of DLL: 0x00007FF98F240000		Size of Image: 208 KB
+	----------------------
+	Ordinal Number: 80	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 81	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 82	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 83	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 84	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 85	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 86	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 87	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 88	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 89	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 90	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 91	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 92	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 93	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 94	Name: lsass.exe
+	File Name: C:\Windows\System32\lsass.exe
+	Entry Point: 0x00007FF7430D48E0		Base of DLL: 0x0000000000000000		Size of Image: 72.0 KB
+	----------------------
+-------------------------------------------------
+Process ID: 824	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 103 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\system32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: umpnpmgr.dll
+	File Name: c:\windows\system32\umpnpmgr.dll
+	Entry Point: 0x00007FF98E3C17F0		Base of DLL: 0x00007FF98E3C0000		Size of Image: 148 KB
+	----------------------
+	Ordinal Number: 8	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 9	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 10	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 11	Name: umpo.dll
+	File Name: c:\windows\system32\umpo.dll
+	Entry Point: 0x00007FF98E2B81C0		Base of DLL: 0x00007FF98E2B0000		Size of Image: 200 KB
+	----------------------
+	Ordinal Number: 12	Name: UMPDC.dll
+	File Name: c:\windows\system32\UMPDC.dll
+	Entry Point: 0x00007FF98F553E30		Base of DLL: 0x00007FF98F550000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 13	Name: slc.dll
+	File Name: C:\Windows\SYSTEM32\slc.dll
+	Entry Point: 0x00007FF98E281BD0		Base of DLL: 0x00007FF98E280000		Size of Image: 164 KB
+	----------------------
+	Ordinal Number: 14	Name: sppc.dll
+	File Name: c:\windows\system32\sppc.dll
+	Entry Point: 0x00007FF98E253920		Base of DLL: 0x00007FF98E250000		Size of Image: 148 KB
+	----------------------
+	Ordinal Number: 15	Name: umpoext.dll
+	File Name: C:\Windows\SYSTEM32\umpoext.dll
+	Entry Point: 0x00007FF98E2161A0		Base of DLL: 0x00007FF98E210000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 16	Name: cfgmgr32.dll
+	File Name: C:\Windows\System32\cfgmgr32.dll
+	Entry Point: 0x00007FF98FE93280		Base of DLL: 0x00007FF98FE80000		Size of Image: 312 KB
+	----------------------
+	Ordinal Number: 17	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 18	Name: powrprof.dll
+	File Name: C:\Windows\SYSTEM32\powrprof.dll
+	Entry Point: 0x00007FF98F573480		Base of DLL: 0x00007FF98F570000		Size of Image: 300 KB
+	----------------------
+	Ordinal Number: 19	Name: shcore.dll
+	File Name: C:\Windows\System32\shcore.dll
+	Entry Point: 0x00007FF99138B840		Base of DLL: 0x00007FF991350000		Size of Image: 692 KB
+	----------------------
+	Ordinal Number: 20	Name: tdh.dll
+	File Name: C:\Windows\SYSTEM32\tdh.dll
+	Entry Point: 0x00007FF98E0FC250		Base of DLL: 0x00007FF98E0F0000		Size of Image: 1.10 MB
+	----------------------
+	Ordinal Number: 21	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 22	Name: dxgi.dll
+	File Name: c:\windows\system32\dxgi.dll
+	Entry Point: 0x00007FF98E0155F0		Base of DLL: 0x00007FF98DFF0000		Size of Image: 976 KB
+	----------------------
+	Ordinal Number: 23	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 24	Name: gdi32.dll
+	File Name: C:\Windows\System32\gdi32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 25	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 26	Name: USER32.dll
+	File Name: C:\Windows\System32\USER32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 27	Name: umpo-overrides.dll
+	File Name: C:\Windows\system32\umpo-overrides.dll
+	Entry Point: 0x00007FF98DFDB070		Base of DLL: 0x00007FF98DFD0000		Size of Image: 80.0 KB
+	----------------------
+	Ordinal Number: 28	Name: gpapi.dll
+	File Name: C:\Windows\SYSTEM32\gpapi.dll
+	Entry Point: 0x00007FF98DFA3730		Base of DLL: 0x00007FF98DFA0000		Size of Image: 140 KB
+	----------------------
+	Ordinal Number: 29	Name: HID.DLL
+	File Name: C:\Windows\SYSTEM32\HID.DLL
+	Entry Point: 0x00007FF98DF926A0		Base of DLL: 0x00007FF98DF90000		Size of Image: 52.0 KB
+	----------------------
+	Ordinal Number: 30	Name: windows.storage.dll
+	File Name: C:\Windows\SYSTEM32\windows.storage.dll
+	Entry Point: 0x00007FF98D9A88A0		Base of DLL: 0x00007FF98D7F0000		Size of Image: 7.57 MB
+	----------------------
+	Ordinal Number: 31	Name: shlwapi.dll
+	File Name: C:\Windows\System32\shlwapi.dll
+	Entry Point: 0x00007FF99011A7A0		Base of DLL: 0x00007FF990110000		Size of Image: 340 KB
+	----------------------
+	Ordinal Number: 32	Name: rpcss.dll
+	File Name: c:\windows\system32\rpcss.dll
+	Entry Point: 0x00007FF98D6BCB40		Base of DLL: 0x00007FF98D660000		Size of Image: 1.30 MB
+	----------------------
+	Ordinal Number: 33	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 34	Name: SspiCli.dll
+	File Name: c:\windows\system32\SspiCli.dll
+	Entry Point: 0x00007FF98F5CE390		Base of DLL: 0x00007FF98F5C0000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 35	Name: psmsrv.dll
+	File Name: c:\windows\system32\psmsrv.dll
+	Entry Point: 0x00007FF98D625520		Base of DLL: 0x00007FF98D610000		Size of Image: 264 KB
+	----------------------
+	Ordinal Number: 36	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 37	Name: psmserviceexthost.dll
+	File Name: C:\Windows\SYSTEM32\psmserviceexthost.dll
+	Entry Point: 0x00007FF98D445630		Base of DLL: 0x00007FF98D400000		Size of Image: 776 KB
+	----------------------
+	Ordinal Number: 38	Name: IPHLPAPI.DLL
+	File Name: c:\windows\system32\IPHLPAPI.DLL
+	Entry Point: 0x00007FF98EADA620		Base of DLL: 0x00007FF98EAD0000		Size of Image: 236 KB
+	----------------------
+	Ordinal Number: 39	Name: RMCLIENT.dll
+	File Name: c:\windows\system32\RMCLIENT.dll
+	Entry Point: 0x00007FF98D3D9FE0		Base of DLL: 0x00007FF98D3D0000		Size of Image: 168 KB
+	----------------------
+	Ordinal Number: 40	Name: wer.dll
+	File Name: c:\windows\system32\wer.dll
+	Entry Point: 0x00007FF98D334F10		Base of DLL: 0x00007FF98D2E0000		Size of Image: 888 KB
+	----------------------
+	Ordinal Number: 41	Name: bisrv.dll
+	File Name: C:\Windows\SYSTEM32\bisrv.dll
+	Entry Point: 0x00007FF98D23CF00		Base of DLL: 0x00007FF98D200000		Size of Image: 864 KB
+	----------------------
+	Ordinal Number: 42	Name: OLEAUT32.dll
+	File Name: C:\Windows\System32\OLEAUT32.dll
+	Entry Point: 0x00007FF9916CDE00		Base of DLL: 0x00007FF9916B0000		Size of Image: 820 KB
+	----------------------
+	Ordinal Number: 43	Name: EventAggregation.dll
+	File Name: c:\windows\system32\EventAggregation.dll
+	Entry Point: 0x00007FF98F42C920		Base of DLL: 0x00007FF98F420000		Size of Image: 100 KB
+	----------------------
+	Ordinal Number: 44	Name: ntmarta.dll
+	File Name: C:\Windows\SYSTEM32\ntmarta.dll
+	Entry Point: 0x00007FF98E3F6930		Base of DLL: 0x00007FF98E3F0000		Size of Image: 204 KB
+	----------------------
+	Ordinal Number: 45	Name: ResourcePolicyClient.dll
+	File Name: c:\windows\system32\ResourcePolicyClient.dll
+	Entry Point: 0x00007FF98D114280		Base of DLL: 0x00007FF98D110000		Size of Image: 80.0 KB
+	----------------------
+	Ordinal Number: 46	Name: clbcatq.dll
+	File Name: C:\Windows\System32\clbcatq.dll
+	Entry Point: 0x00007FF99197D990		Base of DLL: 0x00007FF991960000		Size of Image: 676 KB
+	----------------------
+	Ordinal Number: 47	Name: embeddedmodesvcapi.dll
+	File Name: C:\Windows\SYSTEM32\embeddedmodesvcapi.dll
+	Entry Point: 0x00007FF98D0F6750		Base of DLL: 0x00007FF98D0F0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 48	Name: bcrypt.dll
+	File Name: C:\Windows\System32\bcrypt.dll
+	Entry Point: 0x00007FF98F9B8690		Base of DLL: 0x00007FF98F9B0000		Size of Image: 156 KB
+	----------------------
+	Ordinal Number: 49	Name: resourcepolicyserver.dll
+	File Name: C:\Windows\SYSTEM32\resourcepolicyserver.dll
+	Entry Point: 0x00007FF98D0D6C90		Base of DLL: 0x00007FF98D0C0000		Size of Image: 152 KB
+	----------------------
+	Ordinal Number: 50	Name: CRYPT32.dll
+	File Name: C:\Windows\System32\CRYPT32.dll
+	Entry Point: 0x00007FF98FF1F2D0		Base of DLL: 0x00007FF98FED0000		Size of Image: 1.33 MB
+	----------------------
+	Ordinal Number: 51	Name: CRYPTSP.dll
+	File Name: C:\Windows\SYSTEM32\CRYPTSP.dll
+	Entry Point: 0x00007FF98EFD4AA0		Base of DLL: 0x00007FF98EFD0000		Size of Image: 96.0 KB
+	----------------------
+	Ordinal Number: 52	Name: systemeventsbrokerserver.dll
+	File Name: c:\windows\system32\systemeventsbrokerserver.dll
+	Entry Point: 0x00007FF98D07D620		Base of DLL: 0x00007FF98D070000		Size of Image: 268 KB
+	----------------------
+	Ordinal Number: 53	Name: BrokerLib.dll
+	File Name: c:\windows\system32\BrokerLib.dll
+	Entry Point: 0x00007FF98D032840		Base of DLL: 0x00007FF98D020000		Size of Image: 304 KB
+	----------------------
+	Ordinal Number: 54	Name: DAB.dll
+	File Name: c:\windows\system32\DAB.dll
+	Entry Point: 0x00007FF98CFD90A0		Base of DLL: 0x00007FF98CFD0000		Size of Image: 132 KB
+	----------------------
+	Ordinal Number: 55	Name: usermgrcli.dll
+	File Name: C:\Windows\SYSTEM32\usermgrcli.dll
+	Entry Point: 0x00007FF98C224250		Base of DLL: 0x00007FF98C220000		Size of Image: 88.0 KB
+	----------------------
+	Ordinal Number: 56	Name: CRYPTBASE.DLL
+	File Name: C:\Windows\SYSTEM32\CRYPTBASE.DLL
+	Entry Point: 0x00007FF98EFF2200		Base of DLL: 0x00007FF98EFF0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 57	Name: bi.dll
+	File Name: C:\Windows\SYSTEM32\bi.dll
+	Entry Point: 0x00007FF98CDB2F90		Base of DLL: 0x00007FF98CDB0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 58	Name: rsaenh.dll
+	File Name: C:\Windows\system32\rsaenh.dll
+	Entry Point: 0x00007FF98E768680		Base of DLL: 0x00007FF98E760000		Size of Image: 208 KB
+	----------------------
+	Ordinal Number: 59	Name: wtsapi32.dll
+	File Name: C:\Windows\SYSTEM32\wtsapi32.dll
+	Entry Point: 0x00007FF98CC228C0		Base of DLL: 0x00007FF98CC20000		Size of Image: 80.0 KB
+	----------------------
+	Ordinal Number: 60	Name: WINSTA.dll
+	File Name: C:\Windows\SYSTEM32\WINSTA.dll
+	Entry Point: 0x00007FF98F4FB770		Base of DLL: 0x00007FF98F4F0000		Size of Image: 360 KB
+	----------------------
+	Ordinal Number: 61	Name: OneCoreUAPCommonProxyStub.dll
+	File Name: C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+	Entry Point: 0x00007FF984146100		Base of DLL: 0x00007FF984130000		Size of Image: 7.59 MB
+	----------------------
+	Ordinal Number: 62	Name: WINNSI.DLL
+	File Name: C:\Windows\SYSTEM32\WINNSI.DLL
+	Entry Point: 0x00007FF989C11F70		Base of DLL: 0x00007FF989C10000		Size of Image: 44.0 KB
+	----------------------
+	Ordinal Number: 63	Name: NSI.dll
+	File Name: C:\Windows\System32\NSI.dll
+	Entry Point: 0x00007FF9909F22F0		Base of DLL: 0x00007FF9909F0000		Size of Image: 32.0 KB
+	----------------------
+	Ordinal Number: 64	Name: Windows.Networking.BackgroundTransfer.BackgroundManagerPolicy.dll
+	File Name: C:\Windows\System32\Windows.Networking.BackgroundTransfer.BackgroundManagerPolicy.dll
+	Entry Point: 0x00007FF9779A94A0		Base of DLL: 0x00007FF9779A0000		Size of Image: 128 KB
+	----------------------
+	Ordinal Number: 65	Name: ACPBackgroundManagerPolicy.dll
+	File Name: C:\Windows\System32\ACPBackgroundManagerPolicy.dll
+	Entry Point: 0x00007FF97796C930		Base of DLL: 0x00007FF977960000		Size of Image: 212 KB
+	----------------------
+	Ordinal Number: 66	Name: BackgroundMediaPolicy.dll
+	File Name: C:\Windows\System32\BackgroundMediaPolicy.dll
+	Entry Point: 0x00007FF976D329D0		Base of DLL: 0x00007FF976D30000		Size of Image: 88.0 KB
+	----------------------
+	Ordinal Number: 67	Name: SmartCardBackgroundPolicy.dll
+	File Name: C:\Windows\system32\SmartCardBackgroundPolicy.dll
+	Entry Point: 0x00007FF97763A940		Base of DLL: 0x00007FF977630000		Size of Image: 88.0 KB
+	----------------------
+	Ordinal Number: 68	Name: SebBackgroundManagerPolicy.dll
+	File Name: C:\Windows\system32\SebBackgroundManagerPolicy.dll
+	Entry Point: 0x00007FF9777A24C0		Base of DLL: 0x00007FF9777A0000		Size of Image: 76.0 KB
+	----------------------
+	Ordinal Number: 69	Name: twinapi.appcore.dll
+	File Name: C:\Windows\System32\twinapi.appcore.dll
+	Entry Point: 0x00007FF986C3C800		Base of DLL: 0x00007FF986BD0000		Size of Image: 2.00 MB
+	----------------------
+	Ordinal Number: 70	Name: ole32.dll
+	File Name: C:\Windows\System32\ole32.dll
+	Entry Point: 0x00007FF9904F6360		Base of DLL: 0x00007FF9904D0000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 71	Name: coml2.dll
+	File Name: C:\Windows\System32\coml2.dll
+	Entry Point: 0x00007FF991EB28F0		Base of DLL: 0x00007FF991E90000		Size of Image: 484 KB
+	----------------------
+	Ordinal Number: 72	Name: OneCoreCommonProxyStub.dll
+	File Name: C:\Windows\System32\OneCoreCommonProxyStub.dll
+	Entry Point: 0x00007FF97B153B00		Base of DLL: 0x00007FF97B150000		Size of Image: 500 KB
+	----------------------
+	Ordinal Number: 73	Name: execmodelproxy.dll
+	File Name: C:\Windows\system32\execmodelproxy.dll
+	Entry Point: 0x00007FF977781BF0		Base of DLL: 0x00007FF977780000		Size of Image: 96.0 KB
+	----------------------
+	Ordinal Number: 74	Name: execmodelclient.dll
+	File Name: C:\Windows\System32\execmodelclient.dll
+	Entry Point: 0x00007FF978C9E720		Base of DLL: 0x00007FF978C90000		Size of Image: 388 KB
+	----------------------
+	Ordinal Number: 75	Name: PROPSYS.dll
+	File Name: C:\Windows\System32\PROPSYS.dll
+	Entry Point: 0x00007FF989362B30		Base of DLL: 0x00007FF989320000		Size of Image: 984 KB
+	----------------------
+	Ordinal Number: 76	Name: CoreMessaging.dll
+	File Name: C:\Windows\System32\CoreMessaging.dll
+	Entry Point: 0x00007FF98CB37480		Base of DLL: 0x00007FF98CAE0000		Size of Image: 968 KB
+	----------------------
+	Ordinal Number: 77	Name: WS2_32.dll
+	File Name: C:\Windows\System32\WS2_32.dll
+	Entry Point: 0x00007FF991164300		Base of DLL: 0x00007FF991150000		Size of Image: 428 KB
+	----------------------
+	Ordinal Number: 78	Name: licensemanagerapi.dll
+	File Name: C:\Windows\SYSTEM32\licensemanagerapi.dll
+	Entry Point: 0x00007FF984ACFC30		Base of DLL: 0x00007FF984AC0000		Size of Image: 116 KB
+	----------------------
+	Ordinal Number: 79	Name: capauthz.dll
+	File Name: C:\Windows\SYSTEM32\capauthz.dll
+	Entry Point: 0x00007FF989142FD0		Base of DLL: 0x00007FF989110000		Size of Image: 324 KB
+	----------------------
+	Ordinal Number: 80	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 81	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 82	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 83	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 84	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 85	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 86	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 87	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 88	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 89	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 90	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 91	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 92	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 93	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 94	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 95	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 96	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 97	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 98	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 99	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 100	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 101	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 102	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x0000000000000000		Size of Image: 68.0 KB
+	----------------------
+-------------------------------------------------
+Process ID: 864	Process Name: fontdrvhost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\fontdrvhost.exe
+Modules List: 11 modules found
+	Ordinal Number: 0	Name: fontdrvhost.exe
+	File Name: C:\Windows\system32\fontdrvhost.exe
+	Entry Point: 0x00007FF6BDB926A0		Base of DLL: 0x00007FF6BDB60000		Size of Image: 840 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 5	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 6	Name: ADVAPI32.dll
+	File Name: C:\Windows\System32\ADVAPI32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 7	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 8	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 9	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 10	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+-------------------------------------------------
+Process ID: 952	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 47 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\system32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: rpcepmap.dll
+	File Name: c:\windows\system32\rpcepmap.dll
+	Entry Point: 0x00007FF98D7D6780		Base of DLL: 0x00007FF98D7D0000		Size of Image: 100 KB
+	----------------------
+	Ordinal Number: 8	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 9	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 10	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 11	Name: sspicli.dll
+	File Name: C:\Windows\system32\sspicli.dll
+	Entry Point: 0x00007FF98F5CE390		Base of DLL: 0x00007FF98F5C0000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 12	Name: RpcRtRemote.dll
+	File Name: C:\Windows\system32\RpcRtRemote.dll
+	Entry Point: 0x00007FF98D7B15C0		Base of DLL: 0x00007FF98D7B0000		Size of Image: 76.0 KB
+	----------------------
+	Ordinal Number: 13	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 14	Name: WS2_32.dll
+	File Name: C:\Windows\System32\WS2_32.dll
+	Entry Point: 0x00007FF991164300		Base of DLL: 0x00007FF991150000		Size of Image: 428 KB
+	----------------------
+	Ordinal Number: 15	Name: FirewallAPI.dll
+	File Name: C:\Windows\system32\FirewallAPI.dll
+	Entry Point: 0x00007FF98E32A420		Base of DLL: 0x00007FF98E320000		Size of Image: 636 KB
+	----------------------
+	Ordinal Number: 16	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 17	Name: DNSAPI.dll
+	File Name: C:\Windows\system32\DNSAPI.dll
+	Entry Point: 0x00007FF98EB3D820		Base of DLL: 0x00007FF98EB10000		Size of Image: 812 KB
+	----------------------
+	Ordinal Number: 18	Name: IPHLPAPI.DLL
+	File Name: C:\Windows\SYSTEM32\IPHLPAPI.DLL
+	Entry Point: 0x00007FF98EADA620		Base of DLL: 0x00007FF98EAD0000		Size of Image: 236 KB
+	----------------------
+	Ordinal Number: 19	Name: NSI.dll
+	File Name: C:\Windows\System32\NSI.dll
+	Entry Point: 0x00007FF9909F22F0		Base of DLL: 0x00007FF9909F0000		Size of Image: 32.0 KB
+	----------------------
+	Ordinal Number: 20	Name: fwbase.dll
+	File Name: C:\Windows\system32\fwbase.dll
+	Entry Point: 0x00007FF98E2F72E0		Base of DLL: 0x00007FF98E2F0000		Size of Image: 188 KB
+	----------------------
+	Ordinal Number: 21	Name: mswsock.dll
+	File Name: C:\Windows\system32\mswsock.dll
+	Entry Point: 0x00007FF98EDF1200		Base of DLL: 0x00007FF98EDE0000		Size of Image: 424 KB
+	----------------------
+	Ordinal Number: 22	Name: rpcss.dll
+	File Name: c:\windows\system32\rpcss.dll
+	Entry Point: 0x00007FF98D6BCB40		Base of DLL: 0x00007FF98D660000		Size of Image: 1.30 MB
+	----------------------
+	Ordinal Number: 23	Name: powrprof.dll
+	File Name: C:\Windows\SYSTEM32\powrprof.dll
+	Entry Point: 0x00007FF98F573480		Base of DLL: 0x00007FF98F570000		Size of Image: 300 KB
+	----------------------
+	Ordinal Number: 24	Name: UMPDC.dll
+	File Name: C:\Windows\SYSTEM32\UMPDC.dll
+	Entry Point: 0x00007FF98F553E30		Base of DLL: 0x00007FF98F550000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 25	Name: clbcatq.dll
+	File Name: C:\Windows\System32\clbcatq.dll
+	Entry Point: 0x00007FF99197D990		Base of DLL: 0x00007FF991960000		Size of Image: 676 KB
+	----------------------
+	Ordinal Number: 26	Name: wshhyperv.dll
+	File Name: C:\Windows\system32\wshhyperv.dll
+	Entry Point: 0x00007FF98D4F1570		Base of DLL: 0x00007FF98D4F0000		Size of Image: 28.0 KB
+	----------------------
+	Ordinal Number: 27	Name: fwpuclnt.dll
+	File Name: C:\Windows\system32\fwpuclnt.dll
+	Entry Point: 0x00007FF989435910		Base of DLL: 0x00007FF989430000		Size of Image: 508 KB
+	----------------------
+	Ordinal Number: 28	Name: bcrypt.dll
+	File Name: C:\Windows\System32\bcrypt.dll
+	Entry Point: 0x00007FF98F9B8690		Base of DLL: 0x00007FF98F9B0000		Size of Image: 156 KB
+	----------------------
+	Ordinal Number: 29	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 30	Name: OLEAUT32.dll
+	File Name: C:\Windows\System32\OLEAUT32.dll
+	Entry Point: 0x00007FF9916CDE00		Base of DLL: 0x00007FF9916B0000		Size of Image: 820 KB
+	----------------------
+	Ordinal Number: 31	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 32	Name: usermgrcli.dll
+	File Name: C:\Windows\SYSTEM32\usermgrcli.dll
+	Entry Point: 0x00007FF98C224250		Base of DLL: 0x00007FF98C220000		Size of Image: 88.0 KB
+	----------------------
+	Ordinal Number: 33	Name: windows.staterepositorycore.dll
+	File Name: C:\Windows\SYSTEM32\windows.staterepositorycore.dll
+	Entry Point: 0x00007FF984113900		Base of DLL: 0x00007FF984110000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 34	Name: capauthz.dll
+	File Name: C:\Windows\SYSTEM32\capauthz.dll
+	Entry Point: 0x00007FF989142FD0		Base of DLL: 0x00007FF989110000		Size of Image: 324 KB
+	----------------------
+	Ordinal Number: 35	Name: shcore.dll
+	File Name: C:\Windows\System32\shcore.dll
+	Entry Point: 0x00007FF99138B840		Base of DLL: 0x00007FF991350000		Size of Image: 692 KB
+	----------------------
+	Ordinal Number: 36	Name: WINTRUST.dll
+	File Name: C:\Windows\System32\WINTRUST.dll
+	Entry Point: 0x00007FF98FE31100		Base of DLL: 0x00007FF98FE20000		Size of Image: 384 KB
+	----------------------
+	Ordinal Number: 37	Name: CRYPT32.dll
+	File Name: C:\Windows\System32\CRYPT32.dll
+	Entry Point: 0x00007FF98FF1F2D0		Base of DLL: 0x00007FF98FED0000		Size of Image: 1.33 MB
+	----------------------
+	Ordinal Number: 38	Name: MSASN1.dll
+	File Name: C:\Windows\SYSTEM32\MSASN1.dll
+	Entry Point: 0x00007FF98F2255F0		Base of DLL: 0x00007FF98F220000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 39	Name: wtsapi32.dll
+	File Name: C:\Windows\SYSTEM32\wtsapi32.dll
+	Entry Point: 0x00007FF98CC228C0		Base of DLL: 0x00007FF98CC20000		Size of Image: 80.0 KB
+	----------------------
+	Ordinal Number: 40	Name: WINSTA.dll
+	File Name: C:\Windows\SYSTEM32\WINSTA.dll
+	Entry Point: 0x00007FF98F4FB770		Base of DLL: 0x00007FF98F4F0000		Size of Image: 360 KB
+	----------------------
+	Ordinal Number: 41	Name: AppXDeploymentClient.dll
+	File Name: c:\windows\system32\AppXDeploymentClient.dll
+	Entry Point: 0x00007FF989028700		Base of DLL: 0x00007FF989010000		Size of Image: 996 KB
+	----------------------
+	Ordinal Number: 42	Name: daxexec.dll
+	File Name: C:\Windows\SYSTEM32\daxexec.dll
+	Entry Point: 0x00007FF9780C1220		Base of DLL: 0x00007FF978050000		Size of Image: 700 KB
+	----------------------
+	Ordinal Number: 43	Name: FLTLIB.DLL
+	File Name: c:\windows\system32\FLTLIB.DLL
+	Entry Point: 0x00007FF977FF3070		Base of DLL: 0x00007FF977FF0000		Size of Image: 44.0 KB
+	----------------------
+	Ordinal Number: 44	Name: profapi.dll
+	File Name: c:\windows\system32\profapi.dll
+	Entry Point: 0x00007FF98F648D30		Base of DLL: 0x00007FF98F640000		Size of Image: 124 KB
+	----------------------
+	Ordinal Number: 45	Name: container.dll
+	File Name: c:\windows\system32\container.dll
+	Entry Point: 0x00007FF978029310		Base of DLL: 0x00007FF978000000		Size of Image: 264 KB
+	----------------------
+	Ordinal Number: 46	Name: windows.storage.dll
+	File Name: C:\Windows\SYSTEM32\windows.storage.dll
+	Entry Point: 0x00007FF98D9A88A0		Base of DLL: 0x00007FF98D7F0000		Size of Image: 7.57 MB
+	----------------------
+-------------------------------------------------
+Process ID: 1008	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 34 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\system32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: lsm.dll
+	File Name: c:\windows\system32\lsm.dll
+	Entry Point: 0x00007FF98D55C0A0		Base of DLL: 0x00007FF98D530000		Size of Image: 860 KB
+	----------------------
+	Ordinal Number: 8	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 9	Name: USER32.dll
+	File Name: C:\Windows\System32\USER32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 10	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 11	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 12	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 13	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 14	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 15	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 16	Name: dwmapi.dll
+	File Name: c:\windows\system32\dwmapi.dll
+	Entry Point: 0x00007FF98D504D40		Base of DLL: 0x00007FF98D500000		Size of Image: 188 KB
+	----------------------
+	Ordinal Number: 17	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 18	Name: cfgmgr32.dll
+	File Name: C:\Windows\System32\cfgmgr32.dll
+	Entry Point: 0x00007FF98FE93280		Base of DLL: 0x00007FF98FE80000		Size of Image: 312 KB
+	----------------------
+	Ordinal Number: 19	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 20	Name: shcore.dll
+	File Name: C:\Windows\System32\shcore.dll
+	Entry Point: 0x00007FF99138B840		Base of DLL: 0x00007FF991350000		Size of Image: 692 KB
+	----------------------
+	Ordinal Number: 21	Name: WS2_32.dll
+	File Name: C:\Windows\System32\WS2_32.dll
+	Entry Point: 0x00007FF991164300		Base of DLL: 0x00007FF991150000		Size of Image: 428 KB
+	----------------------
+	Ordinal Number: 22	Name: mswsock.dll
+	File Name: C:\Windows\system32\mswsock.dll
+	Entry Point: 0x00007FF98EDF1200		Base of DLL: 0x00007FF98EDE0000		Size of Image: 424 KB
+	----------------------
+	Ordinal Number: 23	Name: wshhyperv.dll
+	File Name: C:\Windows\system32\wshhyperv.dll
+	Entry Point: 0x00007FF98D4F1570		Base of DLL: 0x00007FF98D4F0000		Size of Image: 28.0 KB
+	----------------------
+	Ordinal Number: 24	Name: SYSNTFY.dll
+	File Name: c:\windows\system32\SYSNTFY.dll
+	Entry Point: 0x00007FF98D3C2BA0		Base of DLL: 0x00007FF98D3C0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 25	Name: dxgi.dll
+	File Name: C:\Windows\SYSTEM32\dxgi.dll
+	Entry Point: 0x00007FF98E0155F0		Base of DLL: 0x00007FF98DFF0000		Size of Image: 976 KB
+	----------------------
+	Ordinal Number: 26	Name: sspicli.dll
+	File Name: C:\Windows\system32\sspicli.dll
+	Entry Point: 0x00007FF98F5CE390		Base of DLL: 0x00007FF98F5C0000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 27	Name: Userenv.dll
+	File Name: C:\Windows\System32\Userenv.dll
+	Entry Point: 0x00007FF98F604F10		Base of DLL: 0x00007FF98F600000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 28	Name: DEVOBJ.dll
+	File Name: c:\windows\system32\DEVOBJ.dll
+	Entry Point: 0x00007FF98F248230		Base of DLL: 0x00007FF98F240000		Size of Image: 208 KB
+	----------------------
+	Ordinal Number: 29	Name: usermgrcli.dll
+	File Name: C:\Windows\SYSTEM32\usermgrcli.dll
+	Entry Point: 0x00007FF98C224250		Base of DLL: 0x00007FF98C220000		Size of Image: 88.0 KB
+	----------------------
+	Ordinal Number: 30	Name: AppXAllUserStore.dll
+	File Name: C:\Windows\system32\AppXAllUserStore.dll
+	Entry Point: 0x00007FF978E892D0		Base of DLL: 0x00007FF978E80000		Size of Image: 384 KB
+	----------------------
+	Ordinal Number: 31	Name: OLEAUT32.dll
+	File Name: C:\Windows\System32\OLEAUT32.dll
+	Entry Point: 0x00007FF9916CDE00		Base of DLL: 0x00007FF9916B0000		Size of Image: 820 KB
+	----------------------
+	Ordinal Number: 32	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 33	Name: WMsgAPI.dll
+	File Name: c:\windows\system32\WMsgAPI.dll
+	Entry Point: 0x00007FF98CE71780		Base of DLL: 0x00007FF98CE70000		Size of Image: 40.0 KB
+	----------------------
+-------------------------------------------------
+Process ID: 1164	Process Name: VBoxService.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\VBoxService.exe
+Modules List: 35 modules found
+	Ordinal Number: 0	Name: VBoxService.exe
+	File Name: C:\Windows\System32\VBoxService.exe
+	Entry Point: 0x00007FF747D565C4		Base of DLL: 0x00007FF747D40000		Size of Image: 2.72 MB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: USER32.dll
+	File Name: C:\Windows\System32\USER32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 5	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 6	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 7	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 8	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 9	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 10	Name: ADVAPI32.dll
+	File Name: C:\Windows\System32\ADVAPI32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 11	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 12	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 13	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 14	Name: SHELL32.dll
+	File Name: C:\Windows\System32\SHELL32.dll
+	Entry Point: 0x00007FF990B11770		Base of DLL: 0x00007FF990A00000		Size of Image: 7.26 MB
+	----------------------
+	Ordinal Number: 15	Name: MPR.dll
+	File Name: C:\Windows\System32\MPR.dll
+	Entry Point: 0x00007FF98C6628D0		Base of DLL: 0x00007FF98C660000		Size of Image: 116 KB
+	----------------------
+	Ordinal Number: 16	Name: VERSION.dll
+	File Name: C:\Windows\System32\VERSION.dll
+	Entry Point: 0x00007FF98C651390		Base of DLL: 0x00007FF98C650000		Size of Image: 40.0 KB
+	----------------------
+	Ordinal Number: 17	Name: ws2_32.dll
+	File Name: C:\Windows\System32\ws2_32.dll
+	Entry Point: 0x00007FF991164300		Base of DLL: 0x00007FF991150000		Size of Image: 428 KB
+	----------------------
+	Ordinal Number: 18	Name: shcore.dll
+	File Name: C:\Windows\System32\shcore.dll
+	Entry Point: 0x00007FF99138B840		Base of DLL: 0x00007FF991350000		Size of Image: 692 KB
+	----------------------
+	Ordinal Number: 19	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 20	Name: iphlpapi.dll
+	File Name: C:\Windows\system32\iphlpapi.dll
+	Entry Point: 0x00007FF98EADA620		Base of DLL: 0x00007FF98EAD0000		Size of Image: 236 KB
+	----------------------
+	Ordinal Number: 21	Name: ntmarta.dll
+	File Name: C:\Windows\SYSTEM32\ntmarta.dll
+	Entry Point: 0x00007FF98E3F6930		Base of DLL: 0x00007FF98E3F0000		Size of Image: 204 KB
+	----------------------
+	Ordinal Number: 22	Name: psapi.dll
+	File Name: C:\Windows\System32\psapi.dll
+	Entry Point: 0x00007FF9909E1110		Base of DLL: 0x00007FF9909E0000		Size of Image: 32.0 KB
+	----------------------
+	Ordinal Number: 23	Name: VBoxMRXNP.dll
+	File Name: C:\Windows\system32\VBoxMRXNP.dll
+	Entry Point: 0x00007FF98B8832CC		Base of DLL: 0x00007FF98B880000		Size of Image: 2.17 MB
+	----------------------
+	Ordinal Number: 24	Name: secur32.dll
+	File Name: C:\Windows\system32\secur32.dll
+	Entry Point: 0x00007FF98B182560		Base of DLL: 0x00007FF98B180000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 25	Name: SSPICLI.DLL
+	File Name: C:\Windows\System32\SSPICLI.DLL
+	Entry Point: 0x00007FF98F5CE390		Base of DLL: 0x00007FF98F5C0000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 26	Name: drprov.dll
+	File Name: C:\Windows\System32\drprov.dll
+	Entry Point: 0x00007FF98B171A70		Base of DLL: 0x00007FF98B170000		Size of Image: 44.0 KB
+	----------------------
+	Ordinal Number: 27	Name: WINSTA.dll
+	File Name: C:\Windows\System32\WINSTA.dll
+	Entry Point: 0x00007FF98F4FB770		Base of DLL: 0x00007FF98F4F0000		Size of Image: 360 KB
+	----------------------
+	Ordinal Number: 28	Name: ntlanman.dll
+	File Name: C:\Windows\System32\ntlanman.dll
+	Entry Point: 0x00007FF98B142DB0		Base of DLL: 0x00007FF98B140000		Size of Image: 132 KB
+	----------------------
+	Ordinal Number: 29	Name: davclnt.dll
+	File Name: C:\Windows\System32\davclnt.dll
+	Entry Point: 0x00007FF98B1217F0		Base of DLL: 0x00007FF98B120000		Size of Image: 120 KB
+	----------------------
+	Ordinal Number: 30	Name: DAVHLPR.dll
+	File Name: C:\Windows\System32\DAVHLPR.dll
+	Entry Point: 0x00007FF98B111290		Base of DLL: 0x00007FF98B110000		Size of Image: 52.0 KB
+	----------------------
+	Ordinal Number: 31	Name: wtsapi32.dll
+	File Name: C:\Windows\system32\wtsapi32.dll
+	Entry Point: 0x00007FF98CC228C0		Base of DLL: 0x00007FF98CC20000		Size of Image: 80.0 KB
+	----------------------
+	Ordinal Number: 32	Name: NSI.dll
+	File Name: C:\Windows\System32\NSI.dll
+	Entry Point: 0x00007FF9909F22F0		Base of DLL: 0x00007FF9909F0000		Size of Image: 32.0 KB
+	----------------------
+	Ordinal Number: 33	Name: dhcpcsvc.DLL
+	File Name: C:\Windows\SYSTEM32\dhcpcsvc.DLL
+	Entry Point: 0x00007FF98A1929B0		Base of DLL: 0x00007FF98A190000		Size of Image: 116 KB
+	----------------------
+	Ordinal Number: 34	Name: mswsock.dll
+	File Name: C:\Windows\system32\mswsock.dll
+	Entry Point: 0x00007FF98EDF1200		Base of DLL: 0x00007FF98EDE0000		Size of Image: 424 KB
+	----------------------
+-------------------------------------------------
+Process ID: 1184	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 31 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 8	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 9	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 10	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 11	Name: user32.dll
+	File Name: C:\Windows\System32\user32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 12	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 13	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 14	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 15	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 16	Name: wevtsvc.dll
+	File Name: c:\windows\system32\wevtsvc.dll
+	Entry Point: 0x00007FF98B6FD8D0		Base of DLL: 0x00007FF98B6A0000		Size of Image: 1.82 MB
+	----------------------
+	Ordinal Number: 17	Name: shcore.dll
+	File Name: C:\Windows\System32\shcore.dll
+	Entry Point: 0x00007FF99138B840		Base of DLL: 0x00007FF991350000		Size of Image: 692 KB
+	----------------------
+	Ordinal Number: 18	Name: WS2_32.dll
+	File Name: C:\Windows\System32\WS2_32.dll
+	Entry Point: 0x00007FF991164300		Base of DLL: 0x00007FF991150000		Size of Image: 428 KB
+	----------------------
+	Ordinal Number: 19	Name: USERENV.dll
+	File Name: c:\windows\system32\USERENV.dll
+	Entry Point: 0x00007FF98F604F10		Base of DLL: 0x00007FF98F600000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 20	Name: bcrypt.dll
+	File Name: C:\Windows\System32\bcrypt.dll
+	Entry Point: 0x00007FF98F9B8690		Base of DLL: 0x00007FF98F9B0000		Size of Image: 156 KB
+	----------------------
+	Ordinal Number: 21	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 22	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 23	Name: powrprof.dll
+	File Name: C:\Windows\SYSTEM32\powrprof.dll
+	Entry Point: 0x00007FF98F573480		Base of DLL: 0x00007FF98F570000		Size of Image: 300 KB
+	----------------------
+	Ordinal Number: 24	Name: UMPDC.dll
+	File Name: C:\Windows\SYSTEM32\UMPDC.dll
+	Entry Point: 0x00007FF98F553E30		Base of DLL: 0x00007FF98F550000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 25	Name: sspicli.dll
+	File Name: C:\Windows\System32\sspicli.dll
+	Entry Point: 0x00007FF98F5CE390		Base of DLL: 0x00007FF98F5C0000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 26	Name: mswsock.dll
+	File Name: C:\Windows\system32\mswsock.dll
+	Entry Point: 0x00007FF98EDF1200		Base of DLL: 0x00007FF98EDE0000		Size of Image: 424 KB
+	----------------------
+	Ordinal Number: 27	Name: gpapi.dll
+	File Name: C:\Windows\SYSTEM32\gpapi.dll
+	Entry Point: 0x00007FF98DFA3730		Base of DLL: 0x00007FF98DFA0000		Size of Image: 140 KB
+	----------------------
+	Ordinal Number: 28	Name: policymanager.dll
+	File Name: C:\Windows\SYSTEM32\policymanager.dll
+	Entry Point: 0x00007FF98A019D90		Base of DLL: 0x00007FF98A010000		Size of Image: 640 KB
+	----------------------
+	Ordinal Number: 29	Name: msvcp110_win.dll
+	File Name: c:\windows\system32\msvcp110_win.dll
+	Entry Point: 0x00007FF98E835870		Base of DLL: 0x00007FF98E7F0000		Size of Image: 552 KB
+	----------------------
+	Ordinal Number: 30	Name: OLEAUT32.dll
+	File Name: C:\Windows\System32\OLEAUT32.dll
+	Entry Point: 0x00007FF9916CDE00		Base of DLL: 0x00007FF9916B0000		Size of Image: 820 KB
+	----------------------
+-------------------------------------------------
+Process ID: 1192	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 31 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\system32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 8	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 9	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 10	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 11	Name: user32.dll
+	File Name: C:\Windows\System32\user32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 12	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 13	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 14	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 15	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 16	Name: timebrokerserver.dll
+	File Name: c:\windows\system32\timebrokerserver.dll
+	Entry Point: 0x00007FF98BC4ACD0		Base of DLL: 0x00007FF98BC40000		Size of Image: 192 KB
+	----------------------
+	Ordinal Number: 17	Name: powrprof.dll
+	File Name: C:\Windows\SYSTEM32\powrprof.dll
+	Entry Point: 0x00007FF98F573480		Base of DLL: 0x00007FF98F570000		Size of Image: 300 KB
+	----------------------
+	Ordinal Number: 18	Name: BrokerLib.dll
+	File Name: c:\windows\system32\BrokerLib.dll
+	Entry Point: 0x00007FF98D032840		Base of DLL: 0x00007FF98D020000		Size of Image: 304 KB
+	----------------------
+	Ordinal Number: 19	Name: UMPDC.dll
+	File Name: C:\Windows\SYSTEM32\UMPDC.dll
+	Entry Point: 0x00007FF98F553E30		Base of DLL: 0x00007FF98F550000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 20	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 21	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 22	Name: bi.dll
+	File Name: C:\Windows\SYSTEM32\bi.dll
+	Entry Point: 0x00007FF98CDB2F90		Base of DLL: 0x00007FF98CDB0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 23	Name: clbcatq.dll
+	File Name: C:\Windows\System32\clbcatq.dll
+	Entry Point: 0x00007FF99197D990		Base of DLL: 0x00007FF991960000		Size of Image: 676 KB
+	----------------------
+	Ordinal Number: 24	Name: twinapi.appcore.dll
+	File Name: C:\Windows\System32\twinapi.appcore.dll
+	Entry Point: 0x00007FF986C3C800		Base of DLL: 0x00007FF986BD0000		Size of Image: 2.00 MB
+	----------------------
+	Ordinal Number: 25	Name: usermgrcli.dll
+	File Name: C:\Windows\SYSTEM32\usermgrcli.dll
+	Entry Point: 0x00007FF98C224250		Base of DLL: 0x00007FF98C220000		Size of Image: 88.0 KB
+	----------------------
+	Ordinal Number: 26	Name: ole32.dll
+	File Name: C:\Windows\System32\ole32.dll
+	Entry Point: 0x00007FF9904F6360		Base of DLL: 0x00007FF9904D0000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 27	Name: coml2.dll
+	File Name: C:\Windows\System32\coml2.dll
+	Entry Point: 0x00007FF991EB28F0		Base of DLL: 0x00007FF991E90000		Size of Image: 484 KB
+	----------------------
+	Ordinal Number: 28	Name: OneCoreCommonProxyStub.dll
+	File Name: C:\Windows\System32\OneCoreCommonProxyStub.dll
+	Entry Point: 0x00007FF97B153B00		Base of DLL: 0x00007FF97B150000		Size of Image: 500 KB
+	----------------------
+	Ordinal Number: 29	Name: execmodelproxy.dll
+	File Name: C:\Windows\system32\execmodelproxy.dll
+	Entry Point: 0x00007FF977781BF0		Base of DLL: 0x00007FF977780000		Size of Image: 96.0 KB
+	----------------------
+	Ordinal Number: 30	Name: OneCoreUAPCommonProxyStub.dll
+	File Name: C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+	Entry Point: 0x00007FF984146100		Base of DLL: 0x00007FF984130000		Size of Image: 7.59 MB
+	----------------------
+-------------------------------------------------
+Process ID: 1200	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 20 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 8	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 9	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 10	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 11	Name: user32.dll
+	File Name: C:\Windows\System32\user32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 12	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 13	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 14	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 15	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 16	Name: lmhsvc.dll
+	File Name: c:\windows\system32\lmhsvc.dll
+	Entry Point: 0x00007FF98BCA1BC0		Base of DLL: 0x00007FF98BCA0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 17	Name: WS2_32.dll
+	File Name: C:\Windows\System32\WS2_32.dll
+	Entry Point: 0x00007FF991164300		Base of DLL: 0x00007FF991150000		Size of Image: 428 KB
+	----------------------
+	Ordinal Number: 18	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 19	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+-------------------------------------------------
+Process ID: 1284	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 62 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\system32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 8	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 9	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 10	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 11	Name: user32.dll
+	File Name: C:\Windows\System32\user32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 12	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 13	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 14	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 15	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 16	Name: profsvc.dll
+	File Name: c:\windows\system32\profsvc.dll
+	Entry Point: 0x00007FF98C347EA0		Base of DLL: 0x00007FF98C330000		Size of Image: 496 KB
+	----------------------
+	Ordinal Number: 17	Name: OLEAUT32.dll
+	File Name: C:\Windows\System32\OLEAUT32.dll
+	Entry Point: 0x00007FF9916CDE00		Base of DLL: 0x00007FF9916B0000		Size of Image: 820 KB
+	----------------------
+	Ordinal Number: 18	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 19	Name: profapi.dll
+	File Name: c:\windows\system32\profapi.dll
+	Entry Point: 0x00007FF98F648D30		Base of DLL: 0x00007FF98F640000		Size of Image: 124 KB
+	----------------------
+	Ordinal Number: 20	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 21	Name: SYSNTFY.dll
+	File Name: c:\windows\system32\SYSNTFY.dll
+	Entry Point: 0x00007FF98D3C2BA0		Base of DLL: 0x00007FF98D3C0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 22	Name: profsvcext.dll
+	File Name: C:\Windows\SYSTEM32\profsvcext.dll
+	Entry Point: 0x00007FF98C2F4220		Base of DLL: 0x00007FF98C2F0000		Size of Image: 200 KB
+	----------------------
+	Ordinal Number: 23	Name: WLDAP32.dll
+	File Name: C:\Windows\System32\WLDAP32.dll
+	Entry Point: 0x00007FF991252840		Base of DLL: 0x00007FF991250000		Size of Image: 344 KB
+	----------------------
+	Ordinal Number: 24	Name: USERENV.dll
+	File Name: c:\windows\system32\USERENV.dll
+	Entry Point: 0x00007FF98F604F10		Base of DLL: 0x00007FF98F600000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 25	Name: logoncli.dll
+	File Name: c:\windows\system32\logoncli.dll
+	Entry Point: 0x00007FF98EBFA3E0		Base of DLL: 0x00007FF98EBF0000		Size of Image: 264 KB
+	----------------------
+	Ordinal Number: 26	Name: netutils.dll
+	File Name: c:\windows\system32\netutils.dll
+	Entry Point: 0x00007FF98EBE1CE0		Base of DLL: 0x00007FF98EBE0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 27	Name: wkscli.dll
+	File Name: c:\windows\system32\wkscli.dll
+	Entry Point: 0x00007FF98E881D60		Base of DLL: 0x00007FF98E880000		Size of Image: 92.0 KB
+	----------------------
+	Ordinal Number: 28	Name: clbcatq.dll
+	File Name: C:\Windows\System32\clbcatq.dll
+	Entry Point: 0x00007FF99197D990		Base of DLL: 0x00007FF991960000		Size of Image: 676 KB
+	----------------------
+	Ordinal Number: 29	Name: gpapi.dll
+	File Name: C:\Windows\SYSTEM32\gpapi.dll
+	Entry Point: 0x00007FF98DFA3730		Base of DLL: 0x00007FF98DFA0000		Size of Image: 140 KB
+	----------------------
+	Ordinal Number: 30	Name: SspiCli.dll
+	File Name: c:\windows\system32\SspiCli.dll
+	Entry Point: 0x00007FF98F5CE390		Base of DLL: 0x00007FF98F5C0000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 31	Name: ntmarta.dll
+	File Name: C:\Windows\SYSTEM32\ntmarta.dll
+	Entry Point: 0x00007FF98E3F6930		Base of DLL: 0x00007FF98E3F0000		Size of Image: 204 KB
+	----------------------
+	Ordinal Number: 32	Name: Windows.CloudStore.dll
+	File Name: C:\Windows\System32\Windows.CloudStore.dll
+	Entry Point: 0x00007FF979044690		Base of DLL: 0x00007FF978FC0000		Size of Image: 1.94 MB
+	----------------------
+	Ordinal Number: 33	Name: SHCORE.dll
+	File Name: C:\Windows\System32\SHCORE.dll
+	Entry Point: 0x00007FF99138B840		Base of DLL: 0x00007FF991350000		Size of Image: 692 KB
+	----------------------
+	Ordinal Number: 34	Name: urlmon.dll
+	File Name: C:\Windows\System32\urlmon.dll
+	Entry Point: 0x00007FF9885EFC30		Base of DLL: 0x00007FF988570000		Size of Image: 1.91 MB
+	----------------------
+	Ordinal Number: 35	Name: bcrypt.dll
+	File Name: C:\Windows\System32\bcrypt.dll
+	Entry Point: 0x00007FF98F9B8690		Base of DLL: 0x00007FF98F9B0000		Size of Image: 156 KB
+	----------------------
+	Ordinal Number: 36	Name: iertutil.dll
+	File Name: C:\Windows\System32\iertutil.dll
+	Entry Point: 0x00007FF9869571B0		Base of DLL: 0x00007FF986920000		Size of Image: 2.68 MB
+	----------------------
+	Ordinal Number: 37	Name: srvcli.dll
+	File Name: C:\Windows\System32\srvcli.dll
+	Entry Point: 0x00007FF987052110		Base of DLL: 0x00007FF987050000		Size of Image: 160 KB
+	----------------------
+	Ordinal Number: 38	Name: usermgrcli.dll
+	File Name: C:\Windows\SYSTEM32\usermgrcli.dll
+	Entry Point: 0x00007FF98C224250		Base of DLL: 0x00007FF98C220000		Size of Image: 88.0 KB
+	----------------------
+	Ordinal Number: 39	Name: IDStore.dll
+	File Name: C:\Windows\System32\IDStore.dll
+	Entry Point: 0x00007FF97A066ED0		Base of DLL: 0x00007FF97A060000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 40	Name: SettingSync.dll
+	File Name: C:\Windows\system32\SettingSync.dll
+	Entry Point: 0x00007FF978F0D3E0		Base of DLL: 0x00007FF978F00000		Size of Image: 740 KB
+	----------------------
+	Ordinal Number: 41	Name: shlwapi.dll
+	File Name: C:\Windows\System32\shlwapi.dll
+	Entry Point: 0x00007FF99011A7A0		Base of DLL: 0x00007FF990110000		Size of Image: 340 KB
+	----------------------
+	Ordinal Number: 42	Name: CoreMessaging.dll
+	File Name: C:\Windows\system32\CoreMessaging.dll
+	Entry Point: 0x00007FF98CB37480		Base of DLL: 0x00007FF98CAE0000		Size of Image: 968 KB
+	----------------------
+	Ordinal Number: 43	Name: CoreUIComponents.dll
+	File Name: C:\Windows\system32\CoreUIComponents.dll
+	Entry Point: 0x00007FF98C802FE0		Base of DLL: 0x00007FF98C780000		Size of Image: 3.36 MB
+	----------------------
+	Ordinal Number: 44	Name: WS2_32.dll
+	File Name: C:\Windows\System32\WS2_32.dll
+	Entry Point: 0x00007FF991164300		Base of DLL: 0x00007FF991150000		Size of Image: 428 KB
+	----------------------
+	Ordinal Number: 45	Name: SLC.dll
+	File Name: C:\Windows\system32\SLC.dll
+	Entry Point: 0x00007FF98E281BD0		Base of DLL: 0x00007FF98E280000		Size of Image: 164 KB
+	----------------------
+	Ordinal Number: 46	Name: wevtapi.dll
+	File Name: C:\Windows\system32\wevtapi.dll
+	Entry Point: 0x00007FF98A133640		Base of DLL: 0x00007FF98A120000		Size of Image: 404 KB
+	----------------------
+	Ordinal Number: 47	Name: wintypes.dll
+	File Name: C:\Windows\SYSTEM32\wintypes.dll
+	Entry Point: 0x00007FF98B54AD30		Base of DLL: 0x00007FF98B520000		Size of Image: 1.32 MB
+	----------------------
+	Ordinal Number: 48	Name: sppc.dll
+	File Name: C:\Windows\system32\sppc.dll
+	Entry Point: 0x00007FF98E253920		Base of DLL: 0x00007FF98E250000		Size of Image: 148 KB
+	----------------------
+	Ordinal Number: 49	Name: shacctprofile.dll
+	File Name: C:\Windows\System32\shacctprofile.dll
+	Entry Point: 0x00007FF978EE8250		Base of DLL: 0x00007FF978EE0000		Size of Image: 96.0 KB
+	----------------------
+	Ordinal Number: 50	Name: SAMLIB.dll
+	File Name: C:\Windows\System32\SAMLIB.dll
+	Entry Point: 0x00007FF989F43DE0		Base of DLL: 0x00007FF989F40000		Size of Image: 156 KB
+	----------------------
+	Ordinal Number: 51	Name: SHELL32.dll
+	File Name: C:\Windows\System32\SHELL32.dll
+	Entry Point: 0x00007FF990B11770		Base of DLL: 0x00007FF990A00000		Size of Image: 7.26 MB
+	----------------------
+	Ordinal Number: 52	Name: windows.storage.dll
+	File Name: C:\Windows\SYSTEM32\windows.storage.dll
+	Entry Point: 0x00007FF98D9A88A0		Base of DLL: 0x00007FF98D7F0000		Size of Image: 7.57 MB
+	----------------------
+	Ordinal Number: 53	Name: AppExtension.dll
+	File Name: C:\Windows\System32\AppExtension.dll
+	Entry Point: 0x00007FF9753C9340		Base of DLL: 0x00007FF9753C0000		Size of Image: 220 KB
+	----------------------
+	Ordinal Number: 54	Name: PROPSYS.dll
+	File Name: C:\Windows\System32\PROPSYS.dll
+	Entry Point: 0x00007FF989362B30		Base of DLL: 0x00007FF989320000		Size of Image: 984 KB
+	----------------------
+	Ordinal Number: 55	Name: twinapi.appcore.dll
+	File Name: C:\Windows\System32\twinapi.appcore.dll
+	Entry Point: 0x00007FF986C3C800		Base of DLL: 0x00007FF986BD0000		Size of Image: 2.00 MB
+	----------------------
+	Ordinal Number: 56	Name: AppXDeploymentClient.dll
+	File Name: C:\Windows\System32\AppXDeploymentClient.dll
+	Entry Point: 0x00007FF989028700		Base of DLL: 0x00007FF989010000		Size of Image: 996 KB
+	----------------------
+	Ordinal Number: 57	Name: Windows.StateRepositoryPS.dll
+	File Name: C:\Windows\System32\Windows.StateRepositoryPS.dll
+	Entry Point: 0x00007FF9761C7620		Base of DLL: 0x00007FF9761C0000		Size of Image: 1.27 MB
+	----------------------
+	Ordinal Number: 58	Name: cscobj.dll
+	File Name: C:\Windows\System32\cscobj.dll
+	Entry Point: 0x00007FF98CEE2520		Base of DLL: 0x00007FF98CEE0000		Size of Image: 320 KB
+	----------------------
+	Ordinal Number: 59	Name: WTSAPI32.dll
+	File Name: C:\Windows\System32\WTSAPI32.dll
+	Entry Point: 0x00007FF98CC228C0		Base of DLL: 0x00007FF98CC20000		Size of Image: 80.0 KB
+	----------------------
+	Ordinal Number: 60	Name: DSROLE.dll
+	File Name: c:\windows\system32\DSROLE.dll
+	Entry Point: 0x00007FF98C3B1780		Base of DLL: 0x00007FF98C3B0000		Size of Image: 40.0 KB
+	----------------------
+	Ordinal Number: 61	Name: CSCAPI.dll
+	File Name: C:\Windows\System32\CSCAPI.dll
+	Entry Point: 0x00007FF972EC3330		Base of DLL: 0x00007FF972EC0000		Size of Image: 72.0 KB
+	----------------------
+-------------------------------------------------
+Process ID: 1296	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 23 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\system32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 8	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 9	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 10	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 11	Name: user32.dll
+	File Name: C:\Windows\System32\user32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 12	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 13	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 14	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 15	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 16	Name: es.dll
+	File Name: c:\windows\system32\es.dll
+	Entry Point: 0x00007FF98BBEEC00		Base of DLL: 0x00007FF98BBD0000		Size of Image: 432 KB
+	----------------------
+	Ordinal Number: 17	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 18	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 19	Name: clbcatq.dll
+	File Name: C:\Windows\System32\clbcatq.dll
+	Entry Point: 0x00007FF99197D990		Base of DLL: 0x00007FF991960000		Size of Image: 676 KB
+	----------------------
+	Ordinal Number: 20	Name: OLEAUT32.dll
+	File Name: C:\Windows\System32\OLEAUT32.dll
+	Entry Point: 0x00007FF9916CDE00		Base of DLL: 0x00007FF9916B0000		Size of Image: 820 KB
+	----------------------
+	Ordinal Number: 21	Name: sxs.dll
+	File Name: C:\Windows\SYSTEM32\sxs.dll
+	Entry Point: 0x00007FF98F46CA60		Base of DLL: 0x00007FF98F440000		Size of Image: 648 KB
+	----------------------
+	Ordinal Number: 22	Name: ole32.dll
+	File Name: C:\Windows\System32\ole32.dll
+	Entry Point: 0x00007FF9904F6360		Base of DLL: 0x00007FF9904D0000		Size of Image: 1.16 MB
+	----------------------
+-------------------------------------------------
+Process ID: 1308	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 46 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\system32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 8	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 9	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 10	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 11	Name: user32.dll
+	File Name: C:\Windows\System32\user32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 12	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 13	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 14	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 15	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 16	Name: sysmain.dll
+	File Name: c:\windows\system32\sysmain.dll
+	Entry Point: 0x00007FF98C410E50		Base of DLL: 0x00007FF98C3C0000		Size of Image: 0.98 MB
+	----------------------
+	Ordinal Number: 17	Name: cfgmgr32.dll
+	File Name: C:\Windows\System32\cfgmgr32.dll
+	Entry Point: 0x00007FF98FE93280		Base of DLL: 0x00007FF98FE80000		Size of Image: 312 KB
+	----------------------
+	Ordinal Number: 18	Name: shcore.dll
+	File Name: C:\Windows\System32\shcore.dll
+	Entry Point: 0x00007FF99138B840		Base of DLL: 0x00007FF991350000		Size of Image: 692 KB
+	----------------------
+	Ordinal Number: 19	Name: UMPDC.dll
+	File Name: c:\windows\system32\UMPDC.dll
+	Entry Point: 0x00007FF98F553E30		Base of DLL: 0x00007FF98F550000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 20	Name: POWRPROF.dll
+	File Name: c:\windows\system32\POWRPROF.dll
+	Entry Point: 0x00007FF98F573480		Base of DLL: 0x00007FF98F570000		Size of Image: 300 KB
+	----------------------
+	Ordinal Number: 21	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 22	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 23	Name: ntmarta.dll
+	File Name: C:\Windows\SYSTEM32\ntmarta.dll
+	Entry Point: 0x00007FF98E3F6930		Base of DLL: 0x00007FF98E3F0000		Size of Image: 204 KB
+	----------------------
+	Ordinal Number: 24	Name: wtsapi32.dll
+	File Name: C:\Windows\SYSTEM32\wtsapi32.dll
+	Entry Point: 0x00007FF98CC228C0		Base of DLL: 0x00007FF98CC20000		Size of Image: 80.0 KB
+	----------------------
+	Ordinal Number: 25	Name: WINSTA.dll
+	File Name: C:\Windows\SYSTEM32\WINSTA.dll
+	Entry Point: 0x00007FF98F4FB770		Base of DLL: 0x00007FF98F4F0000		Size of Image: 360 KB
+	----------------------
+	Ordinal Number: 26	Name: rmclient.dll
+	File Name: C:\Windows\SYSTEM32\rmclient.dll
+	Entry Point: 0x00007FF98D3D9FE0		Base of DLL: 0x00007FF98D3D0000		Size of Image: 168 KB
+	----------------------
+	Ordinal Number: 27	Name: sspicli.dll
+	File Name: C:\Windows\system32\sspicli.dll
+	Entry Point: 0x00007FF98F5CE390		Base of DLL: 0x00007FF98F5C0000		Size of Image: 196 KB
+	----------------------
+	Ordinal Number: 28	Name: DEVOBJ.dll
+	File Name: c:\windows\system32\DEVOBJ.dll
+	Entry Point: 0x00007FF98F248230		Base of DLL: 0x00007FF98F240000		Size of Image: 208 KB
+	----------------------
+	Ordinal Number: 29	Name: OLEAUT32.dll
+	File Name: C:\Windows\System32\OLEAUT32.dll
+	Entry Point: 0x00007FF9916CDE00		Base of DLL: 0x00007FF9916B0000		Size of Image: 820 KB
+	----------------------
+	Ordinal Number: 30	Name: clbcatq.dll
+	File Name: C:\Windows\System32\clbcatq.dll
+	Entry Point: 0x00007FF99197D990		Base of DLL: 0x00007FF991960000		Size of Image: 676 KB
+	----------------------
+	Ordinal Number: 31	Name: taskschd.dll
+	File Name: C:\Windows\System32\taskschd.dll
+	Entry Point: 0x00007FF98C25EBF0		Base of DLL: 0x00007FF98C240000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 32	Name: XmlLite.dll
+	File Name: C:\Windows\System32\XmlLite.dll
+	Entry Point: 0x00007FF98CD3F5A0		Base of DLL: 0x00007FF98CD30000		Size of Image: 216 KB
+	----------------------
+	Ordinal Number: 33	Name: ole32.dll
+	File Name: C:\Windows\System32\ole32.dll
+	Entry Point: 0x00007FF9904F6360		Base of DLL: 0x00007FF9904D0000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 34	Name: coml2.dll
+	File Name: C:\Windows\System32\coml2.dll
+	Entry Point: 0x00007FF991EB28F0		Base of DLL: 0x00007FF991E90000		Size of Image: 484 KB
+	----------------------
+	Ordinal Number: 35	Name: OneCoreCommonProxyStub.dll
+	File Name: C:\Windows\System32\OneCoreCommonProxyStub.dll
+	Entry Point: 0x00007FF97B153B00		Base of DLL: 0x00007FF97B150000		Size of Image: 500 KB
+	----------------------
+	Ordinal Number: 36	Name: OneCoreUAPCommonProxyStub.dll
+	File Name: C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+	Entry Point: 0x00007FF984146100		Base of DLL: 0x00007FF984130000		Size of Image: 7.59 MB
+	----------------------
+	Ordinal Number: 37	Name: setupapi.dll
+	File Name: C:\Windows\System32\setupapi.dll
+	Entry Point: 0x00007FF991A34130		Base of DLL: 0x00007FF991A10000		Size of Image: 4.44 MB
+	----------------------
+	Ordinal Number: 38	Name: bcrypt.dll
+	File Name: C:\Windows\System32\bcrypt.dll
+	Entry Point: 0x00007FF98F9B8690		Base of DLL: 0x00007FF98F9B0000		Size of Image: 156 KB
+	----------------------
+	Ordinal Number: 39	Name: WINTRUST.dll
+	File Name: C:\Windows\System32\WINTRUST.dll
+	Entry Point: 0x00007FF98FE31100		Base of DLL: 0x00007FF98FE20000		Size of Image: 384 KB
+	----------------------
+	Ordinal Number: 40	Name: CRYPT32.dll
+	File Name: C:\Windows\System32\CRYPT32.dll
+	Entry Point: 0x00007FF98FF1F2D0		Base of DLL: 0x00007FF98FED0000		Size of Image: 1.33 MB
+	----------------------
+	Ordinal Number: 41	Name: MSASN1.dll
+	File Name: C:\Windows\System32\MSASN1.dll
+	Entry Point: 0x00007FF98F2255F0		Base of DLL: 0x00007FF98F220000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 42	Name: bi.dll
+	File Name: C:\Windows\system32\bi.dll
+	Entry Point: 0x00007FF98CDB2F90		Base of DLL: 0x00007FF98CDB0000		Size of Image: 48.0 KB
+	----------------------
+	Ordinal Number: 43	Name: SystemEventsBrokerClient.dll
+	File Name: C:\Windows\system32\SystemEventsBrokerClient.dll
+	Entry Point: 0x00007FF98CDD2090		Base of DLL: 0x00007FF98CDD0000		Size of Image: 52.0 KB
+	----------------------
+	Ordinal Number: 44	Name: wlidprov.dll
+	File Name: C:\Windows\System32\wlidprov.dll
+	Entry Point: 0x00007FF977659830		Base of DLL: 0x00007FF977650000		Size of Image: 680 KB
+	----------------------
+	Ordinal Number: 45	Name: samcli.dll
+	File Name: C:\Windows\System32\samcli.dll
+	Entry Point: 0x00007FF9866F51E0		Base of DLL: 0x00007FF9866F0000		Size of Image: 100 KB
+	----------------------
+-------------------------------------------------
+Process ID: 1316	Process Name: svchost.exe
+Process Image: \Device\HarddiskVolume2\Windows\System32\svchost.exe
+Modules List: 21 modules found
+	Ordinal Number: 0	Name: svchost.exe
+	File Name: C:\Windows\System32\svchost.exe
+	Entry Point: 0x00007FF758FD4E80		Base of DLL: 0x00007FF758FD0000		Size of Image: 68.0 KB
+	----------------------
+	Ordinal Number: 1	Name: ntdll.dll
+	File Name: C:\Windows\SYSTEM32\ntdll.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF991FF0000		Size of Image: 1.95 MB
+	----------------------
+	Ordinal Number: 2	Name: KERNEL32.DLL
+	File Name: C:\Windows\System32\KERNEL32.DLL
+	Entry Point: 0x00007FF9914270D0		Base of DLL: 0x00007FF991410000		Size of Image: 760 KB
+	----------------------
+	Ordinal Number: 3	Name: KERNELBASE.dll
+	File Name: C:\Windows\System32\KERNELBASE.dll
+	Entry Point: 0x00007FF98FAB0710		Base of DLL: 0x00007FF98FAA0000		Size of Image: 2.78 MB
+	----------------------
+	Ordinal Number: 4	Name: sechost.dll
+	File Name: C:\Windows\System32\sechost.dll
+	Entry Point: 0x00007FF9912CCD50		Base of DLL: 0x00007FF9912B0000		Size of Image: 620 KB
+	----------------------
+	Ordinal Number: 5	Name: RPCRT4.dll
+	File Name: C:\Windows\System32\RPCRT4.dll
+	Entry Point: 0x00007FF99188EDB0		Base of DLL: 0x00007FF991830000		Size of Image: 1.16 MB
+	----------------------
+	Ordinal Number: 6	Name: ucrtbase.dll
+	File Name: C:\Windows\System32\ucrtbase.dll
+	Entry Point: 0x00007FF98F8C6110		Base of DLL: 0x00007FF98F8B0000		Size of Image: 1.00 MB
+	----------------------
+	Ordinal Number: 7	Name: combase.dll
+	File Name: C:\Windows\System32\combase.dll
+	Entry Point: 0x00007FF990262BB0		Base of DLL: 0x00007FF990170000		Size of Image: 3.33 MB
+	----------------------
+	Ordinal Number: 8	Name: kernel.appcore.dll
+	File Name: C:\Windows\SYSTEM32\kernel.appcore.dll
+	Entry Point: 0x00007FF98D4D3F10		Base of DLL: 0x00007FF98D4D0000		Size of Image: 72.0 KB
+	----------------------
+	Ordinal Number: 9	Name: msvcrt.dll
+	File Name: C:\Windows\System32\msvcrt.dll
+	Entry Point: 0x00007FF991F17850		Base of DLL: 0x00007FF991F10000		Size of Image: 632 KB
+	----------------------
+	Ordinal Number: 10	Name: bcryptPrimitives.dll
+	File Name: C:\Windows\System32\bcryptPrimitives.dll
+	Entry Point: 0x00007FF98FA48B60		Base of DLL: 0x00007FF98FA10000		Size of Image: 520 KB
+	----------------------
+	Ordinal Number: 11	Name: user32.dll
+	File Name: C:\Windows\System32\user32.dll
+	Entry Point: 0x00007FF9907282D0		Base of DLL: 0x00007FF990710000		Size of Image: 1.62 MB
+	----------------------
+	Ordinal Number: 12	Name: win32u.dll
+	File Name: C:\Windows\System32\win32u.dll
+	Entry Point: 0x0000000000000000		Base of DLL: 0x00007FF98F9E0000		Size of Image: 136 KB
+	----------------------
+	Ordinal Number: 13	Name: GDI32.dll
+	File Name: C:\Windows\System32\GDI32.dll
+	Entry Point: 0x00007FF9916848D0		Base of DLL: 0x00007FF991680000		Size of Image: 172 KB
+	----------------------
+	Ordinal Number: 14	Name: gdi32full.dll
+	File Name: C:\Windows\System32\gdi32full.dll
+	Entry Point: 0x00007FF98F730AF0		Base of DLL: 0x00007FF98F700000		Size of Image: 1.05 MB
+	----------------------
+	Ordinal Number: 15	Name: msvcp_win.dll
+	File Name: C:\Windows\System32\msvcp_win.dll
+	Entry Point: 0x00007FF98F825390		Base of DLL: 0x00007FF98F810000		Size of Image: 628 KB
+	----------------------
+	Ordinal Number: 16	Name: themeservice.dll
+	File Name: c:\windows\system32\themeservice.dll
+	Entry Point: 0x00007FF98C4E49B0		Base of DLL: 0x00007FF98C4E0000		Size of Image: 92.0 KB
+	----------------------
+	Ordinal Number: 17	Name: WLDP.DLL
+	File Name: C:\Windows\SYSTEM32\WLDP.DLL
+	Entry Point: 0x00007FF98F083970		Base of DLL: 0x00007FF98F080000		Size of Image: 184 KB
+	----------------------
+	Ordinal Number: 18	Name: advapi32.dll
+	File Name: C:\Windows\System32\advapi32.dll
+	Entry Point: 0x00007FF991795620		Base of DLL: 0x00007FF991780000		Size of Image: 688 KB
+	----------------------
+	Ordinal Number: 19	Name: winsta.dll
+	File Name: C:\Windows\SYSTEM32\winsta.dll
+	Entry Point: 0x00007FF98F4FB770		Base of DLL: 0x00007FF98F4F0000		Size of Image: 360 KB
+	----------------------
+	Ordinal Number: 20	Name: ntmarta.dll
+	File Name: C:\Windows\SYSTEM32\ntmarta.dll
+	Entry Point: 0x00007FF98E3F6930		Base of DLL: 0x00007FF98E3F0000		Size of Image: 204 KB
+	----------------------
+-------------------------------------------------
+Process ID: 1396
+[ERR:5] OpenProcess(): Access is denied.
+-------------------------------------------------
