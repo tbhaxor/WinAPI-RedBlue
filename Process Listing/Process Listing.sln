@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PS Api", "PS Api\PS Api.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tool Help32 Api", "Tool Help32 Api\Tool Help32 Api.vcxproj", "{ADE2FA3E-B25C-47CA-8E12-EA6F87101AA6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NT System Query", "NT System Query\NT System Query.vcxproj", "{03820352-F4D5-491F-BDAC-999FAC3CCEB6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NT Query System Api", "NT System Query\NT System Query.vcxproj", "{03820352-F4D5-491F-BDAC-999FAC3CCEB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

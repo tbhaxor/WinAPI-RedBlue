@@ -24,6 +24,7 @@
     <ProjectGuid>{03820352-f4d5-491f-bdac-999fac3cceb6}</ProjectGuid>
     <RootNamespace>NTSystemQuery</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>NT Query System Api</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
