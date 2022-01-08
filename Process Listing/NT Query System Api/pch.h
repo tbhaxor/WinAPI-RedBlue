@@ -21,6 +21,14 @@ EXTERN_C NTSTATUS NTAPI NtQuerySystemInformation(
 	OUT PULONG              ReturnLength OPTIONAL
 );
 
+/// <summary>
+/// Convert bytes to human-readable format using StrFormatByteSizeW from Shlwapi.lib
+///
+/// Note: Base used for conversion is 1024
+/// </summary>
+/// <typeparam name="T">Numertic type which will be then converted to LONGLONG</typeparam>
+/// <param name="size">Size in bytes</param>
+/// <returns>Constant wide string containg the human-readable size buffer</returns>
 template <typename T>
 LPCWSTR GetHumanReadableSize(T size) {
 	LPCWSTR lpSize = (LPCWSTR)VirtualAlloc(nullptr, MAX_PATH, MEM_COMMIT | MEM_RESERVE, PAGE_READWRITE);
