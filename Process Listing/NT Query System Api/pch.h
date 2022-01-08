@@ -24,7 +24,7 @@ EXTERN_C NTSTATUS NTAPI NtQuerySystemInformation(
 /// <summary>
 /// Convert bytes to human-readable format using StrFormatByteSizeW from Shlwapi.lib
 ///
-/// Note: Base used for conversion is 1024
+/// Note: In Windows 10, size is reported in base 10 rather than base 2. For example, 1 KB is 1000 bytes rather than 1024.
 /// </summary>
 /// <typeparam name="T">Numertic type which will be then converted to LONGLONG</typeparam>
 /// <param name="size">Size in bytes</param>
