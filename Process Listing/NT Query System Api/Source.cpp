@@ -26,14 +26,26 @@ INT main(VOID) {
 
 	do {
 		// Print process details
-		std::cout << "PID: " << HandleToUlong(p->UniqueProcessId) << "\tSession ID: " << p->SessionId << "\tImage Name: ";
-		std::wcout << (p->ImageName.Buffer ? p->ImageName.Buffer : L"") << std::endl;
-		std::cout << "# Handles: " << p->HandleCount << "\t\t\t# Threads: " << p->NumberOfThreads << std::endl;
-		std::cout << "Virtual Size: "  << p->VirtualSize << "\tPeak Virtual Size: " << p->PeakVirtualSize << std::endl;
-		std::cout << "Pagefile Usage: " << p->PagefileUsage << "\tPeak Pagefile Usage: " << p->PeakPagefileUsage << std::endl;
-		std::cout << "Working Set Size: " << p->WorkingSetSize << "\tPeak Working Set Size: " << p->PeakWorkingSetSize << std::endl;
-		std::cout << "Quota Non-Paged Pool Usage: " << p->QuotaNonPagedPoolUsage << "\tQuota Paged Pool Usage: " << p->QuotaPagedPoolUsage << std::endl;
-		std::cout << "-------------------------------------------------------------------------------------" << std::endl;
+		std::wcout << L"PID: "                        << HandleToUlong(p->UniqueProcessId) 
+				   << L"\t\t\t\tSession ID: "         << p->SessionId 
+			       << L"\t\t\tImage Name: "           << (p->ImageName.Buffer ? p->ImageName.Buffer : L"")     << std::endl;
+		
+		std::wcout << L"# Handles: "                  << p->HandleCount 
+			       << L"\t\t\t\t# Threads: "          << p->NumberOfThreads                                    << std::endl;
+		
+		std::wcout << L"Virtual Size: "               << GetHumanReadableSize(p->VirtualSize) 
+				   << L"\t\t\tPeak Virtual Size: "    << GetHumanReadableSize(p->PeakVirtualSize)              << std::endl;
+		
+		std::wcout << L"Pagefile Usage: "             << GetHumanReadableSize(p->PagefileUsage) 
+			       << L"\t\t\tPeak Pagefile Usage: "  << GetHumanReadableSize(p->PeakPagefileUsage)            << std::endl;
+		
+		std::wcout << L"Working Set Size: "           << GetHumanReadableSize(p->WorkingSetSize) 
+			       << L"\t\tPeak Working Set Size: "  << GetHumanReadableSize(p->PeakWorkingSetSize)           << std::endl;
+		
+		std::wcout << L"Quota Non-Paged Pool Usage: " << GetHumanReadableSize(p->QuotaNonPagedPoolUsage) 
+			       << L"\tQuota Paged Pool Usage: "   << GetHumanReadableSize(p->QuotaPagedPoolUsage)          << std::endl;
+		
+		std::wcout << L"-------------------------------------------------------------------------------------" << std::endl;
 
 		// Jump to next entry
 		p = (PSYSTEM_PROCESS_INFORMATION)((PBYTE)p + p->NextEntryOffset);

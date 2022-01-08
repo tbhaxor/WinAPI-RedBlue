@@ -1,0 +1,1022 @@
+PID: 0				Session ID: 0			Image Name: 
+# Handles: 0				# Threads: 4
+Virtual Size: 8.00 KB			Peak Virtual Size: 8.00 KB
+Pagefile Usage: 60.0 KB			Peak Pagefile Usage: 60.0 KB
+Working Set Size: 8.00 KB		Peak Working Set Size: 12.0 KB
+Quota Non-Paged Pool Usage: 272 bytes	Quota Paged Pool Usage: 0 bytes
+-------------------------------------------------------------------------------------
+PID: 4				Session ID: 0			Image Name: System
+# Handles: 2792				# Threads: 112
+Virtual Size: 3.80 MB			Peak Virtual Size: 14.1 MB
+Pagefile Usage: 196 KB			Peak Pagefile Usage: 216 KB
+Working Set Size: 32.0 KB		Peak Working Set Size: 856 KB
+Quota Non-Paged Pool Usage: 272 bytes	Quota Paged Pool Usage: 0 bytes
+-------------------------------------------------------------------------------------
+PID: 108				Session ID: 0			Image Name: Registry
+# Handles: 0				# Threads: 4
+Virtual Size: 101 MB			Peak Virtual Size: 149 MB
+Pagefile Usage: 8.80 MB			Peak Pagefile Usage: 38.1 MB
+Working Set Size: 22.6 MB		Peak Working Set Size: 83.7 MB
+Quota Non-Paged Pool Usage: 9.16 KB	Quota Paged Pool Usage: 206 KB
+-------------------------------------------------------------------------------------
+PID: 356				Session ID: 0			Image Name: smss.exe
+# Handles: 53				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.04 MB			Peak Pagefile Usage: 1.14 MB
+Working Set Size: 324 KB		Peak Working Set Size: 1.23 MB
+Quota Non-Paged Pool Usage: 3.14 KB	Quota Paged Pool Usage: 12.8 KB
+-------------------------------------------------------------------------------------
+PID: 472				Session ID: 0			Image Name: csrss.exe
+# Handles: 482				# Threads: 11
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.70 MB			Peak Pagefile Usage: 1.85 MB
+Working Set Size: 2.30 MB		Peak Working Set Size: 5.66 MB
+Quota Non-Paged Pool Usage: 19.4 KB	Quota Paged Pool Usage: 218 KB
+-------------------------------------------------------------------------------------
+PID: 572				Session ID: 0			Image Name: wininit.exe
+# Handles: 162				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.38 MB			Peak Pagefile Usage: 1.83 MB
+Working Set Size: 1.44 MB		Peak Working Set Size: 7.01 MB
+Quota Non-Paged Pool Usage: 10.9 KB	Quota Paged Pool Usage: 75.4 KB
+-------------------------------------------------------------------------------------
+PID: 692				Session ID: 0			Image Name: services.exe
+# Handles: 611				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.85 MB			Peak Pagefile Usage: 5.20 MB
+Working Set Size: 6.06 MB		Peak Working Set Size: 9.76 MB
+Quota Non-Paged Pool Usage: 11.1 KB	Quota Paged Pool Usage: 151 KB
+-------------------------------------------------------------------------------------
+PID: 712				Session ID: 0			Image Name: lsass.exe
+# Handles: 1484				# Threads: 9
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 8.32 MB			Peak Pagefile Usage: 8.51 MB
+Working Set Size: 10.4 MB		Peak Working Set Size: 18.8 MB
+Quota Non-Paged Pool Usage: 25.5 KB	Quota Paged Pool Usage: 160 KB
+-------------------------------------------------------------------------------------
+PID: 824				Session ID: 0			Image Name: svchost.exe
+# Handles: 1395				# Threads: 11
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 12.2 MB			Peak Pagefile Usage: 13.8 MB
+Working Set Size: 18.9 MB		Peak Working Set Size: 31.5 MB
+Quota Non-Paged Pool Usage: 23.1 KB	Quota Paged Pool Usage: 561 KB
+-------------------------------------------------------------------------------------
+PID: 864				Session ID: 0			Image Name: fontdrvhost.exe
+# Handles: 37				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.41 MB			Peak Pagefile Usage: 1.44 MB
+Working Set Size: 1.00 MB		Peak Working Set Size: 3.86 MB
+Quota Non-Paged Pool Usage: 5.83 KB	Quota Paged Pool Usage: 41.8 KB
+-------------------------------------------------------------------------------------
+PID: 952				Session ID: 0			Image Name: svchost.exe
+# Handles: 1161				# Threads: 9
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 8.89 MB			Peak Pagefile Usage: 9.33 MB
+Working Set Size: 10.8 MB		Peak Working Set Size: 14.9 MB
+Quota Non-Paged Pool Usage: 17.8 KB	Quota Paged Pool Usage: 164 KB
+-------------------------------------------------------------------------------------
+PID: 1008				Session ID: 0			Image Name: svchost.exe
+# Handles: 283				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.36 MB			Peak Pagefile Usage: 22.3 MB
+Working Set Size: 3.82 MB		Peak Working Set Size: 8.13 MB
+Quota Non-Paged Pool Usage: 10.3 KB	Quota Paged Pool Usage: 118 KB
+-------------------------------------------------------------------------------------
+PID: 1164				Session ID: 0			Image Name: VBoxService.exe
+# Handles: 196				# Threads: 10
+Virtual Size: 4.08 GB			Peak Virtual Size: 4.09 GB
+Pagefile Usage: 2.69 MB			Peak Pagefile Usage: 3.27 MB
+Working Set Size: 4.32 MB		Peak Working Set Size: 7.57 MB
+Quota Non-Paged Pool Usage: 11.5 KB	Quota Paged Pool Usage: 94.3 KB
+-------------------------------------------------------------------------------------
+PID: 1184				Session ID: 0			Image Name: svchost.exe
+# Handles: 409				# Threads: 6
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 12.9 MB			Peak Pagefile Usage: 16.2 MB
+Working Set Size: 7.78 MB		Peak Working Set Size: 19.4 MB
+Quota Non-Paged Pool Usage: 13.2 KB	Quota Paged Pool Usage: 83.8 KB
+-------------------------------------------------------------------------------------
+PID: 1192				Session ID: 0			Image Name: svchost.exe
+# Handles: 300				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.94 MB			Peak Pagefile Usage: 2.34 MB
+Working Set Size: 4.45 MB		Peak Working Set Size: 11.6 MB
+Quota Non-Paged Pool Usage: 9.15 KB	Quota Paged Pool Usage: 117 KB
+-------------------------------------------------------------------------------------
+PID: 1284				Session ID: 0			Image Name: svchost.exe
+# Handles: 258				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.92 MB			Peak Pagefile Usage: 4.24 MB
+Working Set Size: 5.30 MB		Peak Working Set Size: 13.9 MB
+Quota Non-Paged Pool Usage: 13.8 KB	Quota Paged Pool Usage: 156 KB
+-------------------------------------------------------------------------------------
+PID: 1296				Session ID: 0			Image Name: svchost.exe
+# Handles: 168				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.78 MB			Peak Pagefile Usage: 2.03 MB
+Working Set Size: 3.71 MB		Peak Working Set Size: 7.63 MB
+Quota Non-Paged Pool Usage: 8.81 KB	Quota Paged Pool Usage: 71.6 KB
+-------------------------------------------------------------------------------------
+PID: 1308				Session ID: 0			Image Name: svchost.exe
+# Handles: 243				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 61.6 MB			Peak Pagefile Usage: 82.9 MB
+Working Set Size: 58.8 MB		Peak Working Set Size: 82.5 MB
+Quota Non-Paged Pool Usage: 13.6 KB	Quota Paged Pool Usage: 114 KB
+-------------------------------------------------------------------------------------
+PID: 1316				Session ID: 0			Image Name: svchost.exe
+# Handles: 202				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.26 MB			Peak Pagefile Usage: 1.33 MB
+Working Set Size: 2.13 MB		Peak Working Set Size: 5.76 MB
+Quota Non-Paged Pool Usage: 7.29 KB	Quota Paged Pool Usage: 63.9 KB
+-------------------------------------------------------------------------------------
+PID: 1396				Session ID: 0			Image Name: Memory Compression
+# Handles: 0				# Threads: 30
+Virtual Size: 436 MB			Peak Virtual Size: 486 MB
+Pagefile Usage: 1.01 MB			Peak Pagefile Usage: 1.06 MB
+Working Set Size: 389 MB		Peak Working Set Size: 437 MB
+Quota Non-Paged Pool Usage: 0 bytes	Quota Paged Pool Usage: 4.12 KB
+-------------------------------------------------------------------------------------
+PID: 1452				Session ID: 0			Image Name: svchost.exe
+# Handles: 409				# Threads: 6
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 5.99 MB			Peak Pagefile Usage: 6.84 MB
+Working Set Size: 7.78 MB		Peak Working Set Size: 14.8 MB
+Quota Non-Paged Pool Usage: 17.0 KB	Quota Paged Pool Usage: 255 KB
+-------------------------------------------------------------------------------------
+PID: 1484				Session ID: 0			Image Name: svchost.exe
+# Handles: 315				# Threads: 7
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.33 MB			Peak Pagefile Usage: 3.74 MB
+Working Set Size: 6.03 MB		Peak Working Set Size: 19.8 MB
+Quota Non-Paged Pool Usage: 13.1 KB	Quota Paged Pool Usage: 134 KB
+-------------------------------------------------------------------------------------
+PID: 1540				Session ID: 0			Image Name: svchost.exe
+# Handles: 164				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.75 MB			Peak Pagefile Usage: 1.96 MB
+Working Set Size: 4.38 MB		Peak Working Set Size: 7.85 MB
+Quota Non-Paged Pool Usage: 11.0 KB	Quota Paged Pool Usage: 74.2 KB
+-------------------------------------------------------------------------------------
+PID: 1564				Session ID: 0			Image Name: svchost.exe
+# Handles: 228				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.21 MB			Peak Pagefile Usage: 2.41 MB
+Working Set Size: 2.88 MB		Peak Working Set Size: 11.3 MB
+Quota Non-Paged Pool Usage: 12.0 KB	Quota Paged Pool Usage: 115 KB
+-------------------------------------------------------------------------------------
+PID: 1588				Session ID: 0			Image Name: svchost.exe
+# Handles: 140				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.41 MB			Peak Pagefile Usage: 1.75 MB
+Working Set Size: 2.25 MB		Peak Working Set Size: 7.17 MB
+Quota Non-Paged Pool Usage: 8.67 KB	Quota Paged Pool Usage: 66.5 KB
+-------------------------------------------------------------------------------------
+PID: 1596				Session ID: 0			Image Name: svchost.exe
+# Handles: 168				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.90 MB			Peak Pagefile Usage: 2.31 MB
+Working Set Size: 5.54 MB		Peak Working Set Size: 7.14 MB
+Quota Non-Paged Pool Usage: 9.80 KB	Quota Paged Pool Usage: 121 KB
+-------------------------------------------------------------------------------------
+PID: 1696				Session ID: 0			Image Name: svchost.exe
+# Handles: 144				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.56 MB			Peak Pagefile Usage: 5.77 MB
+Working Set Size: 2.81 MB		Peak Working Set Size: 8.66 MB
+Quota Non-Paged Pool Usage: 21.7 KB	Quota Paged Pool Usage: 56.2 KB
+-------------------------------------------------------------------------------------
+PID: 1724				Session ID: 0			Image Name: svchost.exe
+# Handles: 222				# Threads: 6
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.07 MB			Peak Pagefile Usage: 2.58 MB
+Working Set Size: 3.64 MB		Peak Working Set Size: 7.43 MB
+Quota Non-Paged Pool Usage: 9.84 KB	Quota Paged Pool Usage: 78.0 KB
+-------------------------------------------------------------------------------------
+PID: 1772				Session ID: 0			Image Name: svchost.exe
+# Handles: 208				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.93 MB			Peak Pagefile Usage: 2.33 MB
+Working Set Size: 4.16 MB		Peak Working Set Size: 8.64 MB
+Quota Non-Paged Pool Usage: 10.2 KB	Quota Paged Pool Usage: 80.1 KB
+-------------------------------------------------------------------------------------
+PID: 1828				Session ID: 0			Image Name: svchost.exe
+# Handles: 364				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.11 MB			Peak Pagefile Usage: 2.98 MB
+Working Set Size: 3.91 MB		Peak Working Set Size: 9.66 MB
+Quota Non-Paged Pool Usage: 13.4 KB	Quota Paged Pool Usage: 97.3 KB
+-------------------------------------------------------------------------------------
+PID: 1836				Session ID: 0			Image Name: svchost.exe
+# Handles: 127				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.46 MB			Peak Pagefile Usage: 1.71 MB
+Working Set Size: 2.77 MB		Peak Working Set Size: 6.24 MB
+Quota Non-Paged Pool Usage: 10.1 KB	Quota Paged Pool Usage: 61.6 KB
+-------------------------------------------------------------------------------------
+PID: 1844				Session ID: 0			Image Name: svchost.exe
+# Handles: 303				# Threads: 9
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.97 MB			Peak Pagefile Usage: 3.51 MB
+Working Set Size: 4.35 MB		Peak Working Set Size: 8.46 MB
+Quota Non-Paged Pool Usage: 14.3 KB	Quota Paged Pool Usage: 87.0 KB
+-------------------------------------------------------------------------------------
+PID: 1952				Session ID: 0			Image Name: svchost.exe
+# Handles: 189				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.98 MB			Peak Pagefile Usage: 2.39 MB
+Working Set Size: 3.57 MB		Peak Working Set Size: 12.3 MB
+Quota Non-Paged Pool Usage: 11.4 KB	Quota Paged Pool Usage: 97.6 KB
+-------------------------------------------------------------------------------------
+PID: 1968				Session ID: 0			Image Name: svchost.exe
+# Handles: 394				# Threads: 6
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.07 MB			Peak Pagefile Usage: 4.66 MB
+Working Set Size: 5.41 MB		Peak Working Set Size: 11.7 MB
+Quota Non-Paged Pool Usage: 15.2 KB	Quota Paged Pool Usage: 102 KB
+-------------------------------------------------------------------------------------
+PID: 2040				Session ID: 0			Image Name: spoolsv.exe
+# Handles: 484				# Threads: 7
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 5.88 MB			Peak Pagefile Usage: 7.80 MB
+Working Set Size: 11.3 MB		Peak Working Set Size: 15.6 MB
+Quota Non-Paged Pool Usage: 24.2 KB	Quota Paged Pool Usage: 159 KB
+-------------------------------------------------------------------------------------
+PID: 2168				Session ID: 0			Image Name: svchost.exe
+# Handles: 417				# Threads: 12
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 8.60 MB			Peak Pagefile Usage: 11.4 MB
+Working Set Size: 7.85 MB		Peak Working Set Size: 18.8 MB
+Quota Non-Paged Pool Usage: 31.2 KB	Quota Paged Pool Usage: 111 KB
+-------------------------------------------------------------------------------------
+PID: 2276				Session ID: 0			Image Name: svchost.exe
+# Handles: 390				# Threads: 6
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.78 MB			Peak Pagefile Usage: 3.68 MB
+Working Set Size: 5.31 MB		Peak Working Set Size: 8.98 MB
+Quota Non-Paged Pool Usage: 11.3 KB	Quota Paged Pool Usage: 95.0 KB
+-------------------------------------------------------------------------------------
+PID: 2304				Session ID: 0			Image Name: svchost.exe
+# Handles: 181				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.80 MB			Peak Pagefile Usage: 2.08 MB
+Working Set Size: 2.95 MB		Peak Working Set Size: 7.98 MB
+Quota Non-Paged Pool Usage: 10.1 KB	Quota Paged Pool Usage: 82.4 KB
+-------------------------------------------------------------------------------------
+PID: 2512				Session ID: 0			Image Name: svchost.exe
+# Handles: 261				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.46 MB			Peak Pagefile Usage: 2.76 MB
+Working Set Size: 3.02 MB		Peak Working Set Size: 8.04 MB
+Quota Non-Paged Pool Usage: 13.4 KB	Quota Paged Pool Usage: 87.3 KB
+-------------------------------------------------------------------------------------
+PID: 2520				Session ID: 0			Image Name: svchost.exe
+# Handles: 166				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.71 MB			Peak Pagefile Usage: 2.67 MB
+Working Set Size: 3.80 MB		Peak Working Set Size: 7.16 MB
+Quota Non-Paged Pool Usage: 12.1 KB	Quota Paged Pool Usage: 62.6 KB
+-------------------------------------------------------------------------------------
+PID: 2648				Session ID: 0			Image Name: svchost.exe
+# Handles: 515				# Threads: 8
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 18.3 MB			Peak Pagefile Usage: 56.5 MB
+Working Set Size: 18.7 MB		Peak Working Set Size: 63.8 MB
+Quota Non-Paged Pool Usage: 24.0 KB	Quota Paged Pool Usage: 169 KB
+-------------------------------------------------------------------------------------
+PID: 2656				Session ID: 0			Image Name: svchost.exe
+# Handles: 414				# Threads: 10
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 9.75 MB			Peak Pagefile Usage: 13.1 MB
+Working Set Size: 9.08 MB		Peak Working Set Size: 20.2 MB
+Quota Non-Paged Pool Usage: 14.6 KB	Quota Paged Pool Usage: 111 KB
+-------------------------------------------------------------------------------------
+PID: 2664				Session ID: 0			Image Name: svchost.exe
+# Handles: 272				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.63 MB			Peak Pagefile Usage: 5.30 MB
+Working Set Size: 7.58 MB		Peak Working Set Size: 13.9 MB
+Quota Non-Paged Pool Usage: 25.6 KB	Quota Paged Pool Usage: 117 KB
+-------------------------------------------------------------------------------------
+PID: 2672				Session ID: 0			Image Name: svchost.exe
+# Handles: 125				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.21 MB			Peak Pagefile Usage: 1.37 MB
+Working Set Size: 2.17 MB		Peak Working Set Size: 5.64 MB
+Quota Non-Paged Pool Usage: 7.20 KB	Quota Paged Pool Usage: 58.9 KB
+-------------------------------------------------------------------------------------
+PID: 2680				Session ID: 0			Image Name: svchost.exe
+# Handles: 388				# Threads: 6
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.60 MB			Peak Pagefile Usage: 5.23 MB
+Working Set Size: 14.0 MB		Peak Working Set Size: 20.4 MB
+Quota Non-Paged Pool Usage: 19.0 KB	Quota Paged Pool Usage: 161 KB
+-------------------------------------------------------------------------------------
+PID: 2688				Session ID: 0			Image Name: svchost.exe
+# Handles: 154				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.45 MB			Peak Pagefile Usage: 1.53 MB
+Working Set Size: 2.27 MB		Peak Working Set Size: 5.95 MB
+Quota Non-Paged Pool Usage: 7.03 KB	Quota Paged Pool Usage: 58.3 KB
+-------------------------------------------------------------------------------------
+PID: 2696				Session ID: 0			Image Name: svchost.exe
+# Handles: 358				# Threads: 16
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 23.7 MB			Peak Pagefile Usage: 47.4 MB
+Working Set Size: 17.2 MB		Peak Working Set Size: 48.8 MB
+Quota Non-Paged Pool Usage: 19.9 KB	Quota Paged Pool Usage: 137 KB
+-------------------------------------------------------------------------------------
+PID: 2816				Session ID: 0			Image Name: svchost.exe
+# Handles: 123				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.46 MB			Peak Pagefile Usage: 1.79 MB
+Working Set Size: 2.98 MB		Peak Working Set Size: 5.45 MB
+Quota Non-Paged Pool Usage: 7.86 KB	Quota Paged Pool Usage: 59.8 KB
+-------------------------------------------------------------------------------------
+PID: 2872				Session ID: 0			Image Name: Service_KMS.exe
+# Handles: 568				# Threads: 6
+Virtual Size: 4.57 GB			Peak Virtual Size: 4.58 GB
+Pagefile Usage: 26.6 MB			Peak Pagefile Usage: 27.9 MB
+Working Set Size: 3.21 MB		Peak Working Set Size: 33.9 MB
+Quota Non-Paged Pool Usage: 20.8 KB	Quota Paged Pool Usage: 326 KB
+-------------------------------------------------------------------------------------
+PID: 2936				Session ID: 0			Image Name: svchost.exe
+# Handles: 138				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.45 MB			Peak Pagefile Usage: 1.82 MB
+Working Set Size: 2.16 MB		Peak Working Set Size: 7.12 MB
+Quota Non-Paged Pool Usage: 9.07 KB	Quota Paged Pool Usage: 71.1 KB
+-------------------------------------------------------------------------------------
+PID: 2944				Session ID: 0			Image Name: svchost.exe
+# Handles: 201				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.10 MB			Peak Pagefile Usage: 2.57 MB
+Working Set Size: 4.87 MB		Peak Working Set Size: 9.60 MB
+Quota Non-Paged Pool Usage: 11.2 KB	Quota Paged Pool Usage: 90.3 KB
+-------------------------------------------------------------------------------------
+PID: 3020				Session ID: 0			Image Name: svchost.exe
+# Handles: 206				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.19 MB			Peak Pagefile Usage: 2.43 MB
+Working Set Size: 4.01 MB		Peak Working Set Size: 9.17 MB
+Quota Non-Paged Pool Usage: 11.4 KB	Quota Paged Pool Usage: 87.1 KB
+-------------------------------------------------------------------------------------
+PID: 3056				Session ID: 0			Image Name: svchost.exe
+# Handles: 366				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.63 MB			Peak Pagefile Usage: 3.19 MB
+Working Set Size: 5.45 MB		Peak Working Set Size: 10.8 MB
+Quota Non-Paged Pool Usage: 15.9 KB	Quota Paged Pool Usage: 99.7 KB
+-------------------------------------------------------------------------------------
+PID: 3216				Session ID: 0			Image Name: svchost.exe
+# Handles: 260				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.65 MB			Peak Pagefile Usage: 3.80 MB
+Working Set Size: 4.15 MB		Peak Working Set Size: 9.82 MB
+Quota Non-Paged Pool Usage: 15.0 KB	Quota Paged Pool Usage: 92.3 KB
+-------------------------------------------------------------------------------------
+PID: 3532				Session ID: 0			Image Name: svchost.exe
+# Handles: 122				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.32 MB			Peak Pagefile Usage: 1.63 MB
+Working Set Size: 2.03 MB		Peak Working Set Size: 7.21 MB
+Quota Non-Paged Pool Usage: 8.09 KB	Quota Paged Pool Usage: 63.1 KB
+-------------------------------------------------------------------------------------
+PID: 3684				Session ID: 0			Image Name: svchost.exe
+# Handles: 133				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.26 MB			Peak Pagefile Usage: 1.58 MB
+Working Set Size: 2.54 MB		Peak Working Set Size: 6.22 MB
+Quota Non-Paged Pool Usage: 7.42 KB	Quota Paged Pool Usage: 65.9 KB
+-------------------------------------------------------------------------------------
+PID: 3760				Session ID: 0			Image Name: dasHost.exe
+# Handles: 351				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.74 MB			Peak Pagefile Usage: 4.54 MB
+Working Set Size: 7.03 MB		Peak Working Set Size: 12.5 MB
+Quota Non-Paged Pool Usage: 16.6 KB	Quota Paged Pool Usage: 101 KB
+-------------------------------------------------------------------------------------
+PID: 3796				Session ID: 0			Image Name: svchost.exe
+# Handles: 219				# Threads: 6
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.98 MB			Peak Pagefile Usage: 2.55 MB
+Working Set Size: 3.34 MB		Peak Working Set Size: 7.40 MB
+Quota Non-Paged Pool Usage: 14.2 KB	Quota Paged Pool Usage: 87.2 KB
+-------------------------------------------------------------------------------------
+PID: 2824				Session ID: 0			Image Name: svchost.exe
+# Handles: 196				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.77 MB			Peak Pagefile Usage: 2.27 MB
+Working Set Size: 2.24 MB		Peak Working Set Size: 8.32 MB
+Quota Non-Paged Pool Usage: 10.5 KB	Quota Paged Pool Usage: 74.1 KB
+-------------------------------------------------------------------------------------
+PID: 276				Session ID: 0			Image Name: svchost.exe
+# Handles: 306				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.08 MB			Peak Pagefile Usage: 3.96 MB
+Working Set Size: 9.27 MB		Peak Working Set Size: 20.7 MB
+Quota Non-Paged Pool Usage: 11.2 KB	Quota Paged Pool Usage: 132 KB
+-------------------------------------------------------------------------------------
+PID: 1872				Session ID: 0			Image Name: svchost.exe
+# Handles: 198				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 7.72 MB			Peak Pagefile Usage: 14.4 MB
+Working Set Size: 12.4 MB		Peak Working Set Size: 22.2 MB
+Quota Non-Paged Pool Usage: 9.68 KB	Quota Paged Pool Usage: 77.3 KB
+-------------------------------------------------------------------------------------
+PID: 1984				Session ID: 0			Image Name: svchost.exe
+# Handles: 213				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.07 MB			Peak Pagefile Usage: 2.35 MB
+Working Set Size: 4.64 MB		Peak Working Set Size: 9.80 MB
+Quota Non-Paged Pool Usage: 11.8 KB	Quota Paged Pool Usage: 87.2 KB
+-------------------------------------------------------------------------------------
+PID: 4184				Session ID: 0			Image Name: svchost.exe
+# Handles: 320				# Threads: 8
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.19 MB			Peak Pagefile Usage: 4.45 MB
+Working Set Size: 6.00 MB		Peak Working Set Size: 15.8 MB
+Quota Non-Paged Pool Usage: 19.6 KB	Quota Paged Pool Usage: 153 KB
+-------------------------------------------------------------------------------------
+PID: 4412				Session ID: 0			Image Name: svchost.exe
+# Handles: 169				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.71 MB			Peak Pagefile Usage: 1.92 MB
+Working Set Size: 2.56 MB		Peak Working Set Size: 8.05 MB
+Quota Non-Paged Pool Usage: 9.01 KB	Quota Paged Pool Usage: 72.3 KB
+-------------------------------------------------------------------------------------
+PID: 544				Session ID: 0			Image Name: svchost.exe
+# Handles: 385				# Threads: 7
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 5.82 MB			Peak Pagefile Usage: 8.03 MB
+Working Set Size: 13.9 MB		Peak Working Set Size: 22.6 MB
+Quota Non-Paged Pool Usage: 20.4 KB	Quota Paged Pool Usage: 186 KB
+-------------------------------------------------------------------------------------
+PID: 1812				Session ID: 0			Image Name: SearchIndexer.exe
+# Handles: 756				# Threads: 17
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 23.1 MB			Peak Pagefile Usage: 24.2 MB
+Working Set Size: 16.9 MB		Peak Working Set Size: 29.2 MB
+Quota Non-Paged Pool Usage: 40.7 KB	Quota Paged Pool Usage: 228 KB
+-------------------------------------------------------------------------------------
+PID: 6108				Session ID: 0			Image Name: SecurityHealthService.exe
+# Handles: 469				# Threads: 13
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.03 MB			Peak Pagefile Usage: 4.20 MB
+Working Set Size: 5.43 MB		Peak Working Set Size: 15.2 MB
+Quota Non-Paged Pool Usage: 17.0 KB	Quota Paged Pool Usage: 156 KB
+-------------------------------------------------------------------------------------
+PID: 1868				Session ID: 0			Image Name: svchost.exe
+# Handles: 157				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.71 MB			Peak Pagefile Usage: 1.82 MB
+Working Set Size: 2.57 MB		Peak Working Set Size: 8.08 MB
+Quota Non-Paged Pool Usage: 9.68 KB	Quota Paged Pool Usage: 87.1 KB
+-------------------------------------------------------------------------------------
+PID: 1020				Session ID: 0			Image Name: SgrmBroker.exe
+# Handles: 105				# Threads: 7
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.88 MB			Peak Pagefile Usage: 5.26 MB
+Working Set Size: 4.76 MB		Peak Working Set Size: 7.91 MB
+Quota Non-Paged Pool Usage: 7.42 KB	Quota Paged Pool Usage: 34.3 KB
+-------------------------------------------------------------------------------------
+PID: 3692				Session ID: 0			Image Name: svchost.exe
+# Handles: 221				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.57 MB			Peak Pagefile Usage: 2.77 MB
+Working Set Size: 5.85 MB		Peak Working Set Size: 11.1 MB
+Quota Non-Paged Pool Usage: 11.4 KB	Quota Paged Pool Usage: 106 KB
+-------------------------------------------------------------------------------------
+PID: 6188				Session ID: 0			Image Name: svchost.exe
+# Handles: 221				# Threads: 8
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.42 MB			Peak Pagefile Usage: 2.80 MB
+Working Set Size: 3.71 MB		Peak Working Set Size: 9.87 MB
+Quota Non-Paged Pool Usage: 12.4 KB	Quota Paged Pool Usage: 80.5 KB
+-------------------------------------------------------------------------------------
+PID: 6500				Session ID: 0			Image Name: svchost.exe
+# Handles: 249				# Threads: 8
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.34 MB			Peak Pagefile Usage: 4.83 MB
+Working Set Size: 4.84 MB		Peak Working Set Size: 10.9 MB
+Quota Non-Paged Pool Usage: 12.4 KB	Quota Paged Pool Usage: 108 KB
+-------------------------------------------------------------------------------------
+PID: 7008				Session ID: 0			Image Name: svchost.exe
+# Handles: 201				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.62 MB			Peak Pagefile Usage: 1.85 MB
+Working Set Size: 3.58 MB		Peak Working Set Size: 7.11 MB
+Quota Non-Paged Pool Usage: 11.7 KB	Quota Paged Pool Usage: 70.8 KB
+-------------------------------------------------------------------------------------
+PID: 4912				Session ID: 0			Image Name: svchost.exe
+# Handles: 214				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.75 MB			Peak Pagefile Usage: 6.03 MB
+Working Set Size: 10.0 MB		Peak Working Set Size: 19.7 MB
+Quota Non-Paged Pool Usage: 12.4 KB	Quota Paged Pool Usage: 137 KB
+-------------------------------------------------------------------------------------
+PID: 2952				Session ID: 2			Image Name: csrss.exe
+# Handles: 579				# Threads: 13
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.07 MB			Peak Pagefile Usage: 16.7 MB
+Working Set Size: 2.55 MB		Peak Working Set Size: 12.7 MB
+Quota Non-Paged Pool Usage: 20.4 KB	Quota Paged Pool Usage: 194 KB
+-------------------------------------------------------------------------------------
+PID: 6684				Session ID: 2			Image Name: winlogon.exe
+# Handles: 275				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.56 MB			Peak Pagefile Usage: 2.84 MB
+Working Set Size: 3.05 MB		Peak Working Set Size: 17.0 MB
+Quota Non-Paged Pool Usage: 11.9 KB	Quota Paged Pool Usage: 139 KB
+-------------------------------------------------------------------------------------
+PID: 2008				Session ID: 2			Image Name: fontdrvhost.exe
+# Handles: 37				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.98 MB			Peak Pagefile Usage: 3.01 MB
+Working Set Size: 1.41 MB		Peak Working Set Size: 6.80 MB
+Quota Non-Paged Pool Usage: 7.29 KB	Quota Paged Pool Usage: 231 KB
+-------------------------------------------------------------------------------------
+PID: 8044				Session ID: 2			Image Name: dwm.exe
+# Handles: 996				# Threads: 13
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 32.6 MB			Peak Pagefile Usage: 50.7 MB
+Working Set Size: 54.9 MB		Peak Working Set Size: 78.7 MB
+Quota Non-Paged Pool Usage: 40.7 KB	Quota Paged Pool Usage: 546 KB
+-------------------------------------------------------------------------------------
+PID: 7948				Session ID: 2			Image Name: sihost.exe
+# Handles: 545				# Threads: 8
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 5.94 MB			Peak Pagefile Usage: 6.69 MB
+Working Set Size: 18.2 MB		Peak Working Set Size: 26.9 MB
+Quota Non-Paged Pool Usage: 18.1 KB	Quota Paged Pool Usage: 250 KB
+-------------------------------------------------------------------------------------
+PID: 6776				Session ID: 2			Image Name: svchost.exe
+# Handles: 297				# Threads: 9
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 6.78 MB			Peak Pagefile Usage: 7.26 MB
+Working Set Size: 9.91 MB		Peak Working Set Size: 18.7 MB
+Quota Non-Paged Pool Usage: 14.7 KB	Quota Paged Pool Usage: 166 KB
+-------------------------------------------------------------------------------------
+PID: 4460				Session ID: 2			Image Name: svchost.exe
+# Handles: 513				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 7.94 MB			Peak Pagefile Usage: 9.37 MB
+Working Set Size: 20.5 MB		Peak Working Set Size: 35.8 MB
+Quota Non-Paged Pool Usage: 22.4 KB	Quota Paged Pool Usage: 275 KB
+-------------------------------------------------------------------------------------
+PID: 1756				Session ID: 2			Image Name: procexp64.exe
+# Handles: 531				# Threads: 5
+Virtual Size: 4.19 GB			Peak Virtual Size: 4.22 GB
+Pagefile Usage: 26.3 MB			Peak Pagefile Usage: 26.7 MB
+Working Set Size: 13.8 MB		Peak Working Set Size: 42.5 MB
+Quota Non-Paged Pool Usage: 28.4 KB	Quota Paged Pool Usage: 303 KB
+-------------------------------------------------------------------------------------
+PID: 4544				Session ID: 2			Image Name: taskhostw.exe
+# Handles: 285				# Threads: 8
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 6.82 MB			Peak Pagefile Usage: 7.15 MB
+Working Set Size: 8.59 MB		Peak Working Set Size: 15.4 MB
+Quota Non-Paged Pool Usage: 29.5 KB	Quota Paged Pool Usage: 178 KB
+-------------------------------------------------------------------------------------
+PID: 1584				Session ID: 2			Image Name: explorer.exe
+# Handles: 2057				# Threads: 54
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 52.9 MB			Peak Pagefile Usage: 76.1 MB
+Working Set Size: 73.6 MB		Peak Working Set Size: 132 MB
+Quota Non-Paged Pool Usage: 82.4 KB	Quota Paged Pool Usage: 978 KB
+-------------------------------------------------------------------------------------
+PID: 900				Session ID: 2			Image Name: svchost.exe
+# Handles: 294				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.53 MB			Peak Pagefile Usage: 3.95 MB
+Working Set Size: 12.1 MB		Peak Working Set Size: 20.8 MB
+Quota Non-Paged Pool Usage: 14.0 KB	Quota Paged Pool Usage: 225 KB
+-------------------------------------------------------------------------------------
+PID: 2544				Session ID: 2			Image Name: StartMenuExperienceHost.exe
+# Handles: 680				# Threads: 7
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 24.6 MB			Peak Pagefile Usage: 53.6 MB
+Working Set Size: 38.8 MB		Peak Working Set Size: 73.3 MB
+Quota Non-Paged Pool Usage: 30.9 KB	Quota Paged Pool Usage: 527 KB
+-------------------------------------------------------------------------------------
+PID: 6996				Session ID: 2			Image Name: RuntimeBroker.exe
+# Handles: 282				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 5.66 MB			Peak Pagefile Usage: 7.96 MB
+Working Set Size: 15.0 MB		Peak Working Set Size: 27.8 MB
+Quota Non-Paged Pool Usage: 16.0 KB	Quota Paged Pool Usage: 214 KB
+-------------------------------------------------------------------------------------
+PID: 2204				Session ID: 2			Image Name: SearchApp.exe
+# Handles: 1056				# Threads: 36
+Virtual Size: 2.03 TB			Peak Virtual Size: 2.03 TB
+Pagefile Usage: 82.9 MB			Peak Pagefile Usage: 102 MB
+Working Set Size: 1.84 MB		Peak Working Set Size: 164 MB
+Quota Non-Paged Pool Usage: 74.1 KB	Quota Paged Pool Usage: 710 KB
+-------------------------------------------------------------------------------------
+PID: 2400				Session ID: 2			Image Name: RuntimeBroker.exe
+# Handles: 461				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 6.42 MB			Peak Pagefile Usage: 7.73 MB
+Working Set Size: 15.5 MB		Peak Working Set Size: 29.6 MB
+Quota Non-Paged Pool Usage: 20.4 KB	Quota Paged Pool Usage: 242 KB
+-------------------------------------------------------------------------------------
+PID: 8232				Session ID: 2			Image Name: ctfmon.exe
+# Handles: 424				# Threads: 10
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.00 MB			Peak Pagefile Usage: 4.03 MB
+Working Set Size: 8.06 MB		Peak Working Set Size: 15.5 MB
+Quota Non-Paged Pool Usage: 15.4 KB	Quota Paged Pool Usage: 175 KB
+-------------------------------------------------------------------------------------
+PID: 5756				Session ID: 2			Image Name: RuntimeBroker.exe
+# Handles: 264				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.20 MB			Peak Pagefile Usage: 4.51 MB
+Working Set Size: 9.94 MB		Peak Working Set Size: 20.3 MB
+Quota Non-Paged Pool Usage: 14.2 KB	Quota Paged Pool Usage: 192 KB
+-------------------------------------------------------------------------------------
+PID: 5436				Session ID: 2			Image Name: SecurityHealthSystray.exe
+# Handles: 158				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.61 MB			Peak Pagefile Usage: 1.76 MB
+Working Set Size: 2.28 MB		Peak Working Set Size: 8.94 MB
+Quota Non-Paged Pool Usage: 9.28 KB	Quota Paged Pool Usage: 143 KB
+-------------------------------------------------------------------------------------
+PID: 6992				Session ID: 2			Image Name: VBoxTray.exe
+# Handles: 251				# Threads: 11
+Virtual Size: 4.12 GB			Peak Virtual Size: 4.17 GB
+Pagefile Usage: 2.51 MB			Peak Pagefile Usage: 2.67 MB
+Working Set Size: 4.00 MB		Peak Working Set Size: 56.2 MB
+Quota Non-Paged Pool Usage: 15.9 KB	Quota Paged Pool Usage: 182 KB
+-------------------------------------------------------------------------------------
+PID: 3656				Session ID: 2			Image Name: TextInputHost.exe
+# Handles: 534				# Threads: 10
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 13.3 MB			Peak Pagefile Usage: 37.4 MB
+Working Set Size: 13.2 MB		Peak Working Set Size: 43.9 MB
+Quota Non-Paged Pool Usage: 24.1 KB	Quota Paged Pool Usage: 432 KB
+-------------------------------------------------------------------------------------
+PID: 7880				Session ID: 2			Image Name: DpEditor.exe
+# Handles: 164				# Threads: 8
+Virtual Size: 83.2 MB			Peak Virtual Size: 89.4 MB
+Pagefile Usage: 7.30 MB			Peak Pagefile Usage: 7.58 MB
+Working Set Size: 2.75 MB		Peak Working Set Size: 14.6 MB
+Quota Non-Paged Pool Usage: 11.6 KB	Quota Paged Pool Usage: 160 KB
+-------------------------------------------------------------------------------------
+PID: 3396				Session ID: 2			Image Name: OneDrive.exe
+# Handles: 736				# Threads: 19
+Virtual Size: 2.03 TB			Peak Virtual Size: 2.03 TB
+Pagefile Usage: 23.8 MB			Peak Pagefile Usage: 38.2 MB
+Working Set Size: 28.5 MB		Peak Working Set Size: 94.8 MB
+Quota Non-Paged Pool Usage: 52.0 KB	Quota Paged Pool Usage: 637 KB
+-------------------------------------------------------------------------------------
+PID: 568				Session ID: 2			Image Name: msedge.exe
+# Handles: 1063				# Threads: 27
+Virtual Size: 2.06 TB			Peak Virtual Size: 2.06 TB
+Pagefile Usage: 23.0 MB			Peak Pagefile Usage: 30.8 MB
+Working Set Size: 30.6 MB		Peak Working Set Size: 83.7 MB
+Quota Non-Paged Pool Usage: 44.5 KB	Quota Paged Pool Usage: 829 KB
+-------------------------------------------------------------------------------------
+PID: 7996				Session ID: 2			Image Name: msedge.exe
+# Handles: 136				# Threads: 7
+Virtual Size: 2.03 TB			Peak Virtual Size: 2.03 TB
+Pagefile Usage: 1.92 MB			Peak Pagefile Usage: 2.01 MB
+Working Set Size: 2.07 MB		Peak Working Set Size: 7.21 MB
+Quota Non-Paged Pool Usage: 9.02 KB	Quota Paged Pool Usage: 116 KB
+-------------------------------------------------------------------------------------
+PID: 2528				Session ID: 2			Image Name: msedge.exe
+# Handles: 1476				# Threads: 10
+Virtual Size: 2.05 TB			Peak Virtual Size: 2.05 TB
+Pagefile Usage: 21.8 MB			Peak Pagefile Usage: 46.6 MB
+Working Set Size: 12.5 MB		Peak Working Set Size: 39.9 MB
+Quota Non-Paged Pool Usage: 22.1 KB	Quota Paged Pool Usage: 695 KB
+-------------------------------------------------------------------------------------
+PID: 5500				Session ID: 2			Image Name: msedge.exe
+# Handles: 248				# Threads: 10
+Virtual Size: 2.05 TB			Peak Virtual Size: 2.05 TB
+Pagefile Usage: 8.21 MB			Peak Pagefile Usage: 8.55 MB
+Working Set Size: 13.8 MB		Peak Working Set Size: 26.3 MB
+Quota Non-Paged Pool Usage: 15.1 KB	Quota Paged Pool Usage: 604 KB
+-------------------------------------------------------------------------------------
+PID: 2984				Session ID: 2			Image Name: msedge.exe
+# Handles: 205				# Threads: 7
+Virtual Size: 2.05 TB			Peak Virtual Size: 2.05 TB
+Pagefile Usage: 6.41 MB			Peak Pagefile Usage: 6.51 MB
+Working Set Size: 4.78 MB		Peak Working Set Size: 17.1 MB
+Quota Non-Paged Pool Usage: 13.1 KB	Quota Paged Pool Usage: 559 KB
+-------------------------------------------------------------------------------------
+PID: 796				Session ID: 2			Image Name: SystemSettings.exe
+# Handles: 814				# Threads: 19
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 22.8 MB			Peak Pagefile Usage: 62.1 MB
+Working Set Size: 636 KB		Peak Working Set Size: 109 MB
+Quota Non-Paged Pool Usage: 40.5 KB	Quota Paged Pool Usage: 683 KB
+-------------------------------------------------------------------------------------
+PID: 3932				Session ID: 2			Image Name: ApplicationFrameHost.exe
+# Handles: 334				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 7.89 MB			Peak Pagefile Usage: 10.6 MB
+Working Set Size: 8.95 MB		Peak Working Set Size: 28.0 MB
+Quota Non-Paged Pool Usage: 19.6 KB	Quota Paged Pool Usage: 324 KB
+-------------------------------------------------------------------------------------
+PID: 4576				Session ID: 2			Image Name: UserOOBEBroker.exe
+# Handles: 139				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.07 MB			Peak Pagefile Usage: 2.25 MB
+Working Set Size: 4.54 MB		Peak Working Set Size: 9.40 MB
+Quota Non-Paged Pool Usage: 10.2 KB	Quota Paged Pool Usage: 122 KB
+-------------------------------------------------------------------------------------
+PID: 8968				Session ID: 2			Image Name: devenv.exe
+# Handles: 2566				# Threads: 106
+Virtual Size: 14.0 GB			Peak Virtual Size: 14.0 GB
+Pagefile Usage: 763 MB			Peak Pagefile Usage: 786 MB
+Working Set Size: 582 MB		Peak Working Set Size: 639 MB
+Quota Non-Paged Pool Usage: 154 KB	Quota Paged Pool Usage: 2.41 MB
+-------------------------------------------------------------------------------------
+PID: 2180				Session ID: 2			Image Name: PerfWatson2.exe
+# Handles: 843				# Threads: 23
+Virtual Size: 4.77 GB			Peak Virtual Size: 4.83 GB
+Pagefile Usage: 50.6 MB			Peak Pagefile Usage: 52.0 MB
+Working Set Size: 35.3 MB		Peak Working Set Size: 71.4 MB
+Quota Non-Paged Pool Usage: 79.7 KB	Quota Paged Pool Usage: 416 KB
+-------------------------------------------------------------------------------------
+PID: 5176				Session ID: 2			Image Name: Microsoft.ServiceHub.Controller.exe
+# Handles: 960				# Threads: 10
+Virtual Size: 4.61 GB			Peak Virtual Size: 4.63 GB
+Pagefile Usage: 42.1 MB			Peak Pagefile Usage: 42.7 MB
+Working Set Size: 30.9 MB		Peak Working Set Size: 56.8 MB
+Quota Non-Paged Pool Usage: 30.2 KB	Quota Paged Pool Usage: 432 KB
+-------------------------------------------------------------------------------------
+PID: 548				Session ID: 2			Image Name: ServiceHub.IdentityHost.exe
+# Handles: 1130				# Threads: 17
+Virtual Size: 352 MB			Peak Virtual Size: 380 MB
+Pagefile Usage: 53.4 MB			Peak Pagefile Usage: 55.4 MB
+Working Set Size: 28.0 MB		Peak Working Set Size: 76.7 MB
+Quota Non-Paged Pool Usage: 68.9 KB	Quota Paged Pool Usage: 615 KB
+-------------------------------------------------------------------------------------
+PID: 2924				Session ID: 2			Image Name: ServiceHub.VSDetouredHost.exe
+# Handles: 1143				# Threads: 11
+Virtual Size: 5.03 GB			Peak Virtual Size: 5.04 GB
+Pagefile Usage: 142 MB			Peak Pagefile Usage: 143 MB
+Working Set Size: 26.9 MB		Peak Working Set Size: 92.8 MB
+Quota Non-Paged Pool Usage: 64.9 KB	Quota Paged Pool Usage: 1.21 MB
+-------------------------------------------------------------------------------------
+PID: 4596				Session ID: 2			Image Name: ServiceHub.SettingsHost.exe
+# Handles: 1286				# Threads: 26
+Virtual Size: 481 MB			Peak Virtual Size: 497 MB
+Pagefile Usage: 70.0 MB			Peak Pagefile Usage: 70.7 MB
+Working Set Size: 28.9 MB		Peak Working Set Size: 100 MB
+Quota Non-Paged Pool Usage: 83.6 KB	Quota Paged Pool Usage: 834 KB
+-------------------------------------------------------------------------------------
+PID: 7240				Session ID: 2			Image Name: ServiceHub.Host.CLR.x86.exe
+# Handles: 942				# Threads: 20
+Virtual Size: 381 MB			Peak Virtual Size: 397 MB
+Pagefile Usage: 52.0 MB			Peak Pagefile Usage: 52.9 MB
+Working Set Size: 23.8 MB		Peak Working Set Size: 65.9 MB
+Quota Non-Paged Pool Usage: 62.5 KB	Quota Paged Pool Usage: 665 KB
+-------------------------------------------------------------------------------------
+PID: 1916				Session ID: 2			Image Name: ServiceHub.ThreadedWaitDialog.exe
+# Handles: 781				# Threads: 13
+Virtual Size: 457 MB			Peak Virtual Size: 469 MB
+Pagefile Usage: 57.4 MB			Peak Pagefile Usage: 78.8 MB
+Working Set Size: 33.8 MB		Peak Working Set Size: 81.3 MB
+Quota Non-Paged Pool Usage: 57.9 KB	Quota Paged Pool Usage: 734 KB
+-------------------------------------------------------------------------------------
+PID: 2260				Session ID: 2			Image Name: ServiceHub.Host.CLR.x64.exe
+# Handles: 804				# Threads: 11
+Virtual Size: 5.59 GB			Peak Virtual Size: 5.62 GB
+Pagefile Usage: 971 MB			Peak Pagefile Usage: 976 MB
+Working Set Size: 25.5 MB		Peak Working Set Size: 943 MB
+Quota Non-Paged Pool Usage: 46.6 KB	Quota Paged Pool Usage: 795 KB
+-------------------------------------------------------------------------------------
+PID: 5156				Session ID: 2			Image Name: svchost.exe
+# Handles: 438				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 4.92 MB			Peak Pagefile Usage: 7.66 MB
+Working Set Size: 8.36 MB		Peak Working Set Size: 20.2 MB
+Quota Non-Paged Pool Usage: 23.9 KB	Quota Paged Pool Usage: 189 KB
+-------------------------------------------------------------------------------------
+PID: 5092				Session ID: 2			Image Name: ShellExperienceHost.exe
+# Handles: 560				# Threads: 10
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 14.2 MB			Peak Pagefile Usage: 37.0 MB
+Working Set Size: 7.97 MB		Peak Working Set Size: 49.5 MB
+Quota Non-Paged Pool Usage: 27.2 KB	Quota Paged Pool Usage: 449 KB
+-------------------------------------------------------------------------------------
+PID: 4484				Session ID: 2			Image Name: RuntimeBroker.exe
+# Handles: 205				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.47 MB			Peak Pagefile Usage: 3.37 MB
+Working Set Size: 2.78 MB		Peak Working Set Size: 18.2 MB
+Quota Non-Paged Pool Usage: 10.8 KB	Quota Paged Pool Usage: 177 KB
+-------------------------------------------------------------------------------------
+PID: 8268				Session ID: 2			Image Name: ServiceHub.Host.CLR.exe
+# Handles: 1266				# Threads: 11
+Virtual Size: 5.32 GB			Peak Virtual Size: 5.34 GB
+Pagefile Usage: 235 MB			Peak Pagefile Usage: 236 MB
+Working Set Size: 41.3 MB		Peak Working Set Size: 99.8 MB
+Quota Non-Paged Pool Usage: 70.5 KB	Quota Paged Pool Usage: 1.79 MB
+-------------------------------------------------------------------------------------
+PID: 8364				Session ID: 2			Image Name: ServiceHub.TestWindowStoreHost.exe
+# Handles: 854				# Threads: 12
+Virtual Size: 4.73 GB			Peak Virtual Size: 4.74 GB
+Pagefile Usage: 65.5 MB			Peak Pagefile Usage: 66.0 MB
+Working Set Size: 27.8 MB		Peak Working Set Size: 74.2 MB
+Quota Non-Paged Pool Usage: 46.4 KB	Quota Paged Pool Usage: 642 KB
+-------------------------------------------------------------------------------------
+PID: 7232				Session ID: 2			Image Name: cmd.exe
+# Handles: 87				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.95 MB			Peak Pagefile Usage: 6.18 MB
+Working Set Size: 2.55 MB		Peak Working Set Size: 5.51 MB
+Quota Non-Paged Pool Usage: 6.93 KB	Quota Paged Pool Usage: 100 KB
+-------------------------------------------------------------------------------------
+PID: 4680				Session ID: 2			Image Name: conhost.exe
+# Handles: 190				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 11.4 MB			Peak Pagefile Usage: 15.3 MB
+Working Set Size: 11.8 MB		Peak Working Set Size: 28.3 MB
+Quota Non-Paged Pool Usage: 11.5 KB	Quota Paged Pool Usage: 204 KB
+-------------------------------------------------------------------------------------
+PID: 6888				Session ID: 2			Image Name: cmd.exe
+# Handles: 86				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.86 MB			Peak Pagefile Usage: 7.07 MB
+Working Set Size: 3.80 MB		Peak Working Set Size: 5.79 MB
+Quota Non-Paged Pool Usage: 7.03 KB	Quota Paged Pool Usage: 102 KB
+-------------------------------------------------------------------------------------
+PID: 4552				Session ID: 2			Image Name: conhost.exe
+# Handles: 191				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 10.0 MB			Peak Pagefile Usage: 14.8 MB
+Working Set Size: 14.9 MB		Peak Working Set Size: 26.8 MB
+Quota Non-Paged Pool Usage: 11.9 KB	Quota Paged Pool Usage: 201 KB
+-------------------------------------------------------------------------------------
+PID: 3812				Session ID: 2			Image Name: ServiceHub.RoslynCodeAnalysisService.exe
+# Handles: 902				# Threads: 14
+Virtual Size: 5.16 GB			Peak Virtual Size: 5.19 GB
+Pagefile Usage: 200 MB			Peak Pagefile Usage: 203 MB
+Working Set Size: 33.0 MB		Peak Working Set Size: 129 MB
+Quota Non-Paged Pool Usage: 57.0 KB	Quota Paged Pool Usage: 1.47 MB
+-------------------------------------------------------------------------------------
+PID: 1680				Session ID: 2			Image Name: Microsoft.Photos.exe
+# Handles: 660				# Threads: 15
+Virtual Size: 4.84 GB			Peak Virtual Size: 4.85 GB
+Pagefile Usage: 53.9 MB			Peak Pagefile Usage: 54.5 MB
+Working Set Size: 5.44 MB		Peak Working Set Size: 95.3 MB
+Quota Non-Paged Pool Usage: 45.8 KB	Quota Paged Pool Usage: 687 KB
+-------------------------------------------------------------------------------------
+PID: 3768				Session ID: 2			Image Name: RuntimeBroker.exe
+# Handles: 391				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 10.6 MB			Peak Pagefile Usage: 11.9 MB
+Working Set Size: 18.6 MB		Peak Working Set Size: 32.5 MB
+Quota Non-Paged Pool Usage: 19.9 KB	Quota Paged Pool Usage: 299 KB
+-------------------------------------------------------------------------------------
+PID: 5572				Session ID: 2			Image Name: notepad.exe
+# Handles: 310				# Threads: 1
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.41 MB			Peak Pagefile Usage: 3.93 MB
+Working Set Size: 11.4 MB		Peak Working Set Size: 25.7 MB
+Quota Non-Paged Pool Usage: 15.2 KB	Quota Paged Pool Usage: 290 KB
+-------------------------------------------------------------------------------------
+PID: 6332				Session ID: 0			Image Name: svchost.exe
+# Handles: 173				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.78 MB			Peak Pagefile Usage: 2.29 MB
+Working Set Size: 3.79 MB		Peak Working Set Size: 7.78 MB
+Quota Non-Paged Pool Usage: 9.07 KB	Quota Paged Pool Usage: 74.1 KB
+-------------------------------------------------------------------------------------
+PID: 11992				Session ID: 2			Image Name: taskhostw.exe
+# Handles: 380				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 7.43 MB			Peak Pagefile Usage: 8.09 MB
+Working Set Size: 9.80 MB		Peak Working Set Size: 22.5 MB
+Quota Non-Paged Pool Usage: 21.3 KB	Quota Paged Pool Usage: 235 KB
+-------------------------------------------------------------------------------------
+PID: 10464				Session ID: 0			Image Name: svchost.exe
+# Handles: 271				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 3.91 MB			Peak Pagefile Usage: 4.19 MB
+Working Set Size: 12.0 MB		Peak Working Set Size: 18.5 MB
+Quota Non-Paged Pool Usage: 16.0 KB	Quota Paged Pool Usage: 143 KB
+-------------------------------------------------------------------------------------
+PID: 3264				Session ID: 0			Image Name: svchost.exe
+# Handles: 188				# Threads: 4
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 5.90 MB			Peak Pagefile Usage: 6.29 MB
+Working Set Size: 3.57 MB		Peak Working Set Size: 9.98 MB
+Quota Non-Paged Pool Usage: 14.3 KB	Quota Paged Pool Usage: 91.5 KB
+-------------------------------------------------------------------------------------
+PID: 10824				Session ID: 0			Image Name: svchost.exe
+# Handles: 109				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.19 MB			Peak Pagefile Usage: 1.35 MB
+Working Set Size: 4.91 MB		Peak Working Set Size: 5.49 MB
+Quota Non-Paged Pool Usage: 7.28 KB	Quota Paged Pool Usage: 56.9 KB
+-------------------------------------------------------------------------------------
+PID: 8120				Session ID: 0			Image Name: MoUsoCoreWorker.exe
+# Handles: 403				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 7.61 MB			Peak Pagefile Usage: 8.93 MB
+Working Set Size: 17.5 MB		Peak Working Set Size: 23.6 MB
+Quota Non-Paged Pool Usage: 17.8 KB	Quota Paged Pool Usage: 142 KB
+-------------------------------------------------------------------------------------
+PID: 10324				Session ID: 0			Image Name: svchost.exe
+# Handles: 137				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.48 MB			Peak Pagefile Usage: 1.86 MB
+Working Set Size: 9.92 MB		Peak Working Set Size: 10.9 MB
+Quota Non-Paged Pool Usage: 8.50 KB	Quota Paged Pool Usage: 76.6 KB
+-------------------------------------------------------------------------------------
+PID: 12308				Session ID: 0			Image Name: WmiPrvSE.exe
+# Handles: 156				# Threads: 5
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.45 MB			Peak Pagefile Usage: 5.48 MB
+Working Set Size: 8.37 MB		Peak Working Set Size: 9.42 MB
+Quota Non-Paged Pool Usage: 9.15 KB	Quota Paged Pool Usage: 73.3 KB
+-------------------------------------------------------------------------------------
+PID: 10148				Session ID: 0			Image Name: svchost.exe
+# Handles: 217				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 2.71 MB			Peak Pagefile Usage: 5.10 MB
+Working Set Size: 10.6 MB		Peak Working Set Size: 12.9 MB
+Quota Non-Paged Pool Usage: 12.6 KB	Quota Paged Pool Usage: 104 KB
+-------------------------------------------------------------------------------------
+PID: 3148				Session ID: 0			Image Name: svchost.exe
+# Handles: 396				# Threads: 10
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 5.62 MB			Peak Pagefile Usage: 44.0 MB
+Working Set Size: 16.5 MB		Peak Working Set Size: 57.1 MB
+Quota Non-Paged Pool Usage: 19.3 KB	Quota Paged Pool Usage: 140 KB
+-------------------------------------------------------------------------------------
+PID: 8248				Session ID: 2			Image Name: VcxprojReader.exe
+# Handles: 243				# Threads: 3
+Virtual Size: 4.58 GB			Peak Virtual Size: 4.60 GB
+Pagefile Usage: 26.6 MB			Peak Pagefile Usage: 26.9 MB
+Working Set Size: 19.9 MB		Peak Working Set Size: 26.2 MB
+Quota Non-Paged Pool Usage: 15.8 KB	Quota Paged Pool Usage: 316 KB
+-------------------------------------------------------------------------------------
+PID: 10984				Session ID: 2			Image Name: conhost.exe
+# Handles: 105				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 6.14 MB			Peak Pagefile Usage: 6.20 MB
+Working Set Size: 5.13 MB		Peak Working Set Size: 10.4 MB
+Quota Non-Paged Pool Usage: 7.02 KB	Quota Paged Pool Usage: 118 KB
+-------------------------------------------------------------------------------------
+PID: 6628				Session ID: 2			Image Name: vcpkgsrv.exe
+# Handles: 186				# Threads: 7
+Virtual Size: 89.8 MB			Peak Virtual Size: 90.1 MB
+Pagefile Usage: 10.3 MB			Peak Pagefile Usage: 10.6 MB
+Working Set Size: 15.5 MB		Peak Working Set Size: 16.7 MB
+Quota Non-Paged Pool Usage: 13.9 KB	Quota Paged Pool Usage: 188 KB
+-------------------------------------------------------------------------------------
+PID: 12372				Session ID: 2			Image Name: vcpkgsrv.exe
+# Handles: 235				# Threads: 15
+Virtual Size: 1.11 GB			Peak Virtual Size: 1.11 GB
+Pagefile Usage: 149 MB			Peak Pagefile Usage: 150 MB
+Working Set Size: 154 MB		Peak Working Set Size: 155 MB
+Quota Non-Paged Pool Usage: 72.4 KB	Quota Paged Pool Usage: 197 KB
+-------------------------------------------------------------------------------------
+PID: 9736				Session ID: 2			Image Name: MSBuild.exe
+# Handles: 408				# Threads: 9
+Virtual Size: 4.61 GB			Peak Virtual Size: 4.68 GB
+Pagefile Usage: 43.5 MB			Peak Pagefile Usage: 57.0 MB
+Working Set Size: 54.5 MB		Peak Working Set Size: 62.8 MB
+Quota Non-Paged Pool Usage: 19.8 KB	Quota Paged Pool Usage: 348 KB
+-------------------------------------------------------------------------------------
+PID: 7492				Session ID: 2			Image Name: conhost.exe
+# Handles: 102				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 6.15 MB			Peak Pagefile Usage: 6.20 MB
+Working Set Size: 10.6 MB		Peak Working Set Size: 10.6 MB
+Quota Non-Paged Pool Usage: 7.28 KB	Quota Paged Pool Usage: 118 KB
+-------------------------------------------------------------------------------------
+PID: 10408				Session ID: 2			Image Name: MSBuild.exe
+# Handles: 347				# Threads: 7
+Virtual Size: 4.60 GB			Peak Virtual Size: 4.66 GB
+Pagefile Usage: 43.0 MB			Peak Pagefile Usage: 57.1 MB
+Working Set Size: 53.5 MB		Peak Working Set Size: 62.7 MB
+Quota Non-Paged Pool Usage: 19.2 KB	Quota Paged Pool Usage: 344 KB
+-------------------------------------------------------------------------------------
+PID: 1368				Session ID: 2			Image Name: conhost.exe
+# Handles: 102				# Threads: 2
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 6.15 MB			Peak Pagefile Usage: 6.21 MB
+Working Set Size: 10.5 MB		Peak Working Set Size: 10.6 MB
+Quota Non-Paged Pool Usage: 7.28 KB	Quota Paged Pool Usage: 118 KB
+-------------------------------------------------------------------------------------
+PID: 13180				Session ID: 2			Image Name: SearchProtocolHost.exe
+# Handles: 270				# Threads: 6
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.76 MB			Peak Pagefile Usage: 1.89 MB
+Working Set Size: 7.48 MB		Peak Working Set Size: 7.89 MB
+Quota Non-Paged Pool Usage: 9.42 KB	Quota Paged Pool Usage: 141 KB
+-------------------------------------------------------------------------------------
+PID: 5824				Session ID: 0			Image Name: SearchFilterHost.exe
+# Handles: 143				# Threads: 3
+Virtual Size: 2.00 TB			Peak Virtual Size: 2.00 TB
+Pagefile Usage: 1.40 MB			Peak Pagefile Usage: 1.60 MB
+Working Set Size: 6.99 MB		Peak Working Set Size: 7.05 MB
+Quota Non-Paged Pool Usage: 7.96 KB	Quota Paged Pool Usage: 98.3 KB
+-------------------------------------------------------------------------------------
