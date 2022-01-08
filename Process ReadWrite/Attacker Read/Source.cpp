@@ -2,8 +2,8 @@
 
 INT main(DWORD argc, PCHAR argv[]) {
 	// Validate command line arguments
-	if (argc < 3) {
-		printf("Usage: %s <PID> <Base Address>\n", argv[0]);
+	if (argc < 4) {
+		printf("Usage: %s <PID> <Base Address> <Length>\n", argv[0]);
 		return 0x1;
 	}
 
@@ -13,9 +13,9 @@ INT main(DWORD argc, PCHAR argv[]) {
 	}
 	
 	// Perform argument conversions
-	DWORD  dwPID = atoi(argv[1]);
+	DWORD dwPID = atoi(argv[1]);
+	DWORD dwBuffLen = atoi(argv[3]);
 	LONGLONG addr;
-	CHAR buffer[100];
 	SIZE_T bytesRead;
 	StrToInt64ExA(argv[2], STIF_SUPPORT_HEX, &addr);
 
@@ -25,13 +25,19 @@ INT main(DWORD argc, PCHAR argv[]) {
 		PrintError("OpenProcess()", TRUE);
 	}
 
-	printf("Reading Address: 0x%I64X of PID %d\n", addr, dwPID);
-	memset(buffer, 0x0, 100);
+	std::cout << "Reading Address: " << argv[2] << " of PID=" << dwPID << std::endl;
+	
+	// Allocate the buffer for amount you want to read
+	LPSTR lpBuffer = (LPSTR)VirtualAlloc(nullptr, dwBuffLen + 1, MEM_COMMIT | MEM_RESERVE, PAGE_READWRITE);
 
 	// Read memory and store the data in the buffer
-	if (!ReadProcessMemory(hProc, (LPCVOID)addr, (LPVOID)buffer, 95, &bytesRead)) {
-		PrintError("ReadProcessMemory()", TRUE);
+	if (!ReadProcessMemory(hProc, (LPCVOID)addr, (LPVOID)lpBuffer, 95, &bytesRead)) {
+		PrintError("ReadProcessMemory()", FALSE);
 	} else {
-		printf("Success! Read: %s\n", buffer);
+		std::cout << "Success! Buffer Read: " << lpBuffer << std::endl;
 	}
+
+	// Free the buffer
+	VirtualFree(lpBuffer, 0x0, MEM_RELEASE);
+	lpBuffer = nullptr;
 }
