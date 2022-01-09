@@ -16,8 +16,8 @@ INT main(DWORD argc, PCHAR argv[]) {
 	std::cout << "=====================================\n";
 	std::cout << "       Variables before Tamper       \n";
 	std::cout << "=====================================\n\n";
-	std::cout << "Argument address: 0x" << std::hex << &argv[1] << "\t\t\tArgument Value: " << argv[1] << std::endl;
-	std::cout << "Buffer address:   0x" << std::hex << (PVOID)&lpBuff[0] << "\t\t\tBuffer Value: " << lpBuff << std::endl;
+	std::cout << "Argument address: 0x" << std::hex << (PVOID)argv[1] << "\t\t\tArgument Value: " << argv[1] << std::endl;
+	std::cout << "Buffer address:   0x" << std::hex << (PVOID)lpBuff << "\t\t\tBuffer Value: " << lpBuff << std::endl;
 	std::cout << "Length of Chars: " << std::dec << txtLen << std::endl;
 
 	system("pause");
@@ -25,6 +25,6 @@ INT main(DWORD argc, PCHAR argv[]) {
 	std::cout << "=====================================\n";
 	std::cout << "       Variables after Tamper        \n";
 	std::cout << "=====================================\n\n";
-	std::cout << "Argument address: 0x" << std::hex << &argv[1] << "\t\t\tArgument Value: " << argv[1] << std::endl;
-	std::cout << "Buffer address: 0x" << std::hex << (PVOID)&lpBuff[0] << "\t\t\tBuffer Value: " << lpBuff << std::endl;
+	std::cout << "Argument address: 0x" << std::hex << (PVOID)argv[1] << "\t\t\tArgument Value: " << argv[1] << std::endl;
+	std::cout << "Buffer address: 0x" << std::hex << (PVOID)lpBuff << "\t\t\tBuffer Value: " << lpBuff << std::endl;
 }
