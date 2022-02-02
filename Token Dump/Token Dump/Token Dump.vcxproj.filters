@@ -69,6 +69,15 @@
     <ClInclude Include="TokenPolicy.h">
       <Filter>Header Files\Token Classes</Filter>
     </ClInclude>
+    <ClInclude Include="TokenSessionId.h">
+      <Filter>Header Files\Token Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="TokenStatistics.h">
+      <Filter>Header Files\Token Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="TokenSandBoxInert.h">
+      <Filter>Header Files\Token Classes</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">

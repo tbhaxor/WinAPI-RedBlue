@@ -33,6 +33,8 @@ INT wmain(DWORD argc, PCWSTR* argv) {
 	}
 
 	// Print all the token information
+	PrintTokenSessionId(hTok);
+	PrintTokenStatistics(hTok);
 	PrintTokenUser(hTok);
 	PrintTokenGroup(hTok);
 	PrintTokenPrivilege(hTok);
@@ -45,6 +47,7 @@ INT wmain(DWORD argc, PCWSTR* argv) {
 	PrintTokenVirtualization(hTok);
 	PrintTokenUIAccess(hTok);
 	PrintTokenPolicy(hTok);
+	PrintTokenSandboxInert(hTok);
 
 	// Close handlers and release memory
 	CloseHandle(hProc);

@@ -143,6 +143,9 @@
     <ClInclude Include="ErrorHandling.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="TokenPolicy.h" />
+    <ClInclude Include="TokenSandBoxInert.h" />
+    <ClInclude Include="TokenSessionId.h" />
+    <ClInclude Include="TokenStatistics.h" />
     <ClInclude Include="TokenUIAccess.h" />
     <ClInclude Include="TokenVirtualization.h" />
     <ClInclude Include="ProcessDetails.h" />
