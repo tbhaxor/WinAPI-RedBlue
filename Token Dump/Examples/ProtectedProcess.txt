@@ -1,5 +1,0 @@
-[+] Basic Process Details
-	Process ID: 2560
-	Parent Process ID: 704
-	Process Name: svchost.exe
-[ERR:5] OpenProcessToken(): Access is denied.
