@@ -17,7 +17,9 @@ VOID PrintTokenSource(HANDLE hTok) {
 		return;
 	}
 
-	std::cout << "[+] Token Source: " << ts->SourceName << std::endl;
+	std::cout << "[+] Token Source " << std::endl;
+	std::cout << "\tSource Name: " << ts->SourceName << std::endl;
+	std::cout << "\tSource ID: " << std::hex << std::uppercase << ts->SourceIdentifier.HighPart << "-" << ts->SourceIdentifier.LowPart << std::nouppercase << std::dec << std::endl;
 
 	VirtualFree(ts, 0x0, MEM_RELEASE);
 	ts = nullptr;
