@@ -44,9 +44,6 @@ INT wmain(DWORD argc, PCWSTR* argv) {
 	PrintTokenType(hTok);
 	PrintTokenElevation(hTok);
 	PrintTokenIsRestricted(hTok);
-	PrintTokenVirtualization(hTok);
-	PrintTokenUIAccess(hTok);
-	PrintTokenPolicy(hTok);
 	PrintTokenSandboxInert(hTok);
 
 	// Close handlers and release memory
