@@ -11,7 +11,7 @@ INT main(DWORD argc, PCHAR argv[]) {
 	std::cout << "Process ID: " << GetCurrentProcessId() << std::endl;
 	
 	LPSTR lpBuff = (LPSTR)VirtualAlloc(nullptr, txtLen, MEM_COMMIT | MEM_RESERVE, PAGE_READWRITE);
-	memcpy(lpBuff, argv[1], txtLen);
+	CopyMemory(lpBuff, argv[1], txtLen);
 
 	std::cout << "=====================================\n";
 	std::cout << "       Variables before Tamper       \n";
