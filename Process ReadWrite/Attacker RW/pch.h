@@ -1,10 +1,14 @@
 #pragma once
+
+#pragma once
 #include <Windows.h>
 #include <errhandlingapi.h>
 #include <iostream>
 #include <Shlwapi.h>
 
 #pragma comment(lib, "Shlwapi.lib")
+
+constexpr DWORD PAGE_SIZE = 1 << 12;
 
 /// <summary>
 /// Format the error message and print the human-readable message from GetLastError()

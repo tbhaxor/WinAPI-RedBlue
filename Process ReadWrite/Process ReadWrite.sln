@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Attacker Read", "Attacker R
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Attacker Write", "Attacker Write\Attacker Write.vcxproj", "{5CE0D55C-9827-4A60-AEF2-DE4768B38846}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Attacker RW", "Attacker RW\Attacker RW.vcxproj", "{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{5CE0D55C-9827-4A60-AEF2-DE4768B38846}.Release|x64.Build.0 = Release|x64
 		{5CE0D55C-9827-4A60-AEF2-DE4768B38846}.Release|x86.ActiveCfg = Release|Win32
 		{5CE0D55C-9827-4A60-AEF2-DE4768B38846}.Release|x86.Build.0 = Release|Win32
+		{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}.Debug|x64.ActiveCfg = Debug|x64
+		{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}.Debug|x64.Build.0 = Debug|x64
+		{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}.Debug|x86.Build.0 = Debug|Win32
+		{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}.Release|x64.ActiveCfg = Release|x64
+		{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}.Release|x64.Build.0 = Release|x64
+		{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}.Release|x86.ActiveCfg = Release|Win32
+		{EAF4DD74-916D-475D-A7DE-BB1B7AB48E33}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

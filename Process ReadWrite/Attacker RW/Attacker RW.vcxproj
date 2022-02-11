@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5ce0d55c-9827-4a60-aef2-de4768b38846}</ProjectGuid>
-    <RootNamespace>AttackerWrite</RootNamespace>
+    <ProjectGuid>{eaf4dd74-916d-475d-a7de-bb1b7ab48e33}</ProjectGuid>
+    <RootNamespace>AttackerRW</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
