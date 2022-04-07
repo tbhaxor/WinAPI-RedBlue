@@ -101,4 +101,6 @@ INT main(INT argc, LPSTR argv[]) {
     CloseHandle(hProcess);
     CloseHandle(hThread);
     hProcess = hThread = nullptr;
+
+    return 0x0;
 }
