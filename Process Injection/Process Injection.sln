@@ -7,6 +7,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateRemoteThread DLL", "C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateRemoteThread Shellcode", "CreateRemoteThread Shellcode\CreateRemoteThread Shellcode.vcxproj", "{66704FF5-8962-42FA-8B22-51D207A0853F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "APC Thread Injection", "APC Thread Injection\APC Thread Injection.vcxproj", "{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreateRemoteThread Technique", "CreateRemoteThread Technique", "{7C391A38-3479-4A98-8100-6F9B971AD355}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APC Thread Technique", "APC Thread Technique", "{84601031-D80B-4FAF-A867-E5D704C2DC1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Targets", "Targets", "{BC4A74AB-0310-47DD-8F47-C3839B091687}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlertableSleep", "AlertableSleep\AlertableSleep.vcxproj", "{7C958BA4-4EBB-4381-BE12-B780F15B2D35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,9 +41,31 @@ Global
 		{66704FF5-8962-42FA-8B22-51D207A0853F}.Release|x64.Build.0 = Release|x64
 		{66704FF5-8962-42FA-8B22-51D207A0853F}.Release|x86.ActiveCfg = Release|Win32
 		{66704FF5-8962-42FA-8B22-51D207A0853F}.Release|x86.Build.0 = Release|Win32
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}.Debug|x64.ActiveCfg = Debug|x64
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}.Debug|x64.Build.0 = Debug|x64
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}.Debug|x86.Build.0 = Debug|Win32
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}.Release|x64.ActiveCfg = Release|x64
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}.Release|x64.Build.0 = Release|x64
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}.Release|x86.ActiveCfg = Release|Win32
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB}.Release|x86.Build.0 = Release|Win32
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35}.Debug|x64.ActiveCfg = Debug|x64
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35}.Debug|x64.Build.0 = Debug|x64
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35}.Debug|x86.Build.0 = Debug|Win32
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35}.Release|x64.ActiveCfg = Release|x64
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35}.Release|x64.Build.0 = Release|x64
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35}.Release|x86.ActiveCfg = Release|Win32
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4AEEC15D-90B6-4040-BC62-2ACF7EF347D8} = {7C391A38-3479-4A98-8100-6F9B971AD355}
+		{66704FF5-8962-42FA-8B22-51D207A0853F} = {7C391A38-3479-4A98-8100-6F9B971AD355}
+		{98EBCC7B-5E31-4D4F-9554-EB380F6773AB} = {84601031-D80B-4FAF-A867-E5D704C2DC1F}
+		{7C958BA4-4EBB-4381-BE12-B780F15B2D35} = {BC4A74AB-0310-47DD-8F47-C3839B091687}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F7CADB2F-2F2E-4A25-9771-DEF7C05374A5}
