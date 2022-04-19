@@ -24,6 +24,8 @@ LPTHREAD_STACK GetProcessThreads(DWORD dwPID) {
 
 	HANDLE hThread = NULL;
 
+	
+
 	LPTHREAD_STACK lpThreads = new THREAD_STACK();
 	do {
 		if (te.th32OwnerProcessID == dwPID) {

