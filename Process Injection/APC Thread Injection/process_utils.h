@@ -6,9 +6,8 @@
 
 typedef std::stack<HANDLE*> THREAD_STACK;
 typedef THREAD_STACK* PTHREAD_STACK;
-typedef THREAD_STACK* LPTHREAD_STACK;
 
-LPTHREAD_STACK GetProcessThreads(DWORD dwPID) {
+PTHREAD_STACK GetProcessThreads(DWORD dwPID) {
 	HANDLE hSnapshot = CreateToolhelp32Snapshot(TH32CS_SNAPTHREAD, 0x0);
 	if (hSnapshot == INVALID_HANDLE_VALUE) {
 		return nullptr;
@@ -24,9 +23,9 @@ LPTHREAD_STACK GetProcessThreads(DWORD dwPID) {
 
 	HANDLE hThread = NULL;
 
-	
 
-	LPTHREAD_STACK lpThreads = new THREAD_STACK();
+
+	PTHREAD_STACK lpThreads = new THREAD_STACK();
 	do {
 		if (te.th32OwnerProcessID == dwPID) {
 			hThread = OpenThread(THREAD_SET_CONTEXT, FALSE, te.th32ThreadID);

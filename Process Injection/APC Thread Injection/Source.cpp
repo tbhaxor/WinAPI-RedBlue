@@ -72,12 +72,12 @@ INT main(INT argc, LPSTR argv[]) {
 	if (lpBuffer == nullptr) {
 		PrintError("VirtualAllocEx()", TRUE);
 	}
-	
+
 	if (!WriteProcessMemory(hProcess, lpBuffer, (LPCVOID)buf, 449, nullptr)) {
 		PrintError("WriteProcessMemory()", TRUE);
 	}
 
-	LPTHREAD_STACK lpThreads = GetProcessThreads(dwPID);
+	PTHREAD_STACK lpThreads = GetProcessThreads(dwPID);
 	if (lpThreads == nullptr || lpThreads->size() == 0x0) {
 		PrintError("GetProcessThreads()", TRUE);
 	}
