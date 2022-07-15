@@ -27,7 +27,7 @@ INT _tmain(INT argc, TCHAR argv[]) {
 
 	_tprintf(_T("Continue main function, about add callback to apc queue!\n"));
 
-	Sleep(4999.1); // increase time (same as sleep of the thread) and the thread sleepex will timeout
+	Sleep(4999); // increase time (same as sleep of the thread) and the thread sleepex will timeout
 
 	if (!QueueUserAPC(Callback, hThread, (ULONG_PTR)dThreadId)) {
 		_tprintf(_T("[%d] APC not called\n"), GetLastError());
